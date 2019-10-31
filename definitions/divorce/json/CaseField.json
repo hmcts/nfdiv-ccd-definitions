@@ -3767,7 +3767,8 @@
     "CaseTypeID": "DIVORCE",
     "ID": "ClarificationDigital",
     "Label": "Is the DN clarification sent digitally (online) or not?",
-    "FieldType": "YesOrNo",
+    "FieldType": "Collection",
+    "FieldTypeParameter": "Text",
     "SecurityClassification": "Public"
   }
 ]
