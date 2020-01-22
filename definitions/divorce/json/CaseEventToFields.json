@@ -257,6 +257,18 @@
   {
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "DIVORCE",
+    "CaseEventID": "issueFromSubmitted",
+    "CaseFieldID": "LanguagePreferenceWelsh",
+    "PageFieldDisplayOrder": 6,
+    "DisplayContext": "OPTIONAL",
+    "PageID": "submitted",
+    "PageLabel": "Issue from Submitted",
+    "PageDisplayOrder": 1,
+    "ShowSummaryChangeOption": "No"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "DIVORCE",
     "CaseEventID": "updateDueDate",
     "CaseFieldID": "dueDate",
     "PageFieldDisplayOrder": 1,
