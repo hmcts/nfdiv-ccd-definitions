@@ -26,9 +26,9 @@
   {
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "DIVORCE",
-    "ID": "boTranslationReceivedFromWLU",
-    "Name": "Translation Received from WLU",
-    "Description": "Resolve the Petition submitted, Awaiting Translation Received ",
+    "ID": "boTransistionToSubmitted",
+    "Name": "Welsh Transistion To Submitted",
+    "Description": "Welsh Transistion To Submitted",
     "DisplayOrder": 32,
     "PreConditionState(s)": "BOTranslationRequested",
     "PostConditionState": "Submitted",
