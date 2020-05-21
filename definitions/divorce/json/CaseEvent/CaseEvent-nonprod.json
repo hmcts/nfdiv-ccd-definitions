@@ -2,7 +2,7 @@
   {
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "DIVORCE",
-    "ID": "UpdateLanguage",
+    "ID": "updateLanguage",
     "Name": "Update Language",
     "Description": "Update Language",
     "DisplayOrder": 12,
@@ -19,6 +19,7 @@
     "DisplayOrder": 23,
     "PreConditionState(s)": "Submitted;PendingRejection",
     "PostConditionState": "BOTranslationRequested",
+    "CallBackURLSubmittedEvent": "${CCD_DEF_COS_URL}/welshSetNextEventToSubmitted",
     "SecurityClassification": "Public",
     "ShowSummary": "N"
   },
@@ -33,6 +34,17 @@
     "PostConditionState": "Submitted",
     "SecurityClassification": "Public",
     "ShowSummary": "N"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "DIVORCE",
+    "ID": "updateNextWelshCaseEvent",
+    "Name": "Update Next Welsh Case Event",
+    "Description": "Update Next Welsh Case Event",
+    "DisplayOrder": 12,
+    "PreConditionState(s)": "BOTranslationRequested",
+    "PostConditionState": "BOTranslationRequested",
+    "SecurityClassification": "Public"
   },
   {
     "LiveFrom": "01/01/2017",
@@ -63,7 +75,7 @@
     "Name": "Welsh Translation Resolved",
     "Description": "Welsh Translation Resolved",
     "DisplayOrder": 2,
-    "PreConditionState(s)": "BOTranslationRequestedAuto",
+    "PreConditionState(s)": "BOTranslationRequestedAuto;BOTranslationRequested",
     "PostConditionState": "*",
     "CallBackURLSubmittedEvent": "${CCD_DEF_COS_URL}/welsh-continue",
     "RetriesTimeoutURLAboutToSubmitEvent": "120,120",

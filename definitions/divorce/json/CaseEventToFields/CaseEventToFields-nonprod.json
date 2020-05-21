@@ -14,7 +14,7 @@
   {
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "DIVORCE",
-    "CaseEventID": "UpdateLanguage",
+    "CaseEventID": "updateLanguage",
     "CaseFieldID": "LanguagePreferenceWelsh",
     "PageFieldDisplayOrder": 1,
     "DisplayContext": "OPTIONAL",
