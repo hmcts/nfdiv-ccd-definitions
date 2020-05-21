@@ -459,55 +459,55 @@
     "CaseTypeID": "DIVORCE",
     "CaseEventID": "updateNextWelshCaseEvent",
     "UserRole": "caseworker-divorce-courtadmin_beta",
-    "CRUD": "CRU"
+    "CRUD": "CU"
   },
   {
     "LiveFrom": "09/11/2018",
     "CaseTypeID": "DIVORCE",
     "CaseEventID": "updateNextWelshCaseEvent",
     "UserRole": "citizen",
-    "CRUD": "CRU"
+    "CRUD": "CU"
   },
   {
     "LiveFrom": "09/11/2018",
     "CaseTypeID": "DIVORCE",
     "CaseEventID": "updateNextWelshCaseEvent",
     "UserRole": "caseworker-divorce-superuser",
-    "CRUD": "CRU"
+    "CRUD": "CU"
   },
   {
     "LiveFrom": "23/05/2019",
     "CaseTypeID": "DIVORCE",
     "CaseEventID": "updateNextWelshCaseEvent",
     "UserRole": "caseworker-divorce-courtadmin-la",
-    "CRUD": "CRU"
+    "CRUD": "CU"
   },
   {
     "LiveFrom": "25/06/2019",
     "CaseTypeID": "DIVORCE",
     "CaseEventID": "updateNextWelshCaseEvent",
     "UserRole": "caseworker-divorce-solicitor",
-    "CRUD": "CRU"
+    "CRUD": "CU"
   },
   {
     "LiveFrom": "18/12/2019",
     "CaseTypeID": "DIVORCE",
     "CaseEventID": "updateNextWelshCaseEvent",
     "UserRole": "caseworker-divorce-bulkscan",
-    "CRUD": "CRU"
+    "CRUD": "CU"
   },
   {
     "LiveFrom": "18/12/2019",
     "CaseTypeID": "DIVORCE",
     "CaseEventID": "updateNextWelshCaseEvent",
     "UserRole": "caseworker-divorce-courtadmin",
-    "CRUD": "CRU"
+    "CRUD": "CU"
   },
   {
     "LiveFrom": "18/12/2019",
     "CaseTypeID": "DIVORCE",
     "CaseEventID": "updateNextWelshCaseEvent",
     "UserRole": "caseworker-divorce-systemupdate",
-    "CRUD": "CRU"
+    "CRUD": "CU"
   }
 ]
