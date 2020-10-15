@@ -2156,7 +2156,7 @@
     "SecurityClassification": "Public"
   },
   {
-    "LiveFrom": "01/01/2017",
+    "LiveFrom": "01/01/2017 ",
     "CaseTypeID": "DIVORCE",
     "ID": "RespEmailAddress",
     "Label": "Respondent's email address",
