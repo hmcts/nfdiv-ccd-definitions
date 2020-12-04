@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "ScheduledForCreate",
     "Name": "BulkCase scheduled for create",
     "Description": "BulkCase scheduled for create",
@@ -9,7 +9,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "Created",
     "Name": "Bulk case list created",
     "Description": "Bulk case list created",
@@ -17,7 +17,7 @@
   },
   {
     "LiveFrom": "02/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "ScheduledForListing",
     "Name": "Bulk case list scheduled",
     "Description": "Bulk case list scheduled to process the cases",
@@ -25,7 +25,7 @@
   },
   {
     "LiveFrom": "03/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "Listed",
     "Name": "Bulk case list listed",
     "Description": "Bulk case list listed",
@@ -33,7 +33,7 @@
   },
   {
     "LiveFrom": "02/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "ScheduledForPronouncement",
     "Name": "Bulk case pronouncement scheduled",
     "Description": "Bulk case list scheduled for pronouncement",
@@ -41,7 +41,7 @@
   },
   {
     "LiveFrom": "03/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "DNPronounced",
     "Name": "Bulk case pronounced",
     "Description": "Bulk case pronounced",
@@ -49,7 +49,7 @@
   },
   {
     "LiveFrom": "03/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "Dropped",
     "Name": "Bulk case dropped",
     "Description": "Bulk case dropped",
@@ -57,7 +57,7 @@
   },
   {
     "LiveFrom": "03/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "ScheduledCancelPronouncement",
     "Name": "Scheduled Cancel Pronouncement",
     "Description": "Schedule case to cancel pronouncment",

@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseEventID": "create",
     "CaseFieldID": "CaseAcceptedList",
     "PageID": "CreateCase",
@@ -13,7 +13,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseEventID": "scheduleForListing",
     "CaseFieldID": "CourtName",
     "PageID": "ScheduleCase",
@@ -25,7 +25,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseEventID": "scheduleForListing",
     "CaseFieldID": "hearingDate",
     "PageID": "ScheduleCase",
@@ -37,7 +37,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseEventID": "scheduleForListing",
     "CaseFieldID": "CaseAcceptedList",
     "PageID": "ScheduleCase",
@@ -49,7 +49,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseEventID": "printForPronouncement",
     "CaseFieldID": "PronouncementJudge",
     "PageID": "PrintForPronouncement",
@@ -61,7 +61,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseEventID": "editBulkCase",
     "CaseFieldID": "CourtName",
     "PageID": "EditListedBulkCase",
@@ -73,7 +73,7 @@
   },
   {
     "LiveFrom": "01/07/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseEventID": "editBulkCase",
     "CaseFieldID": "hearingDate",
     "PageID": "EditListedBulkCase",
@@ -85,7 +85,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseEventID": "removeFromListed",
     "CaseFieldID": "CaseAcceptedList",
     "PageID": "editAcceptedList",
@@ -97,7 +97,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseEventID": "scheduleForPronouncement",
     "CaseFieldID": "PronouncementJudge",
     "PageID": "SchedulePronouncement",
@@ -109,7 +109,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseEventID": "scheduleForPronouncement",
     "CaseFieldID": "HasJudgePronounced",
     "PageID": "SchedulePronouncement",

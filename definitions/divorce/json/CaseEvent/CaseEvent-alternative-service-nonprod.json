@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "30/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "serveByAlternativeMethod",
     "Name": "Serve by alternative method",
     "Description": "Serve by alternative method",
@@ -12,7 +12,7 @@
   },
   {
     "LiveFrom": "30/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "requestDWPDisclosure",
     "Name": "Request DWP disclosure",
     "Description": "Request DWP disclosure",
@@ -23,7 +23,7 @@
   },
   {
     "LiveFrom": "03/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "reissueFromAwaitingDWPResponse",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
@@ -36,7 +36,7 @@
   },
   {
     "LiveFrom": "03/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "reissue",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
@@ -50,7 +50,7 @@
   },
   {
     "LiveFrom": "03/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "confirmAlternativeService",
     "Name": "Confirm alternative service",
     "Description": "Confirm alternative service",
@@ -63,7 +63,7 @@
   },
   {
     "LiveFrom": "01/12/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "aosNotReceivedForAltMethod",
     "Name": "Move to awaiting DN",
     "Description": "Move to awaiting DN",
