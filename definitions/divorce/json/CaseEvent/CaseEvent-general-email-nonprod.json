@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "27/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "createGeneralEmail",
     "Name": "Create general email",
     "Description": "Create general email",

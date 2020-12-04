@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "13/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferral",
     "CaseFieldID": "GeneralReferralReason",
     "PageFieldDisplayOrder": 1,
@@ -13,7 +13,7 @@
   },
   {
     "LiveFrom": "13/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferral",
     "CaseFieldID": "GeneralApplicationFrom",
     "PageFieldDisplayOrder": 2,
@@ -26,7 +26,7 @@
   },
   {
     "LiveFrom": "13/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferral",
     "CaseFieldID": "GeneralApplicationReferralDate",
     "PageFieldDisplayOrder": 3,
@@ -38,7 +38,7 @@
   },
   {
     "LiveFrom": "13/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferral",
     "CaseFieldID": "GeneralReferralType",
     "PageFieldDisplayOrder": 4,
@@ -50,7 +50,7 @@
   },
   {
     "LiveFrom": "13/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferral",
     "CaseFieldID": "AlternativeServiceMedium",
     "PageFieldDisplayOrder": 5,
@@ -63,7 +63,7 @@
   },
   {
     "LiveFrom": "13/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferral",
     "CaseFieldID": "GeneralReferralDetails",
     "PageFieldDisplayOrder": 6,
@@ -75,7 +75,7 @@
   },
   {
     "LiveFrom": "13/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferral",
     "CaseFieldID": "GeneralReferralFee",
     "PageFieldDisplayOrder": 7,
@@ -87,7 +87,7 @@
   },
   {
     "LiveFrom": "19/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalConsideration",
     "CaseFieldID": "GeneralReferralDecision",
     "PageFieldDisplayOrder": 1,
@@ -99,7 +99,7 @@
   },
   {
     "LiveFrom": "19/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalConsideration",
     "CaseFieldID": "GeneralReferralDecisionReason",
     "PageFieldDisplayOrder": 2,
@@ -111,7 +111,7 @@
   },
   {
     "LiveFrom": "22/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "ReferralAmountToPayGeneralLabel",
     "PageFieldDisplayOrder": 1,
@@ -123,7 +123,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "GeneralReferralPaymentType",
     "PageFieldDisplayOrder": 2,
@@ -134,7 +134,7 @@
   },
   {
     "LiveFrom": "23/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "FeeAccountReferenceNumber",
     "PageFieldDisplayOrder": 3,
@@ -146,7 +146,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "FeeAccountReference",
     "PageFieldDisplayOrder": 4,
@@ -158,7 +158,7 @@
   },
   {
     "LiveFrom": "23/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "HelpWithFeesReferenceNumber",
     "PageFieldDisplayOrder": 3,
@@ -170,7 +170,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "generalReferralWithoutNoticeFeeSummary",
     "PageFieldDisplayOrder": 1,
@@ -181,7 +181,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "PaymentFeeAccountLabel",
     "PageFieldDisplayOrder": 2,
@@ -193,7 +193,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "LabelPBAReference",
     "PageFieldDisplayOrder": 3,
@@ -205,7 +205,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "LabelPBANumber",
     "PageFieldDisplayOrder": 4,
@@ -217,7 +217,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "LabelHWFReference",
     "PageFieldDisplayOrder": 4,
@@ -229,7 +229,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "PaymentTelephoneLabel",
     "PageFieldDisplayOrder": 2,
@@ -241,7 +241,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "generalReferralPayment",
     "CaseFieldID": "PaymentChequeLabel",
     "PageFieldDisplayOrder": 2,
@@ -253,7 +253,7 @@
   },
   {
     "LiveFrom": "16/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "returnToStateBeforeGeneralReferral",
     "CaseFieldID": "LabelReturnToPreviousStatePara-1",
     "PageFieldDisplayOrder": 1,
@@ -264,7 +264,7 @@
   },
   {
     "LiveFrom": "16/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "returnToStateBeforeGeneralReferral",
     "CaseFieldID": "LabelReturnToPreviousStatePara-2",
     "PageFieldDisplayOrder": 2,
