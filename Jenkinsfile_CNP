@@ -65,9 +65,9 @@ withPipeline("nodejs", product, component) {
     }
 
     steps.archiveArtifacts allowEmptyArchive: true, artifacts: 'definitions/**/xlsx/*.xlsx'
-    env.CCD_ADMIN_URL="https://admin-web-div-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal"
-    env.CCD_DATA_API_URL="http://ccd-data-store-api-div-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal"
-    env.CCD_WEB_URL="https://case-management-web-div-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal/v2/case/"
+    env.CCD_ADMIN_URL="https://admin-web-nfdiv-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal"
+    env.CCD_DATA_API_URL="http://ccd-data-store-api-nfdiv-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal"
+    env.CCD_WEB_URL="https://case-management-web-nfdiv-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal/v2/case/"
     env.IMPORT_PROD_LIKE=true
   }
 
