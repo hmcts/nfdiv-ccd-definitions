@@ -7,27 +7,27 @@
   "license": "MIT",
   "private": true,
   "engines": {
-    "node": ">=11.10.1"
+    "node": ">=12.0.0"
   },
   "config": {
     "local": {
-      "cosUrl": "http://host.docker.internal:4012",
+      "cosUrl": "http://nfdiv-cos:4012",
       "ccdUrl": "http://localhost:4452"
     },
     "demo": {
-      "cosUrl": "http://div-cos-demo.service.core-compute-demo.internal",
+      "cosUrl": "http://nfdiv-cos-demo.service.core-compute-demo.internal",
       "ccdUrl": "http://ccd-data-store-api-demo.service.core-compute-demo.internal"
     },
     "aat": {
-      "cosUrl": "http://div-cos-aat.service.core-compute-aat.internal",
+      "cosUrl": "http://nfdiv-cos-aat.service.core-compute-aat.internal",
       "ccdUrl": "http://ccd-data-store-api-aat.service.core-compute-aat.internal"
     },
     "ithc": {
-      "cosUrl": "http://div-cos-ithc.service.core-compute-ithc.internal",
+      "cosUrl": "http://nfdiv-cos-ithc.service.core-compute-ithc.internal",
       "ccdUrl": "http://ccd-data-store-api-ithc.service.core-compute-ithc.internal"
     },
     "prod": {
-      "cosUrl": "http://div-cos-prod.service.core-compute-prod.internal",
+      "cosUrl": "http://nfdiv-cos-prod.service.core-compute-prod.internal",
       "ccdUrl": "http://ccd-data-store-api-prod.service.core-compute-prod.internal"
     }
   },
