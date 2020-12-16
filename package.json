@@ -1,9 +1,9 @@
 {
-  "name": "div-ccd-definitions",
+  "name": "nfdiv-ccd-definitions",
   "version": "1.0.0",
   "description": "Utility to help creating CCD config definitions",
   "main": "index.js",
-  "repository": "git@github.com:hmcts/div-ccd-definitions.git",
+  "repository": "git@github.com:hmcts/nfdiv-ccd-definitions.git",
   "license": "MIT",
   "private": true,
   "engines": {
@@ -58,7 +58,7 @@
     "generate-bulk-excel-aat": "DIV_ENV=aat CCD_DEF_COS_URL=$npm_package_config_aat_cosUrl CCD_DEF_CCD_URL=$npm_package_config_aat_ccdUrl yarn run generate-bulk-excel",
     "generate-bulk-excel-ithc": "DIV_ENV=ithc CCD_DEF_COS_URL=$npm_package_config_ithc_cosUrl CCD_DEF_CCD_URL=$npm_package_config_ithc_ccdUrl yarn run generate-bulk-excel",
     "generate-bulk-excel-prod": "DIV_ENV=prod CCD_DEF_COS_URL=$npm_package_config_prod_cosUrl CCD_DEF_CCD_URL=$npm_package_config_prod_ccdUrl yarn run generate-bulk-excel",
-    "generate-bulk-excel": "yarn --cwd ccd-definition-processor json2xlsx -D ../definitions/bulk-action/json -o ../definitions/bulk-action/xlsx/ccd-div-bulk-action-config-${DIV_ENV:-base}.xlsx",
+    "generate-bulk-excel": "yarn --cwd ccd-definition-processor json2xlsx -D ../definitions/bulk-action/json -o ../definitions/bulk-action/xlsx/ccd-nfdiv-bulk-action-config-${DIV_ENV:-base}.xlsx",
     "generate-bulk-excel-all": "yarn generate-bulk-excel-local && yarn generate-bulk-excel-demo && yarn generate-bulk-excel-aat && yarn generate-bulk-excel-ithc && yarn generate-bulk-excel-prod"
   },
   "pre-commit": [
