@@ -2,7 +2,7 @@
   {
     "LiveFrom": "01/01/2019",
     "ID": "NO_FAULT_DIVORCE_BulkAction",
-    "Name": "Divorce bulk case - v0.9.13",
+    "Name": "No Fault Divorce bulk case",
     "Description": "Handling of the dissolution of marriage",
     "JurisdictionID": "DIVORCE",
     "PrintableDocumentsUrl": "${CCD_DEF_CCD_URL}/callback/jurisdictions/DIVORCE/case-types/NO_FAULT_DIVORCE_BulkAction/documents",
