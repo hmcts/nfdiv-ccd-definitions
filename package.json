@@ -7,11 +7,11 @@
   "license": "MIT",
   "private": true,
   "engines": {
-    "node": ">=11.10.1"
+    "node": ">=12.0.0"
   },
   "config": {
     "local": {
-      "cosUrl": "http://host.docker.internal:4012",
+      "cosUrl": "http://nfdiv-cos:4012",
       "ccdUrl": "http://localhost:4452"
     },
     "demo": {
