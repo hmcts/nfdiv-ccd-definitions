@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "25/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServedByAlternativeMethod",
     "Label": "Served by alternative method",
     "FieldType": "YesOrNo",

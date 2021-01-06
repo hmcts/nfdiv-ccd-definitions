@@ -11,5 +11,5 @@ exports.config = {
   include: { I: './steps_file.js' },
   bootstrap: null,
   mocha: {},
-  name: 'div-ccd-definitions'
+  name: 'nfdiv-ccd-definitions'
 };

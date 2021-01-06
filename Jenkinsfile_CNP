@@ -2,7 +2,7 @@
 
 @Library("Infrastructure")
 
-String product = "div"
+String product = "nfdiv"
 String component = "ccd-definitions"
 
 def yarnBuilder = new uk.gov.hmcts.contino.YarnBuilder(this)
@@ -20,7 +20,7 @@ def secrets = [
                 secret('ccd-admin-web-oauth2-client-secret', 'ADMIN_WEB_IDAM_SECRET'),
                 secret('postcode-info-address-lookup-token', 'ADDRESS_LOOKUP_TOKEN')
         ],
-        'div-${env}'      : [
+        'nfdiv-${env}'      : [
         secret('ccd-e2e-solicitor-email', 'USERNAME_SOLICITOR'),
         secret('ccd-e2e-solicitor-password', 'PASSWORD_SOLICITOR'),
         secret('ccd-e2e-caseworker-email', 'USERNAME_CASEWORKER'),
@@ -49,7 +49,7 @@ withPipeline("nodejs", product, component) {
       yarnBuilder.yarn('audit')
     } catch (error) {
       onMaster {
-        slackSend(channel: '#div-dev', color: 'warning', message: "Yarn Audit has detected vulnerabilities in ${env.JOB_NAME}. You can check if there are patches for them in the full report, build details here: <${env.RUN_DISPLAY_URL}|Build ${env.BUILD_DISPLAY_NAME}>.")
+        slackSend(channel: '#nf-divorce-tech', color: 'warning', message: "Yarn Audit has detected vulnerabilities in ${env.JOB_NAME}. You can check if there are patches for them in the full report, build details here: <${env.RUN_DISPLAY_URL}|Build ${env.BUILD_DISPLAY_NAME}>.")
       }
     }
   }
@@ -65,9 +65,9 @@ withPipeline("nodejs", product, component) {
     }
 
     steps.archiveArtifacts allowEmptyArchive: true, artifacts: 'definitions/**/xlsx/*.xlsx'
-    env.CCD_ADMIN_URL="https://admin-web-div-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal"
-    env.CCD_DATA_API_URL="http://ccd-data-store-api-div-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal"
-    env.CCD_WEB_URL="https://case-management-web-div-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal/v2/case/"
+    env.CCD_ADMIN_URL="https://admin-web-nfdiv-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal"
+    env.CCD_DATA_API_URL="http://ccd-data-store-api-nfdiv-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal"
+    env.CCD_WEB_URL="https://case-management-web-nfdiv-ccd-definitions-pr-${CHANGE_ID}.service.core-compute-preview.internal/v2/case/"
     env.IMPORT_PROD_LIKE=true
   }
 
@@ -90,6 +90,6 @@ withPipeline("nodejs", product, component) {
 
   after('functionalTest:aat') {
     steps.archiveArtifacts allowEmptyArchive: true, artifacts: 'test/functional/output/*'
-    slackSend(channel: '#div-ccd-thread-block', color: 'warning', message: "Master config has been uploaded to AAT. Build details here: <${env.RUN_DISPLAY_URL}|Build ${env.BUILD_DISPLAY_NAME}>.")
+    slackSend(channel: '#nfdiv-ccd-thread-block', color: 'warning', message: "Master config has been uploaded to AAT. Build details here: <${env.RUN_DISPLAY_URL}|Build ${env.BUILD_DISPLAY_NAME}>.")
   }
 }
