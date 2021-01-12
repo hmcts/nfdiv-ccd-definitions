@@ -2594,22 +2594,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-<<<<<<< HEAD
     "CaseTypeID": "NO_FAULT_DIVORCE",
-    "ID": "boWelshReview",
-    "Name": "Welsh Translation Review",
-    "Description": "Welsh Translation Review",
-    "DisplayOrder": 2,
-    "PreConditionState(s)": "AosStarted;AosOverdue",
-    "PostConditionState": "WelshResponseAwaitingReview",
-    "SecurityClassification": "Public"
-  },
-  {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
-=======
-    "CaseTypeID": "NO_FAULT_DIVORCE",
->>>>>>> b91d7fe5fe4f898b3a547d1e8b7724e96be943ad
     "ID": "boWelshDnReceivedReview",
     "Name": "Welsh Translation Review",
     "Description": "Welsh Translation Review",
