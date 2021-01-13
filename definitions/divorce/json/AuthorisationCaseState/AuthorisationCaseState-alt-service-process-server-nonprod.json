@@ -39,7 +39,7 @@
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseStateID": "AwaitingProcessServerService",
     "UserRole": "citizen",
-    "CRUD": "CRU"
+    "CRUD": "R"
   },
   {
     "LiveFrom": "12/11/2020",

@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "aosNotReceived",
     "Name": "AOS Not Received within SLA",
     "Description": "AOS Not Received within SLA",
@@ -14,7 +14,7 @@
   },
   {
     "LiveFrom": "15/09/2020",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "allowPetitionerToAmend",
     "Name": "Allow Petitioner to amend",
     "Description": "Allow Petitioner to amend",
@@ -27,7 +27,7 @@
   },
   {
     "LiveFrom": "29/06/2020",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "amendPetitionForRefusalSol",
     "Name": "Submit amended application",
     "Description": "Submit amended application",
@@ -40,7 +40,7 @@
   },
   {
     "LiveFrom": "20/09/2019",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "EnterAOSOffline_Respondent",
     "Name": "Received AOS offline-Resp",
     "Description": "Received AOS offline for respondent from AosAwaiting",
@@ -56,7 +56,7 @@
   },
   {
     "LiveFrom": "13/11/2018",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "aosReceivedNoAdConStarted",
     "Name": "AOS Received (no ad/con)",
     "Description": "AOS Received (no admission/consent)",
@@ -71,7 +71,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "aosSubmittedDefended",
     "Name": "AOS Submitted (defending)",
     "Description": "AOS Submitted (defending)",
@@ -86,7 +86,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "aosSubmittedUndefended",
     "Name": "AOS Received (undefended)",
     "Description": "AOS Received (undefended)",
@@ -101,7 +101,7 @@
   },
   {
     "LiveFrom": "01/03/2019",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "reissueFromRejected",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
@@ -115,7 +115,7 @@
   },
   {
     "LiveFrom": "01/03/2019",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "reissueFromIssued",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
@@ -129,7 +129,7 @@
   },
   {
     "LiveFrom": "01/03/2019",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "reissueFromAosAwaiting",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
@@ -143,7 +143,7 @@
   },
   {
     "LiveFrom": "01/03/2019",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseTypeID": "DIVORCE",
     "ID": "reissueFromAosStarted",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
@@ -154,27 +154,5 @@
     "RetriesTimeoutURLAboutToSubmitEvent": "120,120",
     "SecurityClassification": "Public",
     "ShowSummary": "Y"
-  },
-  {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
-    "ID": "startAos",
-    "Name": "AOS started",
-    "Description": "AOS started",
-    "DisplayOrder": 1,
-    "PreConditionState(s)": "AosAwaiting",
-    "PostConditionState": "AosStarted",
-    "SecurityClassification": "Public"
-  },
-  {
-    "LiveFrom": "01/01/2017",
-    "CaseTypeID": "NO_FAULT_DIVORCE",
-    "ID": "boWelshReview",
-    "Name": "Welsh Translation Review",
-    "Description": "Welsh Translation Review",
-    "DisplayOrder": 2,
-    "PreConditionState(s)": "AosStarted;AosOverdue",
-    "PostConditionState": "WelshResponseAwaitingReview",
-    "SecurityClassification": "Public"
   }
 ]
