@@ -212,7 +212,7 @@
   },
   {
     "LiveFrom": "12/01/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LastServiceApplication",
     "Label": "Last service application",
     "FieldType": "DivorceServiceApplication",
