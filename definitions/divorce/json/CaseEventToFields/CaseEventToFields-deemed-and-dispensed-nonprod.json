@@ -277,5 +277,19 @@
     "PageColumnNumber": 1,
     "FieldShowCondition": "DNApplyForDecreeNisi=\"Nevershow\"",
     "ShowSummaryChangeOption": "No"
+  },
+  {
+    "LiveFrom": "12/01/2021",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseEventID": "solicitorApplyForDN",
+    "CaseFieldID": "LastServiceApplication",
+    "PageFieldDisplayOrder": 5,
+    "DisplayContext": "READONLY",
+    "PageID": "dnreviewaos",
+    "PageLabel": "Review Acknowledgement of Service",
+    "PageDisplayOrder": 1,
+    "PageColumnNumber": 1,
+    "FieldShowCondition": "DNApplyForDecreeNisi=\"Nevershow\"",
+    "ShowSummaryChangeOption": "No"
   }
 ]
