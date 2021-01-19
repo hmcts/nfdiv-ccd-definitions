@@ -19711,6 +19711,6 @@
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "divorceOrDissolution",
     "UserRole": "citizen",
-    "CRUD": "R"
+    "CRUD": "CRU"
   }
 ]
