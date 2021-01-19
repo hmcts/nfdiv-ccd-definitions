@@ -4816,5 +4816,14 @@
     "FieldType": "Collection",
     "FieldTypeParameter": "DivorceGeneralOrder",
     "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "19/01/2021",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "ID": "divorceOrDissolution",
+    "Label": "Divorce or Dissolution?",
+    "FieldType": "FixedRadioList",
+    "FieldTypeParameter": "divorceOrDissolutionEnum",
+    "SecurityClassification": "Public"
   }
 ]
