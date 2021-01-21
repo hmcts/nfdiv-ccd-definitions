@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "18/01/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "UserRole": "caseworker-caa",
     "CRUD": "CRU"
   }
