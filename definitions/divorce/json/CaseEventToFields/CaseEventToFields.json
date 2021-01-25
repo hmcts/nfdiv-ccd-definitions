@@ -5537,6 +5537,18 @@
     "ShowSummaryChangeOption": "No"
   },
   {
+    "LiveFrom": "19/01/2021",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseEventID": "amendCase",
+    "CaseFieldID": "divorceOrDissolution",
+    "PageFieldDisplayOrder": 6,
+    "DisplayContext": "MANDATORY",
+    "PageID": "amend",
+    "PageLabel": "Update Case",
+    "PageDisplayOrder": 1,
+    "ShowSummaryChangeOption": "No"
+  },
+  {
     "LiveFrom": "01/01/2018",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "attachScannedDocs",
