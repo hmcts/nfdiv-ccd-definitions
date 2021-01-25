@@ -7,7 +7,7 @@ const getCaseEventToComplexTypesDefinitions = loadAllFiles('CaseEventToComplexTy
 
 function assertEventToComplexTypesDefinitionIsValid(row) {
   expect(row.CaseTypeID).to.be.a('string').and.satisfy(v => {
-    return v.startsWith('DIVORCE');
+    return v.startsWith('NO_FAULT_DIVORCE');
   });
   expect(row.ID).to.be.a('string').and.satisfy(isNotLongerThan(MEDIUM_STRING));
   expect(row.CaseFieldID).to.be.a('string').and.satisfy(isNotLongerThan(MEDIUM_STRING));
