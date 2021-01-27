@@ -84,8 +84,8 @@ To access generated documents on a CCD PR, you have to use the AAT env gateway:
 
 To be able to create a case as a solicitor in a CCD PR, you have to create:
 
-* a CMS PR pointing to the CCD instance (e.g https://github.com/hmcts/nfdiv-case-maintenance-service/pull/190)
-* a COS PR pointing to the above CMS PR (e.g https://github.com/hmcts/nfdiv-case-orchestration-service/pull/534)
+* a CMS PR pointing to the CCD instance (e.g https://github.com/hmcts/div-case-maintenance-service/pull/190)
+* a COS PR pointing to the above CMS PR (e.g https://github.com/hmcts/div-case-orchestration-service/pull/534)
 * temperately change config.aat.cosUrl in package.json to point to the COS PR
 
 This will ensure that callbacks point back to the correct CCD URL.
