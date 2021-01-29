@@ -1,13 +1,12 @@
 const { expect } = require('chai');
 const { uniqWith } = require('lodash');
 const {
+  SHORT_STRING,
+  MEDIUM_STRING,
+  LONG_STRING,
   isNotEmpty, isNotLongerThan, noDuplicateFound,
   whenPopulated, loadAllFiles
 } = require('../../utils/utils');
-
-const SHORT_STRING = 30;
-const MEDIUM_STRING = 70;
-const LONG_STRING = 100;
 
 const getCaseEventDefinitions = loadAllFiles('CaseEvent');
 
@@ -37,6 +36,7 @@ describe('CaseEvent', () => {
         'CaseEvent',
         'CaseEvent-amend-court-orders-nonprod',
         'CaseEvent-alternative-service-nonprod',
+        'CaseEvent-alt-service-process-server-nonprod',
         'CaseEvent-deemed-and-dispensed-nonprod',
         'CaseEvent-general-email-nonprod',
         'CaseEvent-general-referral-nonprod',
