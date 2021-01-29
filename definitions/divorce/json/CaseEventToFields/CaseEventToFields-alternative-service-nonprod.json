@@ -1,7 +1,7 @@
 [
   {
   "LiveFrom": "25/08/2020",
-  "CaseTypeID": "DIVORCE",
+  "CaseTypeID": "NO_FAULT_DIVORCE",
   "CaseEventID": "solicitorApplyForDN",
   "CaseFieldID": "LabelContinueBecauseOfServedByAlternativeMethod",
   "PageFieldDisplayOrder": 1,
@@ -15,7 +15,7 @@
   },
   {
     "LiveFrom": "26/01/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorApplyForDN",
     "CaseFieldID": "ServedByAlternativeMethod",
     "PageFieldDisplayOrder": 3,

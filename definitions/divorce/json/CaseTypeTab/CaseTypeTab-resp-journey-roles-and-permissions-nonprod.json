@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "confidentialPetitionerForPetSol",
     "TabLabel": "Confidential Petitioner",
@@ -13,7 +13,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "confidentialPetitionerForPetSol",
     "TabLabel": "Confidential Petitioner",
@@ -23,7 +23,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "confidentialPetitionerForPetSol",
     "TabLabel": "Confidential Petitioner",
@@ -33,7 +33,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "confidentialPetitionerForPetSol",
     "TabLabel": "Confidential Petitioner",
@@ -43,7 +43,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "notesCitizen",
     "TabLabel": "Notes",
@@ -54,7 +54,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "notesCourtAdmin",
     "TabLabel": "Notes",
@@ -65,7 +65,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "notesCourtAdminBeta",
     "TabLabel": "Notes",
@@ -76,7 +76,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "notesSysUpdate",
     "TabLabel": "Notes",
@@ -87,7 +87,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "notesBulkScan",
     "TabLabel": "Notes",
@@ -98,7 +98,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "notesCourtAdminLa",
     "TabLabel": "Notes",
@@ -109,7 +109,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "notesSuperUser",
     "TabLabel": "Notes",
@@ -120,7 +120,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "notesPcqExtractor",
     "TabLabel": "Notes",

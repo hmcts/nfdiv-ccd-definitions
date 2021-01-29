@@ -92,7 +92,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "notes",
     "TabLabel": "Notes",
