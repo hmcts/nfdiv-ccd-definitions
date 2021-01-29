@@ -383,5 +383,13 @@
     "Description": "Awaiting Amend Case",
     "DisplayOrder": 24,
     "TitleDisplay": "${[CASE_REFERENCE]}: ${D8PetitionerLastName} vs ${D8RespondentLastName}"
+  },
+  {
+    "LiveFrom": "29/01/2021",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "ID": "Draft",
+    "Name": "Draft",
+    "Description": "Draft",
+    "TitleDisplay": "${[CASE_REFERENCE]}: ${D8PetitionerLastName} vs ${D8RespondentLastName}"
   }
 ]
