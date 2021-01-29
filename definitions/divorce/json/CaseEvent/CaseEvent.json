@@ -2753,6 +2753,17 @@
     "EndButtonLabel": "Save Petition"
   },
   {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "ID": "draftCreate",
+    "Name": "Apply for a divorce or dissolution",
+    "Description": "Apply for a divorce or dissolution",
+    "DisplayOrder": 1,
+    "PostConditionState": "Draft",
+    "RetriesTimeoutURLSubmittedEvent": "120,120",
+    "SecurityClassification": "Public"
+  },
+  {
     "LiveFrom": "16/05/2019",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "boAddTranslations",

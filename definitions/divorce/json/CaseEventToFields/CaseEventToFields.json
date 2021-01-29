@@ -10775,6 +10775,18 @@
   {
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseEventID": "draftCreate",
+    "CaseFieldID": "divorceOrDissolution",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageLabel": "Select whether you are applying for divorce or dissolution",
+    "PageDisplayOrder": 1,
+    "ShowSummaryChangeOption": "Yes"
+  },
+  {
+    "LiveFrom": "01/01/2017",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "boAddTranslations",
     "CaseFieldID": "dbPetitionerDetails",
     "PageFieldDisplayOrder": 1,
