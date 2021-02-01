@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "13/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingGeneralReferralPayment",
     "Name": "Awaiting General Referral Payment",
     "Description": "Awaiting General Referral Payment",
@@ -10,7 +10,7 @@
   },
   {
     "LiveFrom": "13/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingGeneralConsideration",
     "Name": "Awaiting General Consideration",
     "Description": "Awaiting General Consideration",
@@ -19,7 +19,7 @@
   },
   {
     "LiveFrom": "23/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralConsiderationComplete",
     "Name": "General consideration complete",
     "Description": "General consideration complete",

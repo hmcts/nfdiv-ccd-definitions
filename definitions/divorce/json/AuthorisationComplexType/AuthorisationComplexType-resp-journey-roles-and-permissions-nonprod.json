@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "26/01/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "RespondentOrganisationPolicy",
     "ListElementCode": "OrgPolicyCaseAssignedRole",
     "UserRole": "caseworker-caa",
@@ -9,7 +9,7 @@
   },
   {
     "LiveFrom": "26/01/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "RespondentOrganisationPolicy",
     "ListElementCode": "OrgPolicyReference",
     "UserRole": "caseworker-caa",
@@ -17,7 +17,7 @@
   },
   {
     "LiveFrom": "26/01/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "RespondentOrganisationPolicy",
     "ListElementCode": "Organisation",
     "UserRole": "caseworker-caa",
@@ -25,7 +25,7 @@
   },
   {
     "LiveFrom": "26/01/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "RespondentOrganisationPolicy",
     "ListElementCode": "Organisation.OrganisationID",
     "UserRole": "caseworker-caa",

@@ -12,7 +12,7 @@ const getCaseEventDefinitions = loadAllFiles('CaseEvent');
 
 function assertEventDefinitionIsValid(row) {
   expect(row.CaseTypeID).to.be.a('string').and.satisfy(v => {
-    return v.startsWith('DIVORCE');
+    return v.startsWith('NO_FAULT_DIVORCE');
   });
   expect(row.ID).to.be.a('string').and.satisfy(isNotLongerThan(MEDIUM_STRING));
   expect(row.Name).to.be.a('string').and.satisfy(isNotLongerThan(SHORT_STRING));

@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "29/03/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "CaseHistory",
     "Label": "History",
     "FieldType": "CaseHistoryViewer",
@@ -9,7 +9,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "CaseTitle",
     "Label": "Case title",
     "FieldType": "Text",
@@ -17,7 +17,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "CourtName",
     "Label": "Court name",
     "FieldType": "FixedList",
@@ -26,7 +26,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "hearingDate",
     "Label": "Hearing Date",
     "FieldType": "DateTime",
@@ -34,7 +34,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "CaseList",
     "Label": "Case list",
     "FieldType": "Collection",
@@ -43,7 +43,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "CaseAcceptedList",
     "Label": "Cases accepted to list for hearing",
     "FieldType": "Collection",
@@ -52,7 +52,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "DecreeNisiGrantedDate",
     "Label": "Decree Nisi Pronouncement Date",
     "FieldType": "Date",
@@ -60,7 +60,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "DAEligibleFromDate",
     "Label": "Decree Absolute Eligible From Date",
     "FieldType": "Date",
@@ -68,7 +68,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "PronouncementJudge",
     "Label": "Pronouncement Judge",
     "FieldType": "Text",
@@ -76,7 +76,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "D8DocumentsGenerated",
     "Label": "Documents generated",
     "FieldType": "Collection",
@@ -85,7 +85,7 @@
   },
   {
     "LiveFrom": "11/10/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "HasJudgePronounced",
     "Label": "Has the judge pronounced?",
     "FieldType": "MultiSelectList",
