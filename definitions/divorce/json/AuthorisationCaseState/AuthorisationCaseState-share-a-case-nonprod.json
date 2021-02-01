@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "30/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseStateID": "SOTAgreementPayAndSubmitRequired",
     "UserRole": "caseworker-caa",
     "CRUD": "CRU"
