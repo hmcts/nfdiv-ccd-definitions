@@ -1555,13 +1555,13 @@
     "ListElement": "General Order"
   },
   {
-    "LiveFrom": "01/01/2017",
+    "LiveFrom": "19/01/2021",
     "ID": "divorceOrDissolutionEnum",
     "ListElementCode": "divorce",
     "ListElement": "Divorce"
   },
   {
-    "LiveFrom": "01/01/2017",
+    "LiveFrom": "19/01/2021",
     "ID": "divorceOrDissolutionEnum",
     "ListElementCode": "dissolution",
     "ListElement": "Dissolution"

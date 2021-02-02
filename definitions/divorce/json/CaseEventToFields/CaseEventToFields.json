@@ -10773,7 +10773,7 @@
     "ShowSummaryChangeOption": "Yes"
   },
   {
-    "LiveFrom": "01/01/2017",
+    "LiveFrom": "02/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "draftCreate",
     "CaseFieldID": "divorceOrDissolution",
