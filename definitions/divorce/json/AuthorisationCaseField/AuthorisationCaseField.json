@@ -19774,7 +19774,7 @@
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "divorceOrDissolution",
     "UserRole": "caseworker-divorce-courtadmin",
-    "CRUD": "R"
+    "CRUD": "CRU"
   },
   {
     "LiveFrom": "19/01/2021",
