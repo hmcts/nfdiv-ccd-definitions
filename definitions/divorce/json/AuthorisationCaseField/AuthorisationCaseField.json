@@ -19756,42 +19756,42 @@
     "CRUD": "R"
   },
   {
-    "LiveFrom": "19/01/2021",
+    "LiveFrom": "02/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "divorceOrDissolution",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "R"
   },
   {
-    "LiveFrom": "19/01/2021",
+    "LiveFrom": "02/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "divorceOrDissolution",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "R"
   },
   {
-    "LiveFrom": "19/01/2021",
+    "LiveFrom": "02/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "divorceOrDissolution",
     "UserRole": "caseworker-divorce-courtadmin",
     "CRUD": "CRU"
   },
   {
-    "LiveFrom": "19/01/2021",
+    "LiveFrom": "02/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "divorceOrDissolution",
     "UserRole": "caseworker-divorce-courtadmin-la",
     "CRUD": "R"
   },
   {
-    "LiveFrom": "19/01/2021",
+    "LiveFrom": "02/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "divorceOrDissolution",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "CRU"
   },
   {
-    "LiveFrom": "19/01/2021",
+    "LiveFrom": "02/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseFieldID": "divorceOrDissolution",
     "UserRole": "citizen",

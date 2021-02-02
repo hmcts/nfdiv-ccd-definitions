@@ -2093,7 +2093,7 @@
     "ShowSummaryChangeOption": "Yes"
   },
   {
-    "LiveFrom": "21/01/2021",
+    "LiveFrom": "02/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "divorceOrDissolution",
@@ -5549,7 +5549,7 @@
     "ShowSummaryChangeOption": "No"
   },
   {
-    "LiveFrom": "19/01/2021",
+    "LiveFrom": "02/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "amendCase",
     "CaseFieldID": "divorceOrDissolution",
