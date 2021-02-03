@@ -2093,6 +2093,18 @@
     "ShowSummaryChangeOption": "Yes"
   },
   {
+    "LiveFrom": "02/02/2021",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseEventID": "solicitorCreate",
+    "CaseFieldID": "divorceOrDissolution",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "MANDATORY",
+    "PageID": "SolDivorceOrDissolution",
+    "PageLabel": "Select whether applying for divorce or dissolution",
+    "PageDisplayOrder": 20,
+    "ShowSummaryChangeOption": "Yes"
+  },
+  {
     "LiveFrom": "01/01/2017",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorStatementOfTruthPaySubmit",
@@ -5531,6 +5543,18 @@
     "CaseFieldID": "D8MarriagePlaceOfMarriage",
     "PageFieldDisplayOrder": 5,
     "DisplayContext": "OPTIONAL",
+    "PageID": "amend",
+    "PageLabel": "Update Case",
+    "PageDisplayOrder": 1,
+    "ShowSummaryChangeOption": "No"
+  },
+  {
+    "LiveFrom": "02/02/2021",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseEventID": "amendCase",
+    "CaseFieldID": "divorceOrDissolution",
+    "PageFieldDisplayOrder": 6,
+    "DisplayContext": "MANDATORY",
     "PageID": "amend",
     "PageLabel": "Update Case",
     "PageDisplayOrder": 1,
@@ -10745,6 +10769,18 @@
     "DisplayContext": "MANDATORY",
     "PageID": 1,
     "PageLabel": "Select Language",
+    "PageDisplayOrder": 1,
+    "ShowSummaryChangeOption": "Yes"
+  },
+  {
+    "LiveFrom": "02/02/2021",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "CaseEventID": "draftCreate",
+    "CaseFieldID": "divorceOrDissolution",
+    "PageFieldDisplayOrder": 1,
+    "DisplayContext": "MANDATORY",
+    "PageID": 1,
+    "PageLabel": "Select whether you are applying for divorce or dissolution",
     "PageDisplayOrder": 1,
     "ShowSummaryChangeOption": "Yes"
   },

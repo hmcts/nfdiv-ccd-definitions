@@ -1553,5 +1553,17 @@
     "ID": "d8documentsReceivedEnum",
     "ListElementCode": "generalOrder",
     "ListElement": "General Order"
+  },
+  {
+    "LiveFrom": "02/02/2021",
+    "ID": "divorceOrDissolutionEnum",
+    "ListElementCode": "divorce",
+    "ListElement": "Divorce"
+  },
+  {
+    "LiveFrom": "02/02/2021",
+    "ID": "divorceOrDissolutionEnum",
+    "ListElementCode": "dissolution",
+    "ListElement": "Dissolution"
   }
 ]
