@@ -2756,7 +2756,7 @@
     "LiveFrom": "02/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "draftCreate",
-    "Name": "Create draft case",
+    "Name": "Divorce or Dissolution",
     "Description": "Apply for a divorce or dissolution",
     "DisplayOrder": 1,
     "PostConditionState": "Draft",
