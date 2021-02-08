@@ -10787,7 +10787,7 @@
   {
     "LiveFrom": "05/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
-    "CaseEventID": "draftUpdate",
+    "CaseEventID": "patchCase",
     "CaseFieldID": "divorceOrDissolution",
     "PageFieldDisplayOrder": 1,
     "DisplayContext": "MANDATORY",

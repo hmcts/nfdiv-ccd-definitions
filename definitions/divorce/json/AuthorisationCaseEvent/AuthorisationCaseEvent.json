@@ -7060,42 +7060,42 @@
   {
     "LiveFrom": "05/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
-    "CaseEventID": "draftUpdate",
+    "CaseEventID": "patchCase",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "R"
   },
   {
     "LiveFrom": "05/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
-    "CaseEventID": "draftUpdate",
+    "CaseEventID": "patchCase",
     "UserRole": "caseworker-divorce-courtadmin",
     "CRUD": "R"
   },
   {
     "LiveFrom": "05/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
-    "CaseEventID": "draftUpdate",
+    "CaseEventID": "patchCase",
     "UserRole": "citizen",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "05/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
-    "CaseEventID": "draftUpdate",
+    "CaseEventID": "patchCase",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "R"
   },
   {
     "LiveFrom": "05/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
-    "CaseEventID": "draftUpdate",
+    "CaseEventID": "patchCase",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "R"
   },
   {
     "LiveFrom": "05/02/2021",
     "CaseTypeID": "NO_FAULT_DIVORCE",
-    "CaseEventID": "draftUpdate",
+    "CaseEventID": "patchCase",
     "UserRole": "caseworker-divorce-courtadmin-la",
     "CRUD": "R"
   }
