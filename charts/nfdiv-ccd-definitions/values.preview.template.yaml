@@ -88,6 +88,7 @@ ccd:
 
   ccd-case-management-web:
     nodejs:
+      keyVaults: []
       environment:
         CCD_ACTIVITY_URL: null
         DM_URL: https://gateway-${SERVICE_FQDN}/documents
