@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -11,7 +11,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -22,7 +22,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -33,7 +33,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -43,7 +43,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -53,7 +53,7 @@
   },
   {
     "LiveFrom": "22/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -63,7 +63,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -73,7 +73,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -83,7 +83,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -93,7 +93,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -103,7 +103,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -113,7 +113,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",
@@ -123,7 +123,7 @@
   },
   {
     "LiveFrom": "20/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "generalReferral",
     "TabLabel": "General Referral",

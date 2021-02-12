@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingPayment",
     "Name": "Petition awaiting payment",
     "Description": "Petition awaiting online payment",
@@ -10,7 +10,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingHWFDecision",
     "Name": "Awaiting HWF decision",
     "Description": "Awaiting HWF decision",
@@ -19,7 +19,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingDocuments",
     "Name": "Awaiting petitioner",
     "Description": "Case created and awaiting action by the petitioner",
@@ -28,7 +28,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "Submitted",
     "Name": "Petition submitted",
     "Description": "Petition paid and submitted",
@@ -37,7 +37,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "Issued",
     "Name": "Petition issued",
     "Description": "Petition issued",
@@ -46,7 +46,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "Rejected",
     "Name": "Petition rejected",
     "Description": "Petition rejected",
@@ -55,7 +55,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PendingRejection",
     "Name": "Pending rejection",
     "Description": "Petition pending rejection",
@@ -64,7 +64,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SOTAgreementPayAndSubmitRequired",
     "Name": "Statement of Truth, Pay and Submit Required",
     "Description": "Statement of Truth, Pay and Submit Required",
@@ -73,7 +73,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solicitorAwaitingPaymentConfirmation",
     "Name": "Solicitor - Awaiting Payment Confirmation",
     "Description": "Solicitor - Awaiting Payment Confirmation",
@@ -82,7 +82,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AosAwaiting",
     "Name": "AOS Awaiting",
     "Description": "AOS Awaiting",
@@ -91,7 +91,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AosStarted",
     "Name": "AOS Started",
     "Description": "AOS Started",
@@ -100,7 +100,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AosSubmittedAwaitingAnswer",
     "Name": "AOS Submitted Awaiting Answer",
     "Description": "AOS Submitted Awaiting Answer",
@@ -109,7 +109,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingDecreeNisi",
     "Name": "Awaiting DN application",
     "Description": "Awaiting DN application",
@@ -118,7 +118,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AosOverdue",
     "Name": "AOS Overdue",
     "Description": "AOS Overdue",
@@ -127,7 +127,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingReissue",
     "Name": "Awaiting reissue",
     "Description": "Awaiting reissue",
@@ -136,7 +136,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingLegalAdvisorReferral",
     "Name": "Awaiting legal advisor referral",
     "Description": "Awaiting legal advisor referral",
@@ -145,7 +145,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingConsideration",
     "Name": "Awaiting consideration",
     "Description": "Awaiting consideration",
@@ -154,7 +154,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AmendPetition",
     "Name": "Amend petition",
     "Description": "Amend petition",
@@ -163,7 +163,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingClarification",
     "Name": "Awaiting clarification",
     "Description": "Awaiting clarification",
@@ -172,7 +172,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DefendedDivorce",
     "Name": "Defended divorce",
     "Description": "Defended divorce",
@@ -181,7 +181,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingPronouncement",
     "Name": "Listed; Awaiting pronouncement",
     "Description": "Has been Listed; Awaiting pronouncement",
@@ -190,7 +190,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingDecreeAbsolute",
     "Name": "Awaiting DA Application",
     "Description": "Awaiting DA application",
@@ -199,7 +199,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DivorceGranted",
     "Name": "Divorce granted",
     "Description": "Divorce granted",
@@ -208,7 +208,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "Withdrawn",
     "Name": "Withdraw",
     "Description": "Withdraw petition",
@@ -217,7 +217,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AosCompleted",
     "Name": "AOS Completed",
     "Description": "AOS Completed",
@@ -226,7 +226,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DNisRefused",
     "Name": "DN application refused",
     "Description": "DN application has been refused",
@@ -235,7 +235,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AosAwaitingSol",
     "Name": "Awaiting AOS (Solicitor)",
     "Description": "Awaiting AOS from solicitor",
@@ -244,7 +244,7 @@
   },
   {
     "LiveFrom": "12/08/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AosPreSubmit",
     "Name": "AOS PreSubmit",
     "Description": "AOS PreSubmit (Intermediary state)",
@@ -253,7 +253,7 @@
   },
   {
     "LiveFrom": "31/05/2019",
-    "CaseTypeID": "DIVORCE_NOTICE_OF_ACTING",
+    "CaseTypeID": "NO_FAULT_DIVORCE_NOTICE_OF_ACTING",
     "ID": "Created",
     "Name": "Noticed of Acting case created",
     "Description": "Noticed of Acting case created",
@@ -261,7 +261,7 @@
   },
   {
     "LiveFrom": "25/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DNPronounced",
     "Name": "Decree Nisi Pronounced",
     "Description": "Decree Nisi Pronounced",
@@ -270,7 +270,7 @@
   },
   {
     "LiveFrom": "25/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DARequested",
     "Name": "Decree Absolute Requested",
     "Description": "Decree Absolute Requested",
@@ -279,7 +279,7 @@
   },
   {
     "LiveFrom": "20/08/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DAOverdue",
     "Name": "Decree Absolute Overdue",
     "Description": "Decree Absolute Overdue",
@@ -288,7 +288,7 @@
   },
   {
     "LiveFrom": "25/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DNDrafted",
     "Name": "Decree Nisi Application Drafted",
     "Description": "Decree Nisi Application Drafted",
@@ -297,7 +297,7 @@
   },
   {
     "LiveFrom": "12/08/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AosDrafted",
     "Name": "AOS Drafted",
     "Description": "AOS Drafted",
@@ -306,7 +306,7 @@
   },
   {
     "LiveFrom": "25/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RemovedFromBulkCaseList",
     "Name": "Removed from bulk case list",
     "Description": "Removed from bulk case list",
@@ -315,7 +315,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingService",
     "Name": "Awaiting Service",
     "Description": "Awaiting Service",
@@ -324,7 +324,7 @@
   },
   {
     "LiveFrom": "25/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ClarificationSubmitted",
     "Name": "Clarification Response Submitted",
     "Description": "Decree Nisi Clarification Response Submitted",
@@ -333,7 +333,7 @@
   },
   {
     "LiveFrom": "25/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingAdminClarification",
     "Name": "Awaiting admin clarification",
     "Description": "Awaiting admin clarification",
@@ -341,7 +341,7 @@
     "TitleDisplay": "${[CASE_REFERENCE]}: ${D8PetitionerLastName} vs ${D8RespondentLastName}"
   },
   {"LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOTranslationRequested",
     "Name": "Translation Requested",
     "Description": "Translation Requested",
@@ -350,7 +350,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "WelshResponseAwaitingReview",
     "Name": "Welsh AOS",
     "Description": "Welsh AOS",
@@ -359,7 +359,7 @@
   },
   {
     "LiveFrom": "25/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "WelshLADecision",
     "Name": "Welsh LA Decision",
     "Description": "Welsh LA Decision",
@@ -368,7 +368,7 @@
   },
   {
     "LiveFrom": "25/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "WelshDNReceived",
     "Name": "Welsh DN Received",
     "Description": "Welsh DN Received",
@@ -377,11 +377,19 @@
   },
   {
     "LiveFrom": "29/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingAmendCase",
     "Name": "Awaiting Amend Case",
     "Description": "Awaiting Amend Case",
     "DisplayOrder": 24,
+    "TitleDisplay": "${[CASE_REFERENCE]}: ${D8PetitionerLastName} vs ${D8RespondentLastName}"
+  },
+  {
+    "LiveFrom": "02/02/2021",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "ID": "Draft",
+    "Name": "Draft",
+    "Description": "Draft",
     "TitleDisplay": "${[CASE_REFERENCE]}: ${D8PetitionerLastName} vs ${D8RespondentLastName}"
   }
 ]

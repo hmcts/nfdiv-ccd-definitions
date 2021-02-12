@@ -1,175 +1,175 @@
 [
   {
     "LiveFrom": "29/03/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "CaseHistory",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "R"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "CaseTitle",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "CourtName",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "hearingDate",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "CaseList",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "CaseAcceptedList",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "DecreeNisiGrantedDate",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "DAEligibleFromDate",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "PronouncementJudge",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "D8DocumentsGenerated",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "29/03/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "CaseHistory",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "R"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "CaseTitle",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "CourtName",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "hearingDate",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "CaseList",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "CaseAcceptedList",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "DecreeNisiGrantedDate",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "DAEligibleFromDate",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "PronouncementJudge",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "D8DocumentsGenerated",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "11/10/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "HasJudgePronounced",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "R"
   },
   {
     "LiveFrom": "11/10/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "HasJudgePronounced",
     "UserRole": "caseworker-divorce-courtadmin",
     "CRUD": "R"
   },
   {
     "LiveFrom": "11/10/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "HasJudgePronounced",
     "UserRole": "caseworker-divorce-courtadmin_beta",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "11/10/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "HasJudgePronounced",
     "UserRole": "caseworker-divorce-superuser",
     "CRUD": "CRUD"
   },
   {
     "LiveFrom": "11/10/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "CaseFieldID": "HasJudgePronounced",
     "UserRole": "caseworker-divorce-courtadmin-la",
     "CRUD": "R"

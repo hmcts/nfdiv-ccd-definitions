@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "scheduleCreate",
     "Name": "Schedule bulk list create",
     "Description": "Schedule bulk list created",
@@ -12,7 +12,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "create",
     "Name": "Create bulk list",
     "Description": "Create bulk list",
@@ -26,7 +26,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "scheduleForListing",
     "Name": "Schedule cases for listing  ",
     "Description": "Schedule for listing",
@@ -42,7 +42,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "cancelscheduleForListing",
     "Name": "Cancel schedule for listing",
     "Description": "Cancel schedule for listing",
@@ -54,7 +54,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "listed",
     "Name": "Cases listed",
     "Description": "Cases listed",
@@ -66,7 +66,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "scheduleForPronouncement",
     "Name": "Schedule for pronouncement",
     "Description": "Schedule for pronouncement",
@@ -80,7 +80,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "reListBulk",
     "Name": "Regenerate listing",
     "Description": "Regenerate listing",
@@ -94,7 +94,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "pronounced",
     "Name": "Decree Nisi Pronounced",
     "Description": "Decree Nisi Pronounced",
@@ -106,7 +106,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "printForPronouncement",
     "Name": "Print for Pronouncement",
     "Description": "Print for Pronouncement",
@@ -119,7 +119,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "removeFromListed",
     "Name": "Remove cases from bulk case",
     "Description": "remove cases from bulk case",
@@ -133,7 +133,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "drop",
     "Name": "Drop bulkcase",
     "Description": "Drop bulk case",
@@ -145,7 +145,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "editBulkCase",
     "Name": "Edit bulk case",
     "Description": "Edit bulk case",
@@ -161,7 +161,7 @@
   },
   {
     "LiveFrom": "1/10/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "scheduleCancelPronouncement",
     "Name": "Schedule cancel pronouncement",
     "Description": "Schedule cancel case pronouncment",
@@ -175,7 +175,7 @@
   },
   {
     "LiveFrom": "1/10/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "ID": "cancelPronouncement",
     "Name": "Cancel pronouncement",
     "Description": "Cancel pronouncement",

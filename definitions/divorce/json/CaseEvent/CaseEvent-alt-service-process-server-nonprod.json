@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "12/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "serveByProcessServer",
     "Name": "Serve by process server",
     "Description": "Serve by process server",
@@ -12,7 +12,7 @@
   },
   {
     "LiveFrom": "15/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "aosNotReceivedForProcessServer",
     "Name": "Move to awaiting DN",
     "Description": "Move to awaiting DN",
@@ -24,7 +24,7 @@
   },
   {
     "LiveFrom": "03/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "confirmProcessServerService",
     "Name": "Confirm process service",
     "Description": "Confirm process service",

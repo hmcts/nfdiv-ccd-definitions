@@ -44,6 +44,6 @@ Scenario('upload divorce config file', I => {
 
 Scenario('upload bulk action config file', I => {
   I.loginToAdminConsole();
-  I.uploadConfig('../../definitions/bulk-action/xlsx/ccd-div-bulk-action-config-aat.xlsx');
+  I.uploadConfig('../../definitions/bulk-action/xlsx/ccd-nfdiv-bulk-action-config-aat.xlsx');
   I.see('Case Definition data successfully imported');
 }).retry({ retries: 3, minTimeout: 30000 }); // eslint-disable-line no-magic-numbers

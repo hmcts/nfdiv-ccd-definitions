@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "13/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AwaitingAlternativeService",
     "Name": "Awaiting alternative service",
     "Description": "Awaiting alternative service",
@@ -10,7 +10,7 @@
   },
   {
       "LiveFrom": "30/10/2020",
-      "CaseTypeID": "DIVORCE",
+      "CaseTypeID": "NO_FAULT_DIVORCE",
       "ID": "AwaitingDWPResponse",
       "Name": "Awaiting DWP response",
       "Description": "Awaiting DWP response",
