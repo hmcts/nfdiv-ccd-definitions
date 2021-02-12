@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "OrganisationPolicy",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "RespondentOrganisationPolicy",
@@ -12,7 +12,7 @@
   },
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "OrganisationPolicy",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "RespondentOrganisationPolicy",
@@ -23,7 +23,7 @@
   },
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "OrganisationPolicy",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "RespondentOrganisationPolicy",
@@ -34,7 +34,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "OrganisationPolicy",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "RespondentOrganisationPolicy",
@@ -45,7 +45,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "OrganisationPolicy",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "RespondentOrganisationPolicy",
@@ -56,7 +56,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "OrganisationPolicy",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "RespondentOrganisationPolicy",

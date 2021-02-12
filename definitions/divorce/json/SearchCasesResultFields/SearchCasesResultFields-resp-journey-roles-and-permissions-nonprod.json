@@ -2,7 +2,7 @@
   {
     "LiveFrom": "03/02/2021",
     "LiveTo": "",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "UserRole": "",
     "CaseFieldID": "[CASE_REFERENCE]",
     "ListElementCode": "",
@@ -15,7 +15,7 @@
   {
     "LiveFrom": "03/02/2021",
     "LiveTo": "",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "UserRole": "",
     "CaseFieldID": "[CREATED_DATE]",
     "ListElementCode": "",
@@ -28,7 +28,7 @@
   {
     "LiveFrom": "03/02/2021",
     "LiveTo": "",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "UserRole": "",
     "CaseFieldID": "D8PetitionerLastName",
     "ListElementCode": "",
@@ -41,7 +41,7 @@
   {
     "LiveFrom": "03/02/2021",
     "LiveTo": "",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "UserRole": "",
     "CaseFieldID": "D8RespondentLastName",
     "ListElementCode": "",
@@ -54,7 +54,7 @@
   {
     "LiveFrom": "03/02/2021",
     "LiveTo": "",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "UserRole": "",
     "CaseFieldID": "[LAST_MODIFIED_DATE]",
     "ListElementCode": "",
@@ -67,7 +67,7 @@
   {
     "LiveFrom": "03/02/2021",
     "LiveTo": "",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "UserRole": "",
     "CaseFieldID": "[STATE]",
     "ListElementCode": "",

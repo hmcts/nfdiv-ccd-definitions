@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "05/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "UpdatePetSolContactDetails",
     "Name": "Update contact details",
     "Description": "Update contact details",
@@ -13,7 +13,7 @@
   },
   {
     "LiveFrom": "11/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "updateRespSolContactDetails",
     "Name": "Update contact details",
     "Description": "Update contact details",

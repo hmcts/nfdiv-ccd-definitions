@@ -113,70 +113,70 @@
   },
   {
     "LiveFrom": "16/05/2019",
-    "CaseTypeID": "DIVORCE_NOTICE_OF_ACTING",
+    "CaseTypeID": "NO_FAULT_DIVORCE_NOTICE_OF_ACTING",
     "CaseEventID": "create",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "02/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solAosReceivedNoAdConStarted",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "02/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solAosSubmittedUndefended",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "02/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solConfirmPersonalService",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "02/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "UpdateLanguage",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "02/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "boRequestTranslationFromWLU",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "02/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "boAddTranslations",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "24/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "linkRespondent",
     "UserRole": "caseworker-divorce-solicitor",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "submitDnClarification",
     "UserRole": "[PETSOLICITOR]",
     "CRUD": "CRU"
   },
   {
     "LiveFrom": "29/06/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "amendPetitionForRefusalSol",
     "UserRole": "[PETSOLICITOR]",
     "CRUD": "CRU"
