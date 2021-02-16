@@ -10142,7 +10142,7 @@
   },
   {
     "LiveFrom": "23/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "serviceApplicationReceived",
     "CaseFieldID": "ReceivedServiceApplicationDate",
     "PageFieldDisplayOrder": 1,
@@ -10155,7 +10155,7 @@
   },
   {
     "LiveFrom": "23/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "serviceApplicationReceived",
     "CaseFieldID": "ServiceApplicationType",
     "PageFieldDisplayOrder": 2,
@@ -10168,7 +10168,7 @@
   },
   {
     "LiveFrom": "29/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "makeServiceDecision",
     "CaseFieldID": "ServiceApplicationGranted",
     "PageFieldDisplayOrder": 1,
@@ -10181,7 +10181,7 @@
   },
   {
     "LiveFrom": "03/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "makeServiceDecision",
     "CaseFieldID": "ServiceApplicationRefusalReason",
     "PageFieldDisplayOrder": 1,
@@ -10196,7 +10196,7 @@
   },
   {
     "LiveFrom": "03/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "makeServiceDecision",
     "CaseFieldID": "ServiceRefusalDraft",
     "PageFieldDisplayOrder": 1,
@@ -10210,7 +10210,7 @@
   },
   {
     "LiveFrom": "04/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "ServiceApplicationPayment",
     "PageFieldDisplayOrder": 1,
@@ -10223,7 +10223,7 @@
   },
   {
     "LiveFrom": "04/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "FeeAccountReferenceNumber",
     "PageFieldDisplayOrder": 2,
@@ -10236,7 +10236,7 @@
   },
   {
     "LiveFrom": "04/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "FeeAccountReference",
     "PageFieldDisplayOrder": 3,
@@ -10249,7 +10249,7 @@
   },
   {
     "LiveFrom": "04/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "HelpWithFeesReferenceNumber",
     "PageFieldDisplayOrder": 4,
@@ -10262,7 +10262,7 @@
   },
   {
     "LiveFrom": "05/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "generalApplicationWithoutNoticeFeeSummary",
     "PageFieldDisplayOrder": 1,
@@ -10274,7 +10274,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "PaymentFeeAccountLabel",
     "PageFieldDisplayOrder": 2,
@@ -10287,7 +10287,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "PaymentHWFLabel",
     "PageFieldDisplayOrder": 2,
@@ -10300,7 +10300,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "PaymentTelephoneLabel",
     "PageFieldDisplayOrder": 2,
@@ -10313,7 +10313,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "PaymentChequeLabel",
     "PageFieldDisplayOrder": 2,
@@ -10326,7 +10326,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "LabelPBAReference",
     "PageFieldDisplayOrder": 3,
@@ -10339,7 +10339,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "LabelPBANumber",
     "PageFieldDisplayOrder": 4,
@@ -10352,7 +10352,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "ConfirmServicePayment",
     "CaseFieldID": "LabelHWFReference",
     "PageFieldDisplayOrder": 5,
@@ -10365,7 +10365,7 @@
   },
   {
     "LiveFrom": "25/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorApplyForDN",
     "CaseFieldID": "LabelContinueBecauseOfDeemedAccepted",
     "PageFieldDisplayOrder": 2,
@@ -10379,7 +10379,7 @@
   },
   {
     "LiveFrom": "25/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorApplyForDN",
     "CaseFieldID": "LabelContinueBecauseOfDispensedAccepted",
     "PageFieldDisplayOrder": 2,
@@ -10393,7 +10393,7 @@
   },
   {
     "LiveFrom": "25/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorApplyForDN",
     "CaseFieldID": "ServiceApplicationGranted",
     "PageFieldDisplayOrder": 3,
@@ -10407,7 +10407,7 @@
   },
   {
     "LiveFrom": "12/01/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorApplyForDN",
     "CaseFieldID": "LastServiceApplication",
     "PageFieldDisplayOrder": 5,

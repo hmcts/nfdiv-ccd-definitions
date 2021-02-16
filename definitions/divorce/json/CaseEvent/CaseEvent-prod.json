@@ -68,7 +68,7 @@
   },
   {
     "LiveFrom": "15/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "aosSubmittedUndefended",
     "Name": "AOS Received (undefended)",
     "Description": "AOS Received (undefended)",
@@ -82,7 +82,7 @@
 
   {
     "LiveFrom": "15/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "aosSubmittedDefended",
     "Name": "AOS Submitted (defending)",
     "Description": "AOS Submitted (defending)",
@@ -95,7 +95,7 @@
   },
   {
     "LiveFrom": "15/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "aosReceivedNoAdConStarted",
     "Name": "AOS Received (no ad/con)",
     "Description": "AOS Received (no admission/consent)",
@@ -108,7 +108,7 @@
   },
   {
     "LiveFrom": "09/12/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "boWelshReview",
     "Name": "Welsh Translation Review",
     "Description": "Welsh Translation Review",

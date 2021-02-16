@@ -4819,7 +4819,7 @@
   },
   {
     "LiveFrom": "24/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceApplicationDocuments",
     "Label": "Service Application Documents",
     "FieldType": "Collection",
@@ -4828,7 +4828,7 @@
   },
   {
     "LiveFrom": "23/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceApplicationType",
     "Label": "Service application type",
     "HintText": "What type of service application has been received?",
@@ -4838,7 +4838,7 @@
   },
   {
     "LiveFrom": "23/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ReceivedServiceApplicationDate",
     "Label": "Application date",
     "FieldType": "Date",
@@ -4846,7 +4846,7 @@
   },
   {
     "LiveFrom": "23/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ReceivedServiceAddedDate",
     "Label": "Added date",
     "FieldType": "Date",
@@ -4854,7 +4854,7 @@
   },
   {
     "LiveFrom": "28/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceApplicationGranted",
     "Label": "Service Application Granted",
     "FieldType": "YesOrNo",
@@ -4862,7 +4862,7 @@
   },
   {
     "LiveFrom": "28/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceApplicationDecisionDate",
     "Label": "Service Application Decision Date",
     "FieldType": "Date",
@@ -4870,7 +4870,7 @@
   },
   {
     "LiveFrom": "03/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceApplicationRefusalReason",
     "Label": "Reason for refusal",
     "FieldType": "TextArea",
@@ -4878,7 +4878,7 @@
   },
   {
     "LiveFrom": "28/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelOutcomeOfServiceApplication",
     "Label": "## Outcome of service application",
     "FieldType": "Label",
@@ -4886,7 +4886,7 @@
   },
   {
     "LiveFrom": "04/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceApplicationPayment",
     "Label": "How will payment be made?",
     "HintText": "How will payment be made?",
@@ -4896,7 +4896,7 @@
   },
   {
     "LiveFrom": "17/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceRefusalDraft",
     "Label": "Service Refusal draft",
     "FieldType": "Document",
@@ -4904,7 +4904,7 @@
   },
   {
     "LiveFrom": "05/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "generalApplicationWithoutNoticeFeeSummary",
     "Label": "Here are your payment details",
     "FieldType": "OrderSummary",
@@ -4912,7 +4912,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PaymentFeeAccountLabel",
     "Label": "Payment Method: Fee Account",
     "FieldType": "Label",
@@ -4920,7 +4920,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PaymentHWFLabel",
     "Label": "Payment Method: Help with fees",
     "FieldType": "Label",
@@ -4928,7 +4928,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PaymentTelephoneLabel",
     "Label": "Payment Method: Telephone",
     "FieldType": "Label",
@@ -4936,7 +4936,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PaymentChequeLabel",
     "Label": "Payment Method: Cheque",
     "FieldType": "Label",
@@ -4944,7 +4944,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelPBAReference",
     "Label": "Your pay account reference: ${FeeAccountReference}",
     "FieldType": "Label",
@@ -4952,7 +4952,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelPBANumber",
     "Label": "Fee account number: ${FeeAccountReferenceNumber}",
     "FieldType": "Label",
@@ -4960,7 +4960,7 @@
   },
   {
     "LiveFrom": "12/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelHWFReference",
     "Label": "Fee account reference ${HelpWithFeesReferenceNumber}",
     "FieldType": "Label",
@@ -4968,7 +4968,7 @@
   },
   {
     "LiveFrom": "25/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelContinueBecauseOfDeemedAccepted",
     "Label": "Because the court accepted the application for 'deemed service', you are able to continue with the divorce without seeing the respondent answers.",
     "FieldType": "Label",
@@ -4976,7 +4976,7 @@
   },
   {
     "LiveFrom": "25/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelContinueBecauseOfDispensedAccepted",
     "Label": "Because the court accepted the application to 'dispense with service’, you are able to continue with the divorce without seeing the respondent answers.",
     "FieldType": "Label",
@@ -4984,7 +4984,7 @@
   },
   {
     "LiveFrom": "05/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceApplications",
     "Label": "Previous service applications",
     "FieldType": "Collection",
@@ -4993,7 +4993,7 @@
   },
   {
     "LiveFrom": "23/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "HelpWithFeesReferenceNumber",
     "Label": "Help with fees reference",
     "FieldType": "Text",
@@ -5002,7 +5002,7 @@
   },
   {
     "LiveFrom": "23/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "FeeAccountReferenceNumber",
     "Label": "Enter your account number",
     "HintText": "Example: PBA0896366",
@@ -5012,7 +5012,7 @@
   },
   {
     "LiveFrom": "23/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "FurtherPBAReferenceNumbers",
     "Label": "Further Fee account numbers",
     "FieldType": "Collection",
@@ -5021,7 +5021,7 @@
   },
   {
     "LiveFrom": "23/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "FurtherHWFReferenceNumbers",
     "Label": "Further HWF references",
     "FieldType": "Collection",
@@ -5030,7 +5030,7 @@
   },
   {
     "LiveFrom": "12/01/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LastServiceApplication",
     "Label": "Last service application",
     "FieldType": "DivorceServiceApplication",

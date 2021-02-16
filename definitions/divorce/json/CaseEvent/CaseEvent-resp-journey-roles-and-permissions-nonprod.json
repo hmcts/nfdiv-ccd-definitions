@@ -25,7 +25,7 @@
   },
   {
     "LiveFrom": "23/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "serviceApplicationReceived",
     "Name": "Service application received",
     "Description": "Service application received",

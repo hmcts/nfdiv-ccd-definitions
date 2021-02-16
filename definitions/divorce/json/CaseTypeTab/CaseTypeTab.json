@@ -3324,7 +3324,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "paymentDetailsCourtAdminBeta",
     "TabLabel": "Payment",
@@ -3335,7 +3335,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "paymentDetailsCourtAdminBeta",
     "TabLabel": "Payment",
@@ -3345,7 +3345,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "paymentDetailsCourtAdminBeta",
     "TabLabel": "Payment",
@@ -3355,7 +3355,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "paymentDetailsCourtAdminBeta",
     "TabLabel": "Payment",
@@ -3365,7 +3365,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "paymentDetailsCourtAdminBeta",
     "TabLabel": "Payment",
@@ -3375,7 +3375,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "paymentDetailsCourtAdminBeta",
     "TabLabel": "Payment",
@@ -3385,7 +3385,7 @@
   },
   {
     "LiveFrom": "24/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "paymentDetailsCourtAdminBeta",
     "TabLabel": "Payment",
@@ -3395,7 +3395,7 @@
   },
   {
     "LiveFrom": "24/11/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "paymentDetailsCourtAdminBeta",
     "TabLabel": "Payment",
@@ -3405,7 +3405,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "documents",
     "TabLabel": "Documents",
@@ -3415,7 +3415,7 @@
   },
   {
     "LiveFrom": "24/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "documents",
     "TabLabel": "Documents",
@@ -3425,7 +3425,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "documents",
     "TabLabel": "Documents",
@@ -3435,7 +3435,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "documents",
     "TabLabel": "Documents",
@@ -3445,7 +3445,7 @@
   },
   {
     "LiveFrom": "12/12/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "serviceApplication",
     "TabLabel": "Service Application",
@@ -3455,7 +3455,7 @@
   },
   {
     "LiveFrom": "12/12/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "serviceApplication",
     "TabLabel": "Service Application",
@@ -3465,7 +3465,7 @@
   },
   {
     "LiveFrom": "12/12/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "serviceApplication",
     "TabLabel": "Service Application",
@@ -3475,7 +3475,7 @@
   },
   {
     "LiveFrom": "12/12/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "serviceApplication",
     "TabLabel": "Service Application",
@@ -3485,7 +3485,7 @@
   },
   {
     "LiveFrom": "05/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "Channel": "CaseWorker",
     "TabID": "serviceApplication",
     "TabLabel": "Service Application",

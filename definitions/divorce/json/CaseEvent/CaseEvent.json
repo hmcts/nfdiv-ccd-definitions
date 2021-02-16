@@ -2796,7 +2796,7 @@
 
   {
     "LiveFrom": "28/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "makeServiceDecision",
     "Name": "Make Service Decision",
     "Description": "Make Service Decision",
@@ -2812,7 +2812,7 @@
   },
   {
     "LiveFrom": "04/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ConfirmServicePayment",
     "Name": "Confirm service payment",
     "Description": "Confirm service payment",
@@ -2826,7 +2826,7 @@
   },
   {
     "LiveFrom": "15/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "aosNotReceived",
     "Name": "AOS Not Received within SLA",
     "Description": "AOS Not Received within SLA",
@@ -2840,7 +2840,7 @@
   },
   {
     "LiveFrom": "15/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "EnterAOSOffline_Respondent",
     "Name": "Received AOS offline-Resp",
     "Description": "Received AOS offline for respondent from AosAwaiting",
@@ -2856,7 +2856,7 @@
   },
   {
     "LiveFrom": "15/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "allowPetitionerToAmend",
     "Name": "Allow Petitioner to amend",
     "Description": "Allow Petitioner to amend",
@@ -2869,7 +2869,7 @@
   },
   {
     "LiveFrom": "29/06/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "amendPetitionForRefusalSol",
     "Name": "Submit amended application",
     "Description": "Submit amended application",
@@ -2882,7 +2882,7 @@
   },
   {
     "LiveFrom": "16/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "transferCaseFromServiceAppRejected",
     "Name": "Transfer from CTSC to RDC",
     "Description": "Transfer from CTSC to RDC",
@@ -2893,7 +2893,7 @@
   },
   {
     "LiveFrom": "18/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "startAosFromServiceAppRejected",
     "Name": "AOS started",
     "Description": "AOS started",
@@ -2904,7 +2904,7 @@
   },
   {
     "LiveFrom": "16/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "aosNotReceivedFromServiceAppRejected",
     "Name": "AOS Not Received within SLA",
     "Description": "AOS Not Received within SLA",
@@ -2915,7 +2915,7 @@
   },
   {
     "LiveFrom": "16/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solAosNotReceivedFromServiceAppRejected",
     "Name": "AOS Not Received within SLA",
     "Description": "AOS Not Received within SLA",
@@ -2926,7 +2926,7 @@
   },
   {
     "LiveFrom": "16/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "answerReceivedFromServiceAppRejected",
     "Name": "Answer received",
     "Description": "Answer received",
@@ -2937,7 +2937,7 @@
   },
   {
     "LiveFrom": "16/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "coRespAnswerReceivedFromServiceAppRejected",
     "Name": "Answer received - CoRespondent",
     "Description": "Answer received - CoRespondent",
@@ -2948,7 +2948,7 @@
   },
   {
     "LiveFrom": "16/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "IssueAOSOffline_Respondent_FromServiceAppRejected",
     "Name": "Issue AOS pack to respondent",
     "Description": "Issue AOS pack to respondent",
@@ -2960,7 +2960,7 @@
   },
   {
     "LiveFrom": "16/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "IssueAOSOffline_CoRespondent_FromServiceAppRejected",
     "Name": "Issue AOS pack - Co-respondent",
     "Description": "Issue AOS pack - Co-respondent",
@@ -2972,7 +2972,7 @@
   },
   {
     "LiveFrom": "16/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "reissueFromServiceAppRejected",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
