@@ -131,6 +131,10 @@ async function createCaseInCcd(userName, password, dataLocation, caseType, event
     }
   };
 
+  logger.info('Start case URI: ' + ccdApiUrl + ccdStartCasePath);
+  logger.info('Authorization: ' + authToken);
+  logger.info('ServiceAuthorization: ' + serviceToken);
+
   const startCaseResponse = await request(startCaseOptions);
   const eventToken = JSON.parse(startCaseResponse).token;
   /* eslint id-blacklist: ["error", "undefined"] */
@@ -157,6 +161,8 @@ async function createCaseInCcd(userName, password, dataLocation, caseType, event
     body: JSON.stringify(saveBody)
   };
 
+  logger.info('Save case URI: ' + ccdApiUrl + ccdSaveCasePath);
+
   const saveCaseResponse = await request(saveCaseOptions).catch(error => {
     console.log(error);
   });
@@ -182,6 +188,8 @@ async function updateCaseInCcd(userName, password, caseId, caseType, eventId, da
   const ccdStartEventPath = `/caseworkers/${userId}/jurisdictions/DIVORCE/case-types/${divCaseType}/cases/${caseId}/event-triggers/${eventId}/token`;
   const ccdSaveEventPath = `/caseworkers/${userId}/jurisdictions/DIVORCE/case-types/${divCaseType}/cases/${caseId}/events`;
 
+  logger.info('Start event URI: ' + ccdApiUrl + ccdStartEventPath);
+
   const startEventOptions = {
     method: 'GET',
     uri: ccdApiUrl + ccdStartEventPath,
@@ -206,6 +214,8 @@ async function updateCaseInCcd(userName, password, caseId, caseType, eventId, da
     },
     event_token: eventToken
   };
+
+  logger.info('Save event URI: ' + ccdApiUrl + ccdSaveEventPath);
 
   const saveEventOptions = {
     method: 'POST',

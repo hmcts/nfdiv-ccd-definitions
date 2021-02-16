@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "08/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralEmailDateTime",
     "Label": "General letter date",
     "FieldType": "Date",
@@ -9,7 +9,7 @@
   },
   {
     "LiveFrom": "08/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralEmailParties",
     "Label": "Address to",
     "FieldType": "FixedList",
@@ -18,7 +18,7 @@
   },
   {
     "LiveFrom": "08/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralEmailOtherRecipientEmail",
     "Label": "Recipient's email",
     "FieldType": "Email",
@@ -26,7 +26,7 @@
   },
   {
     "LiveFrom": "08/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralEmailOtherRecipientName",
     "Label": "Recipient's name",
     "FieldType": "Text",
@@ -34,7 +34,7 @@
   },
   {
     "LiveFrom": "08/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralEmailDetails",
     "Label": "Please provide details",
     "FieldType": "TextArea",

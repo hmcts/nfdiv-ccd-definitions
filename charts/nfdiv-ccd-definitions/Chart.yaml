@@ -1,6 +1,6 @@
 apiVersion: v2
-description: Divorce - CCD Definitions
-name: div-ccd-definitions
+description: No Fault Divorce - CCD Definitions
+name: nfdiv-ccd-definitions
 version: 2.0.1
 dependencies:
   - name: nodejs

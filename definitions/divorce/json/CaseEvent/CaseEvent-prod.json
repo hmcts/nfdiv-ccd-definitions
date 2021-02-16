@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "01/03/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "reissueFromRejected",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
@@ -15,7 +15,7 @@
   },
   {
     "LiveFrom": "01/03/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "reissueFromIssued",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
@@ -29,7 +29,7 @@
   },
   {
     "LiveFrom": "01/03/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "reissueFromAosAwaiting",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
@@ -43,7 +43,7 @@
   },
   {
     "LiveFrom": "01/03/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "reissueFromAosStarted",
     "Name": "Reissue petition",
     "Description": "Reissue petition",
@@ -57,7 +57,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "startAos",
     "Name": "AOS started",
     "Description": "AOS started",
@@ -119,7 +119,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solicitorStatementOfTruthPaySubmit",
     "Name": "Case submission",
     "Description": "Agree Statement of Truth, Pay & Submit",

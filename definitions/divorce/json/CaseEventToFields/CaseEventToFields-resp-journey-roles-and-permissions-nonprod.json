@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "respondentSolicitorRepresented",
     "PageFieldDisplayOrder": 1,
@@ -13,7 +13,7 @@
   },
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8RespondentSolicitorName",
     "PageFieldDisplayOrder": 2,
@@ -26,7 +26,7 @@
   },
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "respondentSolicitorReference",
     "PageFieldDisplayOrder": 3,
@@ -39,7 +39,7 @@
   },
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8RespondentSolicitorPhone",
     "PageFieldDisplayOrder": 4,
@@ -52,7 +52,7 @@
   },
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8RespondentSolicitorEmail",
     "PageFieldDisplayOrder": 4,
@@ -65,7 +65,7 @@
   },
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8DerivedRespondentSolicitorAddr",
     "PageFieldDisplayOrder": 5,
@@ -78,7 +78,7 @@
   },
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelRespondentServiceDetails-DigitalOrPaper",
     "PageFieldDisplayOrder": 6,
@@ -91,7 +91,7 @@
   },
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "RespSolDigital",
     "PageFieldDisplayOrder": 7,
@@ -104,7 +104,7 @@
   },
   {
     "LiveFrom": "04/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "RespondentOrganisationPolicy",
     "PageFieldDisplayOrder": 8,
@@ -117,7 +117,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8DerivedRespondentHomeAddress",
     "PageFieldDisplayOrder": 9,
@@ -130,7 +130,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8DerivedRespondentCorrespondenceAddr",
     "PageFieldDisplayOrder": 10,
@@ -143,7 +143,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8MarriageDate",
     "PageFieldDisplayOrder": 1,
@@ -155,7 +155,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8MarriagePetitionerName",
     "PageFieldDisplayOrder": 2,
@@ -167,7 +167,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8MarriageRespondentName",
     "PageFieldDisplayOrder": 3,
@@ -179,7 +179,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8MarriedInUk",
     "PageFieldDisplayOrder": 4,
@@ -191,7 +191,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8MarriagePlaceOfMarriage",
     "PageFieldDisplayOrder": 5,
@@ -204,7 +204,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8CountryName",
     "PageFieldDisplayOrder": 6,
@@ -217,7 +217,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolJurisdictionPara-1",
     "PageFieldDisplayOrder": 1,
@@ -229,7 +229,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolicitorOppositeSexRegulations",
     "PageFieldDisplayOrder": 2,
@@ -242,7 +242,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSoliciorSameSexRegulations",
     "PageFieldDisplayOrder": 3,
@@ -255,7 +255,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8JurisdictionConnection",
     "PageFieldDisplayOrder": 4,
@@ -267,7 +267,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "labelResidualJurisdictionPara-1",
     "PageFieldDisplayOrder": 5,
@@ -279,7 +279,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolReasonForDivorcePara-1",
     "PageFieldDisplayOrder": 1,
@@ -291,7 +291,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorce",
     "PageFieldDisplayOrder": 2,
@@ -303,7 +303,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCAdulteryPara-1",
     "PageFieldDisplayOrder": 1,
@@ -316,7 +316,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCAdulteryPara-2",
     "PageFieldDisplayOrder": 2,
@@ -328,7 +328,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCAdulteryPara-3",
     "PageFieldDisplayOrder": 3,
@@ -340,7 +340,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCAdulteryPara-5",
     "PageFieldDisplayOrder": 5,
@@ -352,7 +352,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceAdulteryDetails",
     "PageFieldDisplayOrder": 5,
@@ -364,7 +364,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceAdulteryAnyInfo2ndHand",
     "PageFieldDisplayOrder": 6,
@@ -376,7 +376,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceAdultery2ndHandDetails",
     "PageFieldDisplayOrder": 7,
@@ -389,7 +389,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCCoRespondentPara-1",
     "PageFieldDisplayOrder": 1,
@@ -402,7 +402,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCCoRespondentPara-2",
     "PageFieldDisplayOrder": 2,
@@ -414,7 +414,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCCoRespondentPara-3",
     "PageFieldDisplayOrder": 3,
@@ -426,7 +426,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceAdulteryWishToName",
     "PageFieldDisplayOrder": 4,
@@ -438,7 +438,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceAdultery3rdPartyFName",
     "PageFieldDisplayOrder": 5,
@@ -451,7 +451,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceAdultery3rdPartyLName",
     "PageFieldDisplayOrder": 6,
@@ -464,7 +464,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8DerivedReasonForDivorceAdultery3rdAddr",
     "PageFieldDisplayOrder": 7,
@@ -477,7 +477,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCBehaviourPara-1",
     "PageFieldDisplayOrder": 1,
@@ -490,7 +490,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCBehaviourPara-2",
     "PageFieldDisplayOrder": 2,
@@ -502,7 +502,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCBehaviourPara-3",
     "PageFieldDisplayOrder": 3,
@@ -514,7 +514,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceBehaviourDetails",
     "PageFieldDisplayOrder": 4,
@@ -526,7 +526,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCDesertionPara-1",
     "PageFieldDisplayOrder": 1,
@@ -540,7 +540,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolSOCDesertionPara-2",
     "PageFieldDisplayOrder": 2,
@@ -552,7 +552,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceDesertionAgreed",
     "PageFieldDisplayOrder": 3,
@@ -564,7 +564,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceDesertionDate",
     "PageFieldDisplayOrder": 4,
@@ -576,7 +576,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceDesertionDetails",
     "PageFieldDisplayOrder": 5,
@@ -588,7 +588,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabSolSOCSeparation-Para1",
     "PageFieldDisplayOrder": 1,
@@ -602,7 +602,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabSolSOCSeparation-Para2",
     "PageFieldDisplayOrder": 2,
@@ -614,7 +614,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8MentalSeparationDate",
     "PageFieldDisplayOrder": 3,
@@ -626,7 +626,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8PhysicalSeparationDate",
     "PageFieldDisplayOrder": 4,
@@ -638,7 +638,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8SeparationReferenceDate",
     "PageFieldDisplayOrder": 1,
@@ -651,7 +651,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8ReasonForDivorceSeperationDate",
     "PageFieldDisplayOrder": 2,
@@ -663,7 +663,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8SeparationTimeTogetherPermitted",
     "PageFieldDisplayOrder": 3,
@@ -676,7 +676,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "SepYears",
     "PageFieldDisplayOrder": 4,
@@ -689,7 +689,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8LivedApartSinceSeparation",
     "PageFieldDisplayOrder": 5,
@@ -702,7 +702,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8LivedTogetherMoreTimeThanPermitted",
     "PageFieldDisplayOrder": 6,
@@ -715,7 +715,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8DesertionTimeTogetherPermitted",
     "PageFieldDisplayOrder": 7,
@@ -728,7 +728,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8LivedApartSinceDesertion",
     "PageFieldDisplayOrder": 8,
@@ -741,7 +741,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8LivedTogetherMoreTimeThanPermittedDesert",
     "PageFieldDisplayOrder": 9,
@@ -754,7 +754,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LivedTogetherSepPermittedPara-1",
     "PageFieldDisplayOrder": 10,
@@ -767,7 +767,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LivedTogetherDesertionPermittedPara-1",
     "PageFieldDisplayOrder": 11,
@@ -780,7 +780,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8LegalProceedings",
     "PageFieldDisplayOrder": 1,
@@ -792,7 +792,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8LegalProceedingsDetails",
     "PageFieldDisplayOrder": 2,
@@ -805,7 +805,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8FinancialOrder",
     "PageFieldDisplayOrder": 1,
@@ -817,7 +817,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8FinancialOrderFor",
     "PageFieldDisplayOrder": 2,
@@ -830,7 +830,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolClaimCostsPara-1",
     "PageFieldDisplayOrder": 1,
@@ -842,7 +842,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8DivorceCostsClaim",
     "PageFieldDisplayOrder": 2,
@@ -854,7 +854,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8DivorceClaimFrom",
     "PageFieldDisplayOrder": 3,
@@ -867,7 +867,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolUploadDocsPara-1",
     "PageFieldDisplayOrder": 1,
@@ -879,7 +879,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolUploadDocsPara-2",
     "PageFieldDisplayOrder": 2,
@@ -891,7 +891,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolUploadDocsPara-3",
     "PageFieldDisplayOrder": 3,
@@ -903,7 +903,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolUploadDocsPara-4",
     "PageFieldDisplayOrder": 4,
@@ -915,7 +915,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolUploadDocsPara-5",
     "PageFieldDisplayOrder": 5,
@@ -927,7 +927,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "D8DocumentsUploaded",
     "PageFieldDisplayOrder": 6,
@@ -939,7 +939,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LanguagePreferenceWelsh",
     "PageFieldDisplayOrder": 1,
@@ -951,7 +951,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-AboutPetitioner",
     "PageFieldDisplayOrder": 0,
@@ -963,7 +963,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-AboutRespondent",
     "PageFieldDisplayOrder": 0,
@@ -975,7 +975,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-CertificationDetails",
     "PageFieldDisplayOrder": 0,
@@ -987,7 +987,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-Jurisdiction",
     "PageFieldDisplayOrder": 0,
@@ -999,7 +999,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-ReasonForDivorce",
     "PageFieldDisplayOrder": 0,
@@ -1011,7 +1011,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-Separation",
     "PageFieldDisplayOrder": 0,
@@ -1023,7 +1023,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-Desertion",
     "PageFieldDisplayOrder": 0,
@@ -1035,7 +1035,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-Adultery",
     "PageFieldDisplayOrder": 0,
@@ -1047,7 +1047,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-AdulteryCoResp",
     "PageFieldDisplayOrder": 0,
@@ -1059,7 +1059,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-Behaviour",
     "PageFieldDisplayOrder": 0,
@@ -1071,7 +1071,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-LivedApart",
     "PageFieldDisplayOrder": 0,
@@ -1083,7 +1083,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-LegalProceedings",
     "PageFieldDisplayOrder": 0,
@@ -1095,7 +1095,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-FinancialOrders",
     "PageFieldDisplayOrder": 0,
@@ -1107,7 +1107,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-ClaimCosts",
     "PageFieldDisplayOrder": 0,
@@ -1119,7 +1119,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorCreate",
     "CaseFieldID": "LabelSolAboutEditingApplication-UploadMarriageCert",
     "PageFieldDisplayOrder": 0,
@@ -1131,7 +1131,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "respondentSolicitorRepresented",
     "PageFieldDisplayOrder": 1,
@@ -1143,7 +1143,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8RespondentSolicitorName",
     "PageFieldDisplayOrder": 2,
@@ -1156,7 +1156,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "respondentSolicitorReference",
     "PageFieldDisplayOrder": 3,
@@ -1169,7 +1169,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8RespondentSolicitorPhone",
     "PageFieldDisplayOrder": 4,
@@ -1182,7 +1182,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8RespondentSolicitorEmail",
     "PageFieldDisplayOrder": 4,
@@ -1195,7 +1195,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8DerivedRespondentSolicitorAddr",
     "PageFieldDisplayOrder": 5,
@@ -1208,7 +1208,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelRespondentServiceDetails-DigitalOrPaper",
     "PageFieldDisplayOrder": 6,
@@ -1221,7 +1221,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "RespSolDigital",
     "PageFieldDisplayOrder": 7,
@@ -1234,7 +1234,7 @@
   },
   {
     "LiveFrom": "09/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "RespondentOrganisationPolicy",
     "PageFieldDisplayOrder": 8,
@@ -1247,7 +1247,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8DerivedRespondentHomeAddress",
     "PageFieldDisplayOrder": 9,
@@ -1260,7 +1260,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8DerivedRespondentCorrespondenceAddr",
     "PageFieldDisplayOrder": 10,
@@ -1273,7 +1273,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8MarriageDate",
     "PageFieldDisplayOrder": 1,
@@ -1285,7 +1285,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8MarriagePetitionerName",
     "PageFieldDisplayOrder": 2,
@@ -1297,7 +1297,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8MarriageRespondentName",
     "PageFieldDisplayOrder": 3,
@@ -1309,7 +1309,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8MarriedInUk",
     "PageFieldDisplayOrder": 4,
@@ -1321,7 +1321,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8MarriagePlaceOfMarriage",
     "PageFieldDisplayOrder": 5,
@@ -1334,7 +1334,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8CountryName",
     "PageFieldDisplayOrder": 6,
@@ -1347,7 +1347,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolJurisdictionPara-1",
     "PageFieldDisplayOrder": 1,
@@ -1359,7 +1359,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolicitorOppositeSexRegulations",
     "PageFieldDisplayOrder": 2,
@@ -1372,7 +1372,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSoliciorSameSexRegulations",
     "PageFieldDisplayOrder": 3,
@@ -1385,7 +1385,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8JurisdictionConnection",
     "PageFieldDisplayOrder": 4,
@@ -1397,7 +1397,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "labelResidualJurisdictionPara-1",
     "PageFieldDisplayOrder": 5,
@@ -1409,7 +1409,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolReasonForDivorcePara-1",
     "PageFieldDisplayOrder": 1,
@@ -1421,7 +1421,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorce",
     "PageFieldDisplayOrder": 2,
@@ -1433,7 +1433,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCAdulteryPara-1",
     "PageFieldDisplayOrder": 1,
@@ -1446,7 +1446,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCAdulteryPara-2",
     "PageFieldDisplayOrder": 2,
@@ -1458,7 +1458,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCAdulteryPara-3",
     "PageFieldDisplayOrder": 3,
@@ -1470,7 +1470,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCAdulteryPara-5",
     "PageFieldDisplayOrder": 5,
@@ -1482,7 +1482,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceAdulteryDetails",
     "PageFieldDisplayOrder": 5,
@@ -1494,7 +1494,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceAdulteryAnyInfo2ndHand",
     "PageFieldDisplayOrder": 6,
@@ -1506,7 +1506,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceAdultery2ndHandDetails",
     "PageFieldDisplayOrder": 7,
@@ -1519,7 +1519,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCCoRespondentPara-1",
     "PageFieldDisplayOrder": 1,
@@ -1532,7 +1532,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCCoRespondentPara-2",
     "PageFieldDisplayOrder": 2,
@@ -1544,7 +1544,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCCoRespondentPara-3",
     "PageFieldDisplayOrder": 3,
@@ -1556,7 +1556,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceAdulteryWishToName",
     "PageFieldDisplayOrder": 4,
@@ -1568,7 +1568,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceAdultery3rdPartyFName",
     "PageFieldDisplayOrder": 5,
@@ -1581,7 +1581,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceAdultery3rdPartyLName",
     "PageFieldDisplayOrder": 6,
@@ -1594,7 +1594,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8DerivedReasonForDivorceAdultery3rdAddr",
     "PageFieldDisplayOrder": 7,
@@ -1607,7 +1607,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCBehaviourPara-1",
     "PageFieldDisplayOrder": 1,
@@ -1620,7 +1620,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCBehaviourPara-2",
     "PageFieldDisplayOrder": 2,
@@ -1632,7 +1632,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCBehaviourPara-3",
     "PageFieldDisplayOrder": 3,
@@ -1644,7 +1644,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceBehaviourDetails",
     "PageFieldDisplayOrder": 4,
@@ -1656,7 +1656,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCDesertionPara-1",
     "PageFieldDisplayOrder": 1,
@@ -1670,7 +1670,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolSOCDesertionPara-2",
     "PageFieldDisplayOrder": 2,
@@ -1682,7 +1682,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceDesertionAgreed",
     "PageFieldDisplayOrder": 3,
@@ -1694,7 +1694,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceDesertionDate",
     "PageFieldDisplayOrder": 4,
@@ -1706,7 +1706,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceDesertionDetails",
     "PageFieldDisplayOrder": 5,
@@ -1718,7 +1718,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabSolSOCSeparation-Para1",
     "PageFieldDisplayOrder": 1,
@@ -1732,7 +1732,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabSolSOCSeparation-Para2",
     "PageFieldDisplayOrder": 2,
@@ -1744,7 +1744,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8MentalSeparationDate",
     "PageFieldDisplayOrder": 3,
@@ -1756,7 +1756,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8PhysicalSeparationDate",
     "PageFieldDisplayOrder": 4,
@@ -1768,7 +1768,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8SeparationReferenceDate",
     "PageFieldDisplayOrder": 1,
@@ -1781,7 +1781,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8ReasonForDivorceSeperationDate",
     "PageFieldDisplayOrder": 2,
@@ -1793,7 +1793,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8SeparationTimeTogetherPermitted",
     "PageFieldDisplayOrder": 3,
@@ -1806,7 +1806,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "SepYears",
     "PageFieldDisplayOrder": 4,
@@ -1819,7 +1819,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8LivedApartSinceSeparation",
     "PageFieldDisplayOrder": 5,
@@ -1832,7 +1832,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8LivedTogetherMoreTimeThanPermitted",
     "PageFieldDisplayOrder": 6,
@@ -1845,7 +1845,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8DesertionTimeTogetherPermitted",
     "PageFieldDisplayOrder": 7,
@@ -1858,7 +1858,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8LivedApartSinceDesertion",
     "PageFieldDisplayOrder": 8,
@@ -1871,7 +1871,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8LivedTogetherMoreTimeThanPermittedDesert",
     "PageFieldDisplayOrder": 9,
@@ -1884,7 +1884,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LivedTogetherSepPermittedPara-1",
     "PageFieldDisplayOrder": 10,
@@ -1897,7 +1897,7 @@
   },
   {
     "LiveFrom": "05/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LivedTogetherDesertionPermittedPara-1",
     "PageFieldDisplayOrder": 11,
@@ -1910,7 +1910,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8LegalProceedings",
     "PageFieldDisplayOrder": 1,
@@ -1922,7 +1922,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8LegalProceedingsDetails",
     "PageFieldDisplayOrder": 2,
@@ -1935,7 +1935,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8FinancialOrder",
     "PageFieldDisplayOrder": 1,
@@ -1947,7 +1947,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8FinancialOrderFor",
     "PageFieldDisplayOrder": 2,
@@ -1960,7 +1960,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolClaimCostsPara-1",
     "PageFieldDisplayOrder": 1,
@@ -1972,7 +1972,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8DivorceCostsClaim",
     "PageFieldDisplayOrder": 2,
@@ -1984,7 +1984,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8DivorceClaimFrom",
     "PageFieldDisplayOrder": 3,
@@ -1997,7 +1997,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolUploadDocsPara-1",
     "PageFieldDisplayOrder": 1,
@@ -2009,7 +2009,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolUploadDocsPara-2",
     "PageFieldDisplayOrder": 2,
@@ -2021,7 +2021,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolUploadDocsPara-3",
     "PageFieldDisplayOrder": 3,
@@ -2033,7 +2033,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolUploadDocsPara-4",
     "PageFieldDisplayOrder": 4,
@@ -2045,7 +2045,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolUploadDocsPara-5",
     "PageFieldDisplayOrder": 5,
@@ -2057,7 +2057,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "D8DocumentsUploaded",
     "PageFieldDisplayOrder": 2,
@@ -2069,7 +2069,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-AboutPetitioner",
     "PageFieldDisplayOrder": 0,
@@ -2081,7 +2081,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-AboutRespondent",
     "PageFieldDisplayOrder": 0,
@@ -2093,7 +2093,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-CertificationDetails",
     "PageFieldDisplayOrder": 0,
@@ -2105,7 +2105,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-Jurisdiction",
     "PageFieldDisplayOrder": 0,
@@ -2117,7 +2117,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-ReasonForDivorce",
     "PageFieldDisplayOrder": 0,
@@ -2129,7 +2129,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-Separation",
     "PageFieldDisplayOrder": 0,
@@ -2141,7 +2141,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-Desertion",
     "PageFieldDisplayOrder": 0,
@@ -2153,7 +2153,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-Adultery",
     "PageFieldDisplayOrder": 0,
@@ -2165,7 +2165,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-AdulteryCoResp",
     "PageFieldDisplayOrder": 0,
@@ -2177,7 +2177,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-Behaviour",
     "PageFieldDisplayOrder": 0,
@@ -2189,7 +2189,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-LivedApart",
     "PageFieldDisplayOrder": 0,
@@ -2201,7 +2201,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-LegalProceedings",
     "PageFieldDisplayOrder": 0,
@@ -2213,7 +2213,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-FinancialOrders",
     "PageFieldDisplayOrder": 0,
@@ -2225,7 +2225,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-ClaimCosts",
     "PageFieldDisplayOrder": 0,
@@ -2237,7 +2237,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "solicitorUpdate",
     "CaseFieldID": "LabelSolAboutEditingApplication-UploadMarriageCert",
     "PageFieldDisplayOrder": 0,
@@ -2249,7 +2249,7 @@
   },
   {
     "LiveFrom": "05/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "UpdatePetSolContactDetails",
     "CaseFieldID": "PetitionerSolicitorName",
     "PageFieldDisplayOrder": 1,
@@ -2260,7 +2260,7 @@
   },
   {
     "LiveFrom": "05/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "UpdatePetSolContactDetails",
     "CaseFieldID": "PetitionerSolicitorPhone",
     "PageFieldDisplayOrder": 2,
@@ -2271,7 +2271,7 @@
   },
   {
     "LiveFrom": "05/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "UpdatePetSolContactDetails",
     "CaseFieldID": "PetitionerSolicitorEmail",
     "PageFieldDisplayOrder": 3,
@@ -2282,7 +2282,7 @@
   },
   {
     "LiveFrom": "05/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "UpdatePetSolContactDetails",
     "CaseFieldID": "SolicitorAgreeToReceiveEmails",
     "PageFieldDisplayOrder": 4,
@@ -2293,7 +2293,7 @@
   },
   {
     "LiveFrom": "05/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "UpdatePetSolContactDetails",
     "CaseFieldID": "DerivedPetitionerSolicitorAddr",
     "PageFieldDisplayOrder": 5,
@@ -2304,7 +2304,7 @@
   },
   {
     "LiveFrom": "11/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "updateRespSolContactDetails",
     "CaseFieldID": "D8RespondentSolicitorName",
     "PageFieldDisplayOrder": 1,
@@ -2315,7 +2315,7 @@
   },
   {
     "LiveFrom": "11/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "updateRespSolContactDetails",
     "CaseFieldID": "D8RespondentSolicitorPhone",
     "PageFieldDisplayOrder": 2,
@@ -2326,7 +2326,7 @@
   },
   {
     "LiveFrom": "11/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "updateRespSolContactDetails",
     "CaseFieldID": "D8RespondentSolicitorEmail",
     "PageFieldDisplayOrder": 3,
@@ -2337,7 +2337,7 @@
   },
   {
     "LiveFrom": "11/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "updateRespSolContactDetails",
     "CaseFieldID": "RespSolAgreeToReceiveEmails",
     "PageFieldDisplayOrder": 4,
@@ -2348,7 +2348,7 @@
   },
   {
     "LiveFrom": "11/02/2021",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "updateRespSolContactDetails",
     "CaseFieldID": "D8DerivedRespondentSolicitorAddr",
     "PageFieldDisplayOrder": 5,

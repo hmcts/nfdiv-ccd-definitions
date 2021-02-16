@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "28/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "createGeneralEmail",
     "CaseFieldID": "GeneralEmailParties",
     "PageFieldDisplayOrder": 1,
@@ -14,7 +14,7 @@
   },
   {
     "LiveFrom": "28/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "createGeneralEmail",
     "CaseFieldID": "GeneralEmailOtherRecipientEmail",
     "PageFieldDisplayOrder": 2,
@@ -28,7 +28,7 @@
   },
   {
     "LiveFrom": "28/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "createGeneralEmail",
     "CaseFieldID": "GeneralEmailOtherRecipientName",
     "PageFieldDisplayOrder": 3,
@@ -42,7 +42,7 @@
   },
   {
     "LiveFrom": "28/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "CaseEventID": "createGeneralEmail",
     "CaseFieldID": "GeneralEmailDetails",
     "PageFieldDisplayOrder": 4,

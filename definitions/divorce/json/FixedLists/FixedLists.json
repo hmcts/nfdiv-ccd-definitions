@@ -1559,5 +1559,17 @@
     "ID": "d8documentsReceivedEnum",
     "ListElementCode": "deemedServiceRefused",
     "ListElement": "Deemed service refused"
+  },
+  {
+    "LiveFrom": "02/02/2021",
+    "ID": "divorceOrDissolutionEnum",
+    "ListElementCode": "divorce",
+    "ListElement": "Divorce"
+  },
+  {
+    "LiveFrom": "02/02/2021",
+    "ID": "divorceOrDissolutionEnum",
+    "ListElementCode": "dissolution",
+    "ListElement": "Dissolution"
   }
 ]

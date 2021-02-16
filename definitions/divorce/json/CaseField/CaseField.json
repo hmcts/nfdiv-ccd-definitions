@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8legalProcess",
     "Label": "Type",
     "HintText": "Legal process (divorce, dissolution, judicial separation)",
@@ -11,7 +11,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8caseReference",
     "Label": "FamilyMan reference",
     "HintText": "FamilyMan case reference",
@@ -21,7 +21,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8caseReferenceLabel",
     "Label": "FamilyMan reference: **${D8caseReference}**",
     "HintText": "FamilyMan case reference",
@@ -30,7 +30,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "createdDate",
     "Label": "Created date",
     "HintText": "Date case was created",
@@ -39,7 +39,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ScreenHasMarriageBroken",
     "Label": "Marriage broken irretrievably?",
     "HintText": "Has petitioner's marriage broken down irretrievably?",
@@ -48,7 +48,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ScreenHasRespondentAddress",
     "Label": "Address for respondent?",
     "HintText": "Has the petitioner got a correspondence address for the respondent?",
@@ -57,7 +57,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ScreenHasMarriageCert",
     "Label": "Petitioner got marriage cert.?",
     "HintText": "Has the petitioner got their marriage certificate?",
@@ -66,7 +66,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ScreenHasPrinter",
     "Label": "Petitioner access to printer?",
     "HintText": "Has the petitioner got access to a printer?",
@@ -75,7 +75,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DivorceWho",
     "Label": "Who is petitioner divorcing?",
     "HintText": "Husband or Wife?",
@@ -85,7 +85,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriageIsSameSexCouple",
     "Label": "Were the petitioner and the respondent a same-sex couple when they got married?",
     "FieldType": "YesOrNo",
@@ -93,7 +93,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8InferredPetitionerGender",
     "Label": "What is the petitioner's gender?",
     "HintText": "The petitioner’s gender is collected for statistical purposes only.",
@@ -103,7 +103,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8InferredRespondentGender",
     "Label": "What is the respondent's gender?",
     "HintText": "The respondent’s gender is collected for statistical purposes only.",
@@ -113,7 +113,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriageDate",
     "Label": "Marriage date",
     "FieldType": "Date",
@@ -121,7 +121,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriedInUk",
     "Label": "Did the marriage take place in the UK?",
     "FieldType": "YesOrNo",
@@ -129,7 +129,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8CertificateInEnglish",
     "Label": "Marriage certificate in English?",
     "FieldType": "YesOrNo",
@@ -137,7 +137,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8CertifiedTranslation",
     "Label": "Marriage certificate translation",
     "HintText": "Is there an English translation of the marriage certificate?",
@@ -146,7 +146,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriagePlaceOfMarriage",
     "Label": "Place of marriage",
     "HintText": "Enter the place of marriage as it appears on the marriage certificate",
@@ -155,7 +155,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8CountryName",
     "Label": "Country of marriage",
     "HintText": "Enter the country in which the marriage took place",
@@ -164,7 +164,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriagePetitionerName",
     "Label": "Petitioner's full name as on marriage certificate",
     "HintText": "Enter the petitioner's name exactly as it appears on the marriage certificate. Include any extra text such as \"formerly known as\"",
@@ -173,7 +173,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriageRespondentName",
     "Label": "Respondent's full name as on marriage certificate",
     "HintText": "Enter the respondent's name exactly as it appears on the marriage certificate. Include any extra text such as \"formerly known as\"",
@@ -182,7 +182,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RejectMarriageDetails",
     "Label": "Reject marriage details",
     "HintText": "Rejection reasons for the marriage certificate",
@@ -191,7 +191,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerNameDifferentToMarriageCert",
     "Label": "Has the petitioner changed their name since they got married?",
     "HintText": "Is the petitioner’s current name different to their married name or the name shown on their marriage certificate?",
@@ -200,7 +200,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerEmail",
     "Label": "Petitioner's email address",
     "FieldType": "Email",
@@ -208,7 +208,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerPhoneNumber",
     "Label": "Petitioner's phone number",
     "FieldType": "Text",
@@ -217,7 +217,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerFirstName",
     "Label": "First name(s)",
     "HintText": "Include all middle names here",
@@ -226,7 +226,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerLastName",
     "Label": "Last name",
     "FieldType": "Text",
@@ -234,7 +234,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedPetitionerCurrentFullName",
     "Label": "Petitioner's current full name",
     "HintText": "Petitioner's current full name",
@@ -243,7 +243,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerHasNameChanged",
     "Label": "Did the petitioner change their name?",
     "FieldType": "YesOrNo",
@@ -251,7 +251,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerNameChangedHow",
     "Label": "How did the petitioner change their name?",
     "FieldType": "MultiSelectList",
@@ -260,7 +260,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerNameChangedHowOtherDetails",
     "Label": "Provide details of how they changed their name",
     "FieldType": "TextArea",
@@ -268,7 +268,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerContactDetailsConfidential",
     "Label": "Keep the petitioner's contact details private from the respondent?",
     "FieldType": "FixedList",
@@ -277,7 +277,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerHomeAddress",
     "Label": "Petitioner's home address",
     "HintText": "This information may be used to assess jurisdiction or contact the petitioner if you cease to act on behalf of the petitioner",
@@ -286,7 +286,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedPetitionerHomeAddress",
     "Label": "The Petitioner's home address",
     "FieldType": "TextArea",
@@ -294,7 +294,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerCorrespondenceAddress",
     "Label": "Petitioner's service address",
     "FieldType": "AddressBaseUk",
@@ -302,7 +302,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedPetitionerCorrespondenceAddr",
     "Label": "Petitioner's service address",
     "FieldType": "TextArea",
@@ -310,7 +310,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerCorrespondenceUseHomeAddress",
     "Label": "Use home for service address?",
     "HintText": "Use petitioner's home address as address for service",
@@ -319,7 +319,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentNameAsOnMarriageCertificate",
     "Label": "Name changed since marriage?",
     "HintText": "Is the respondent’s current name different to their married name or the name shown on their marriage certificate?",
@@ -328,7 +328,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentFirstName",
     "Label": "Respondent's First name(s)",
     "HintText": "Include all middle names here",
@@ -337,7 +337,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentLastName",
     "Label": "Respondent's Last name",
     "FieldType": "Text",
@@ -345,7 +345,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentPhoneNumber",
     "Label": "Respondent's phone number",
     "FieldType": "Text",
@@ -354,7 +354,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedRespondentCurrentName",
     "Label": "Respondent's current full name",
     "HintText": "Respondent's current full name",
@@ -363,7 +363,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedRespondentSolicitorDetails",
     "Label": "Solicitor details",
     "FieldType": "TextArea",
@@ -371,7 +371,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentHomeAddress",
     "Label": "Respondent's home address",
     "FieldType": "AddressBaseUk",
@@ -379,7 +379,7 @@
   },
   {
     "LiveFrom": "09/01/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentEmailAddress",
     "Label": "Respondent Email address written in Petition",
     "FieldType": "Email",
@@ -387,7 +387,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedRespondentHomeAddress",
     "Label": "The Respondent's home address",
     "HintText": "If the respondent is to be served at their home address, enter the home address here and as the service address below",
@@ -396,7 +396,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentCorrespondenceAddress",
     "Label": "Respondent's service address",
     "FieldType": "AddressBaseUk",
@@ -404,7 +404,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedRespondentCorrespondenceAddr",
     "Label": "The Respondent's service address",
     "FieldType": "TextArea",
@@ -412,7 +412,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentSolicitorName",
     "Label": "Respondent's solicitor's name",
     "FieldType": "Text",
@@ -420,7 +420,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentSolicitorCompany",
     "Label": "Name of respondent's solicitor's firm",
     "FieldType": "Text",
@@ -428,7 +428,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentCorrespondenceSendToSol",
     "Label": "Is the respondent using a solicitor?",
     "FieldType": "YesOrNo",
@@ -436,7 +436,7 @@
   },
   {
     "LiveFrom": "09/01/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentSolicitorReference",
     "Label": "Respondent Solicitor Reference",
     "FieldType": "Text",
@@ -444,7 +444,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentSolicitorAddress",
     "Label": "Respondent's solicitor's address",
     "FieldType": "AddressBaseUk",
@@ -452,7 +452,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentSolicitorPhone",
     "Label": "Respondent's solicitor's Phone number",
     "FieldType": "Text",
@@ -461,7 +461,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentSolicitorEmail",
     "Label": "Respondent's solicitor's Email",
     "FieldType": "Email",
@@ -469,7 +469,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedRespondentSolicitorAddr",
     "Label": "Respondent's solicitor's firm/ DX address",
     "FieldType": "TextArea",
@@ -477,7 +477,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentCorrespondenceUseHomeAddress",
     "Label": "Serve the respondent at their home address?",
     "FieldType": "FixedList",
@@ -486,7 +486,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentKnowsHomeAddress",
     "Label": "Petitioner knows respondent's home address?",
     "HintText": "Does petitioner know the respondents home address?",
@@ -495,7 +495,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RespondentLivesAtLastAddress",
     "Label": "D8RespondentLivesAtLastAddress",
     "FieldType": "YesOrNo",
@@ -503,7 +503,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RejectRespondentAddress",
     "Label": "Reject Respondent's service address",
     "HintText": "Rejection reasons for respondent address",
@@ -512,7 +512,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LivingArrangementsTogetherSeparated",
     "Label": "Petitioner and Respondent living together",
     "HintText": "Petitioner and respondent living together as a separated couple?",
@@ -521,7 +521,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LivingArrangementsLastLivedTogether",
     "Label": "Did the Petitioner and Respondent last live together at the given address?",
     "FieldType": "FixedList",
@@ -530,7 +530,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LivingArrangementsLiveTogether",
     "Label": "Petitioner and res. living together?",
     "FieldType": "YesOrNo",
@@ -538,7 +538,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LivingArrangementsLastLivedTogethAddr",
     "Label": "Address last lived together",
     "FieldType": "AddressBaseUk",
@@ -546,7 +546,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedLivingArrangementsLastLivedAddr",
     "Label": "At what address did the petitioner and the respondent last live together?",
     "HintText": "If the petitioner and respondent have never lived together, state this here",
@@ -555,7 +555,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LegalProceedings",
     "Label": "Are there any existing or previous court proceedings relating to the petitioner's marriage, property or children?",
     "FieldType": "YesOrNo",
@@ -563,7 +563,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LegalProceedingsRelated",
     "Label": "Legal proceedings relating to",
     "FieldType": "MultiSelectList",
@@ -572,7 +572,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LegalProceedingsDetails",
     "Label": "Legal proceeding details",
     "HintText": "Include the case number(s), if known.",
@@ -581,7 +581,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorce",
     "Label": "Fact",
     "HintText": "The reason for the irretrievable breakdown of the marriage",
@@ -591,7 +591,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedStatementOfCase",
     "Label": "Statement of case",
     "FieldType": "TextArea",
@@ -599,7 +599,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RejectStatementOfCase",
     "Label": "Reject statement of case",
     "FieldType": "RejectReason",
@@ -607,7 +607,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceBehaviourDetails",
     "Label": "Behaviour details",
     "FieldType": "TextArea",
@@ -615,7 +615,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionDate",
     "Label": "Desertion date",
     "FieldType": "Date",
@@ -623,7 +623,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionAgreed",
     "Label": "Did the respondent leave without the petitioner’s agreement?",
     "FieldType": "YesOrNo",
@@ -631,7 +631,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionDetails",
     "Label": "Desertion details",
     "FieldType": "TextArea",
@@ -639,7 +639,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceSeperationDate",
     "Label": "On what date did the petitioner and the respondent separate?",
     "FieldType": "Date",
@@ -647,7 +647,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdultery3rdPartyFName",
     "Label": "Co-respondent's first name",
     "FieldType": "Text",
@@ -655,7 +655,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdultery3rdPartyLName",
     "Label": "Co-respondent's last name",
     "FieldType": "Text",
@@ -663,7 +663,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedReasonForDivorceAdultery3dPtyNm",
     "Label": "Co-respondent's full name",
     "FieldType": "Text",
@@ -671,7 +671,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryDetails",
     "Label": "Adultery details",
     "FieldType": "TextArea",
@@ -679,7 +679,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryKnowWhen",
     "Label": "Petitioner knows when adultery took place?",
     "HintText": "Does petitioner know when the adultery took place?",
@@ -688,7 +688,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryWishToName",
     "Label": "Name co-respondent?",
     "HintText": "Does petitioner want to name co-respondent?",
@@ -697,7 +697,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryKnowWhere",
     "Label": "Petitioner know where adultery took place?",
     "HintText": "Does petitioner know where the adultery took place?",
@@ -706,7 +706,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryWhereDetails",
     "Label": "Details of where the adultery took place",
     "FieldType": "TextArea",
@@ -714,7 +714,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryWhenDetails",
     "Label": "When the adultery took place",
     "FieldType": "TextArea",
@@ -722,7 +722,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryIsNamed",
     "Label": "Does the petitioner wish to name the person with whom the respondent committed adultery?",
     "FieldType": "YesOrNo",
@@ -730,7 +730,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdultery3rdAddress",
     "Label": "Co-respondent's address",
     "FieldType": "AddressBaseUk",
@@ -738,7 +738,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DerivedReasonForDivorceAdultery3rdAddr",
     "Label": "The Co-respondent's address",
     "FieldType": "TextArea",
@@ -746,7 +746,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8FinancialOrder",
     "Label": "Does the petitioner wish to apply for a financial order?",
     "HintText": "The court will not start processing your request for a financial order until you submit the separate application and pay the fee.",
@@ -755,7 +755,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8FinancialOrderFor",
     "Label": "Who is the financial order for?",
     "FieldType": "MultiSelectList",
@@ -764,7 +764,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8HelpWithFeesNeedHelp",
     "Label": "Need help with fees?",
     "FieldType": "YesOrNo",
@@ -772,7 +772,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8HelpWithFeesAppliedForFees",
     "Label": "Applied for help with fees?",
     "HintText": "Has petitioner applied for Help With Fees?",
@@ -781,7 +781,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8HelpWithFeesReferenceNumber",
     "Label": "Help with fees reference",
     "FieldType": "Text",
@@ -790,7 +790,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PaymentMethod",
     "Label": "Payment method",
     "FieldType": "FixedList",
@@ -799,7 +799,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DivorceCostsClaim",
     "Label": "Does the petitioner want to claim costs?",
     "FieldType": "YesOrNo",
@@ -807,7 +807,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DivorceIsNamed",
     "Label": "D8DivorceIsNamed",
     "FieldType": "YesOrNo",
@@ -815,7 +815,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DivorceClaimFrom",
     "Label": "Claim costs from",
     "FieldType": "MultiSelectList",
@@ -824,7 +824,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8JurisdictionConfidentLegal",
     "Label": "Petitioner confident legal conns?",
     "HintText": "Is petitioner confident with their legal connections?",
@@ -833,7 +833,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8JurisdictionPath",
     "Label": "D8 Jurisdiction Path",
     "FieldType": "MultiSelectList",
@@ -842,7 +842,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8JurisdictionConnection",
     "Label": "Legal connections",
     "HintText": "Tick all the reasons that apply:",
@@ -852,7 +852,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8Connections",
     "Label": "Legal connections content",
     "FieldType": "Connections",
@@ -860,7 +860,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8JurisdictionLastTwelveMonths",
     "Label": "Last 12 months",
     "FieldType": "YesOrNo",
@@ -868,7 +868,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8JurisdictionPetitionerDomicile",
     "Label": "Petitioner domiciled?",
     "FieldType": "YesOrNo",
@@ -876,7 +876,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8JurisdictionPetitionerResidence",
     "Label": "Petitioner resident?",
     "FieldType": "YesOrNo",
@@ -884,7 +884,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8JurisdictionRespondentDomicile",
     "Label": "Respondent domiciled?",
     "FieldType": "YesOrNo",
@@ -892,7 +892,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8JurisdictionRespondentResidence",
     "Label": "Respondent resident?",
     "FieldType": "YesOrNo",
@@ -900,7 +900,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8JurisdictionHabituallyResLast6Months",
     "Label": "Is habitually resident in the last six months?",
     "HintText": "Is habitually resident in the last six months?",
@@ -909,7 +909,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ResidualJurisdictionEligible",
     "Label": "Residual jurisdiction eligible?",
     "FieldType": "YesOrNo",
@@ -917,7 +917,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "Payments",
     "Label": "Online payments received",
     "FieldType": "Collection",
@@ -926,7 +926,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DocumentsUploaded",
     "Label": "Documents uploaded",
     "FieldType": "Collection",
@@ -935,7 +935,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DocumentsGenerated",
     "Label": "Documents generated",
     "FieldType": "Collection",
@@ -944,7 +944,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ConfidentialDocumentsUploaded",
     "Label": "Confidential documents uploaded",
     "FieldType": "Collection",
@@ -953,7 +953,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8RejectDocumentsUploaded",
     "Label": "Reject documents uploaded",
     "FieldType": "TextArea",
@@ -961,7 +961,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8StatementOfTruth",
     "Label": "The petitioner believes that the facts stated in this application are true.",
     "FieldType": "YesOrNo",
@@ -969,7 +969,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8SolicitorReference",
     "Label": "Your reference number",
     "FieldType": "Text",
@@ -977,7 +977,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DivorceUnit",
     "Label": "RDC",
     "HintText": "Regional divorce unit",
@@ -987,7 +987,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ConnectionSummary",
     "Label": "D8ConnectionSummary",
     "FieldType": "Text",
@@ -995,7 +995,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceHasMarriage",
     "Label": "D8ReasonForDivorceHasMarriage",
     "FieldType": "YesOrNo",
@@ -1003,7 +1003,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceShowAdultery",
     "Label": "D8ReasonForDivorceShowAdultery",
     "FieldType": "YesOrNo",
@@ -1011,7 +1011,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceShowUnreasonableBehavi",
     "Label": "D8ReasonForDivorceShowUnreasnB",
     "FieldType": "YesOrNo",
@@ -1019,7 +1019,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceShowTwoYearsSeparation",
     "Label": "D8ReasonForDivorceShow2YearsSp",
     "FieldType": "YesOrNo",
@@ -1027,7 +1027,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceShowFiveYearsSeparatio",
     "Label": "D8ReasonForDivorceShow5YearsSp",
     "FieldType": "YesOrNo",
@@ -1035,7 +1035,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceShowDesertion",
     "Label": "D8ReasonForDivorceShowDesertn",
     "FieldType": "YesOrNo",
@@ -1043,7 +1043,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceLimitReasons",
     "Label": "D8ReasonForDivorceLimitReasons",
     "FieldType": "YesOrNo",
@@ -1051,7 +1051,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceEnableAdultery",
     "Label": "D8ReasonForDivorceEnableAdulty",
     "FieldType": "YesOrNo",
@@ -1059,7 +1059,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionAlright",
     "Label": "D8ReasonForDivorceDesertionAl",
     "FieldType": "YesOrNo",
@@ -1067,7 +1067,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PostcodeLookup",
     "Label": "D8PostcodeLookup",
     "FieldType": "Text",
@@ -1075,7 +1075,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ClaimsCostsAppliedForFees",
     "Label": "D8ClaimsCostsAppliedForFees",
     "FieldType": "YesOrNo",
@@ -1083,7 +1083,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceClaiming5YearSeparatio",
     "Label": "D8ReasonForDivorceClaiming5YrS",
     "FieldType": "YesOrNo",
@@ -1091,7 +1091,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceClaimingAdultery",
     "Label": "D8ReasonForDivorceClaimingAdul",
     "FieldType": "YesOrNo",
@@ -1099,7 +1099,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceSeperationDay",
     "Label": "Day",
     "FieldType": "Number",
@@ -1107,7 +1107,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceSeperationMonth",
     "Label": "Month",
     "FieldType": "Number",
@@ -1115,7 +1115,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceSeperationYear",
     "Label": "Year",
     "FieldType": "Number",
@@ -1123,7 +1123,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceSeperation",
     "Label": "Additional details",
     "FieldType": "TextArea",
@@ -1131,7 +1131,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceSeperationIsSameOrAftr",
     "Label": "D8ReasonForDivorceSepIsSmOrAft",
     "FieldType": "YesOrNo",
@@ -1139,7 +1139,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceSeperationInFuture",
     "Label": "D8ReasonForDivorceSepInFutr",
     "FieldType": "YesOrNo",
@@ -1147,7 +1147,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceSeperationBeforeMarria",
     "Label": "D8ReasonForDivorceSepB4Marriag",
     "FieldType": "YesOrNo",
@@ -1155,7 +1155,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionDay",
     "Label": "Day",
     "FieldType": "Number",
@@ -1163,7 +1163,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionMonth",
     "Label": "Month",
     "FieldType": "Number",
@@ -1171,7 +1171,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionYear",
     "Label": "Year",
     "FieldType": "Number",
@@ -1179,7 +1179,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionBeforeMarriag",
     "Label": "D8ReasonForDivorceDesertB4Marr",
     "FieldType": "YesOrNo",
@@ -1187,7 +1187,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionInFuture",
     "Label": "D8ReasonForDivorceDesertInFut",
     "FieldType": "YesOrNo",
@@ -1195,7 +1195,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertion",
     "Label": "Give a short summary of the circumstances surrounding the desertion",
     "FieldType": "TextArea",
@@ -1203,7 +1203,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriageCanDivorce",
     "Label": "D8MarriageCanDivorce",
     "FieldType": "YesOrNo",
@@ -1211,7 +1211,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriageIsFuture",
     "Label": "D8MarriageIsFuture",
     "FieldType": "YesOrNo",
@@ -1219,7 +1219,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriageMoreThan100",
     "Label": "D8MarriageMoreThan100",
     "FieldType": "YesOrNo",
@@ -1227,7 +1227,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8SelectedDivorceCentreSiteId",
     "Label": "Site ID for selected court",
     "FieldType": "Text",
@@ -1235,7 +1235,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerConsent",
     "Label": "Petitioner consent to receive communications",
     "FieldType": "YesOrNo",
@@ -1243,7 +1243,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8Cohort",
     "Label": "Cohort",
     "FieldType": "FixedList",
@@ -1252,7 +1252,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "dueDate",
     "Label": "Due Date",
     "FieldType": "Date",
@@ -1260,7 +1260,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ccdAddressIsSharablePara",
     "Label": "### The petitioner's contact details may be shared with the respondent",
     "FieldType": "Label",
@@ -1268,7 +1268,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ccdAddressIsConfidentialPara",
     "Label": "### Confidential Address - Take extra care to ensure the petitioner's contact details below are not shared with the respondent",
     "FieldType": "Label",
@@ -1276,7 +1276,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ccdLabel-AddressIsConfidential",
     "Label": "### The petitioner's contact details are CONFIDENTIAL",
     "FieldType": "Label",
@@ -1284,7 +1284,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ccdLabel-AddressIsShareable",
     "Label": "### The petitioner's contact details may be shared",
     "FieldType": "Label",
@@ -1292,7 +1292,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutTheSolPara-1",
     "Label": "Please note that the information provided will be used as evidence by the court to decide if the petitioner is entitled to legally end their marriage. **A copy of this form is sent to the respondent**",
     "FieldType": "Label",
@@ -1300,7 +1300,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionerSolicitor",
     "Label": "Is petitioner using a solicitor?",
     "FieldType": "YesOrNo",
@@ -1308,7 +1308,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionerSolicitorName",
     "Label": "Petitioner Solicitor’s name",
     "FieldType": "Text",
@@ -1316,7 +1316,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionerSolicitorFirm",
     "Label": "Firm name",
     "FieldType": "Text",
@@ -1324,7 +1324,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionerSolicitorAddress",
     "Label": "Your firm/ DX address",
     "HintText": "Your firm/ DX address",
@@ -1333,7 +1333,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionerSolicitorPhone",
     "Label": "Petitioner Solicitor Phone number",
     "FieldType": "Text",
@@ -1342,7 +1342,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionerSolicitorEmail",
     "Label": "Petitioner Solicitor Email",
     "FieldType": "Email",
@@ -1350,7 +1350,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolicitorAgreeToReceiveEmails",
     "Label": "I confirm I am willing to accept service of all correspondence and orders by email at the email address stated above.",
     "FieldType": "YesOrNo",
@@ -1358,7 +1358,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutThePetPara-2",
     "Label": "You’ll need to upload evidence of the name change (e.g. marriage certificate, change of name deed, statutory declaration) later in this application.",
     "FieldType": "Label",
@@ -1366,7 +1366,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolPetitionerDoTheyHaveAUKAddress",
     "Label": "Does the Petitioner have a UK Home address?",
     "FieldType": "YesOrNo",
@@ -1374,7 +1374,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionerHomeAddressGlobal",
     "Label": "Please enter the petitioner's non-UK address:",
     "FieldType": "AddressGlobal",
@@ -1382,7 +1382,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespNameDifferentToMarriageCertExplain",
     "Label": "Please explain, if known, how their name has changed since they were married.",
     "FieldType": "TextArea",
@@ -1390,7 +1390,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolRespondentDoTheyHaveAUKAddress",
     "Label": "Does the respondent have a UK Address?",
     "FieldType": "YesOrNo",
@@ -1398,7 +1398,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespondentHomeAddressGlobal",
     "Label": "Please enter the respondent's non-UK address:",
     "FieldType": "AddressGlobal",
@@ -1406,7 +1406,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutTheRespPara-1",
     "Label": "You must provide contact details for the respondent’s solicitor.",
     "FieldType": "Label",
@@ -1414,7 +1414,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolJurisdictionPara-1",
     "Label": "The court has legal power to deal with this application because the following applies:",
     "FieldType": "Label",
@@ -1422,7 +1422,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolReasonForDivorcePara-1",
     "Label": "Choose one of the following reasons to support the fact that the marriage has broken down irretrievably.",
     "FieldType": "Label",
@@ -1430,7 +1430,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCAdulteryPara-1",
     "Label": "Give some brief details to support the reason why the marriage has broken down irretrievably. ",
     "FieldType": "Label",
@@ -1438,7 +1438,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCAdulteryPara-2",
     "Label": "Include the date on which the petitioner first became aware of the adultery.",
     "FieldType": "Label",
@@ -1446,7 +1446,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCAdulteryPara-3",
     "Label": "Include what the petitioner believes they know about the adultery (the adultery that forms the basis of this petition). If the petitioner doesn't know any details of the adultery, say that they are unknown and explain why.",
     "FieldType": "Label",
@@ -1454,7 +1454,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCAdulteryPara-5",
     "Label": "Do not name the person with whom the adultery was committed, unless the petitioner wishes to formally include them in the divorce proceedings.",
     "FieldType": "Label",
@@ -1462,7 +1462,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolSOCAdulteryHaveTheyLivedTogetherfor6MonthsSinceAdulteryWhenDetails",
     "Label": "Have the petitioner and respondent lived together for more than 6 months since the adultery date?",
     "FieldType": "YesOrNo",
@@ -1470,7 +1470,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCCoRespondentPara-1",
     "Label": "The petitioner has the option to name the person with whom the respondent committed adultery.",
     "FieldType": "Label",
@@ -1478,7 +1478,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCCoRespondentPara-2",
     "Label": "Once named, they will usually become a co-respondent in the proceedings and will be sent copies of the application.",
     "FieldType": "Label",
@@ -1486,7 +1486,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCCoRespondentPara-3",
     "Label": "The divorce could be delayed and cost more if the co-respondent does not respond",
     "FieldType": "Label",
@@ -1494,7 +1494,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCBehaviourPara-1",
     "Label": "Give some brief details to support the reason why the marriage has broken down irretrievably. ",
     "FieldType": "Label",
@@ -1502,7 +1502,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCBehaviourPara-2",
     "Label": "Include examples of the respondent's behaviour which affect the petitioner the most, and the most recent incidents. Try to include dates if available. If the petitioner thinks their health has been affected, state how it has been affected",
     "FieldType": "Label",
@@ -1510,7 +1510,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCBehaviourPara-3",
     "Label": "Provide enough examples to satisfy the court that the petitioner cannot reasonably be expected to live with the respondent",
     "FieldType": "Label",
@@ -1518,7 +1518,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCDesertionPara-1",
     "Label": "Give some brief details to support the reason why the marriage has broken down irretrievably. ",
     "FieldType": "Label",
@@ -1526,7 +1526,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolSOCDesertionPara-2",
     "Label": "The respondent must have chosen to leave the petitioner for this reason to be valid. For example, you can't use desertion if the respondent has been sent to prison.",
     "FieldType": "Label",
@@ -1534,7 +1534,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolSOCDesertionLivedSeperateSinceDate",
     "Label": "Have the petitioner and respondent lived apart since the date?",
     "FieldType": "YesOrNo",
@@ -1542,7 +1542,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabSolSOCSeparation-Para1",
     "Label": "Give some brief details to support the reason why the marriage has broken down irretrievably. ",
     "FieldType": "Label",
@@ -1550,7 +1550,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabSolSOCSeparation-Para2",
     "Label": "You need to provide the following dates related to petitioner separation. The court will use the most recent separation date as the petitioner and respondent separated.",
     "FieldType": "Label",
@@ -1558,7 +1558,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SeparationLivedTogetherAsCoupleAgain",
     "Label": "Has there been any period or periods since the separation date that the petitioner and the respondent have resumed living together as a couple?",
     "FieldType": "YesOrNo",
@@ -1566,7 +1566,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SeparationLivedTogetherAsCoupleAgainDetails",
     "Label": "Enter the details and dates for the period or periods",
     "FieldType": "TextArea",
@@ -1574,7 +1574,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolClaimCostsPara-1",
     "Label": "A claim for costs can include all the fees the petitioner has to pay during the divorce, such as application fees, solicitor fees and any extra court fees.",
     "FieldType": "Label",
@@ -1582,7 +1582,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolUploadDocsPara-1",
     "Label": "You need to upload a digital photo or scan of the marriage certificate.",
     "FieldType": "Label",
@@ -1590,7 +1590,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolUploadDocsPara-2",
     "Label": "You can also upload other documents that you need to send to the court, e.g.",
     "FieldType": "Label",
@@ -1598,7 +1598,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolUploadDocsPara-3",
     "Label": " • Certified translation of a non-English marriage certificate",
     "FieldType": "Label",
@@ -1606,7 +1606,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolUploadDocsPara-4",
     "Label": " • Change of name deed",
     "FieldType": "Label",
@@ -1614,7 +1614,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolUploadDocsPara-5",
     "Label": "The image must be of the entire document and has to be readable by court staff. You can upload jpg, bmp, png, tif, or PDF files (max file size 10MB per file)",
     "FieldType": "Label",
@@ -1622,7 +1622,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolStatementOfTruthPara-1",
     "Label": "## The petitioner is applying to the court",
     "FieldType": "Label",
@@ -1630,7 +1630,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolStatementOfTruthPara-1.1",
     "Label": "That the marriage be dissolved as it has broken down irretrievably.",
     "FieldType": "Label",
@@ -1638,7 +1638,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolStatementOfTruthPara-1.2",
     "Label": "That a costs order may be granted.",
     "FieldType": "Label",
@@ -1646,7 +1646,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolStatementOfTruthPara-1.3",
     "Label": "That a financial order may be granted.",
     "FieldType": "Label",
@@ -1654,7 +1654,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolUrgentCase",
     "Label": "Is this an urgent jurisdiction case?",
     "FieldType": "YesOrNo",
@@ -1662,7 +1662,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolUrgentCaseSupportingInformation",
     "Label": "Any supporting information or instructions?",
     "FieldType": "TextArea",
@@ -1670,7 +1670,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolServiceMethod",
     "Label": "## Service method",
     "FieldType": "Label",
@@ -1678,7 +1678,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolServiceMethod",
     "Label": "How would you like the respondent to be served?",
     "FieldType": "FixedRadioList",
@@ -1687,7 +1687,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolPersonalService",
     "Label": "After service is complete you must notify the court by completing the 'Confirm Service' form in CCD. Refer to the information pack for further instruction on how to do this",
     "FieldType": "Label",
@@ -1695,7 +1695,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolStatementOTruthPara-3",
     "Label": "## Statement of reconciliation",
     "FieldType": "Label",
@@ -1703,7 +1703,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolStatementOfReconciliationCertify",
     "Label": "I have discussed the possibility of a reconciliation with the petitioner.",
     "FieldType": "YesOrNo",
@@ -1711,7 +1711,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolStatementOfReconciliationDiscussed",
     "Label": "I have given the petitioner the names and addresses of persons qualified to help effect a reconciliation.",
     "FieldType": "YesOrNo",
@@ -1719,7 +1719,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolStatementOfTruthPara-2",
     "Label": "## Statement of truth",
     "FieldType": "Label",
@@ -1727,7 +1727,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolStatementOfReconciliationName",
     "Label": "Your name",
     "FieldType": "Text",
@@ -1735,7 +1735,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolStatementOfReconciliationFirm",
     "Label": "Name of your firm",
     "FieldType": "Text",
@@ -1743,7 +1743,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolStatementOTruthPara-7",
     "Label": "You could be fined or imprisoned for contempt of court if you deliberately submit false information.",
     "FieldType": "Label",
@@ -1751,7 +1751,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolStatementOTruthPara-8",
     "Label": "If you have any comments you would like to make to the court staff regarding the application you may include them below.",
     "FieldType": "Label",
@@ -1759,7 +1759,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "StatementOfReconciliationComments",
     "Label": "Additional comments",
     "HintText": "For the attention of court staff. These comments will not form part of the petition",
@@ -1768,7 +1768,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolPaymentHowToPay",
     "Label": "How will payment be made?",
     "FieldType": "FixedList",
@@ -1777,7 +1777,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolicitorFeeAccountNumber",
     "Label": "Enter your account number",
     "HintText": "Example: PBA0896366",
@@ -1787,7 +1787,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolPaySummaryFeeAccountPara-1",
     "Label": "Payment Method: Fee Account",
     "FieldType": "Label",
@@ -1795,7 +1795,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolPaySummaryHWFPara-1",
     "Label": "Payment Method: Help with fees",
     "FieldType": "Label",
@@ -1803,7 +1803,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-1",
     "Label": "# Before you submit",
     "FieldType": "Label",
@@ -1811,7 +1811,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-2",
     "Label": "## What happens next",
     "FieldType": "Label",
@@ -1819,7 +1819,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-3",
     "Label": "### Please continue to submit your application on the next screen. \r\nThe application will be checked. If it’s correct, you’ll be sent a notice of issue. The respondent will also receive a copy of the application unless you have chosen to personally effect service.",
     "FieldType": "Label",
@@ -1827,7 +1827,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-4",
     "Label": "In cases of adultery where the co-respondent was named, they will also get a copy and a form to return.",
     "FieldType": "Label",
@@ -1835,7 +1835,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-5",
     "Label": "Contact the divorce centre if you don't hear anything back after 3 weeks.",
     "FieldType": "Label",
@@ -1843,7 +1843,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-6",
     "Label": "Phone: 0300 303 0642 (Monday to Friday, 8.30am to 5pm)\r\nEmail: contactdivorce@justice.gov.uk",
     "FieldType": "Label",
@@ -1851,7 +1851,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-7",
     "Label": "## Help us improve this service",
     "FieldType": "Label",
@@ -1859,7 +1859,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-8",
     "Label": "This is a new service that is still being developed. If you haven't already done so, please provide feedback on what you think of it and how it can be improved.",
     "FieldType": "Label",
@@ -1867,7 +1867,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-9",
     "Label": "## If you need help",
     "FieldType": "Label",
@@ -1875,7 +1875,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-10",
     "Label": "You can contact the divorce centre if you need help with your application.",
     "FieldType": "Label",
@@ -1883,7 +1883,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAppSummaryPara-11",
     "Label": "Phone: 0300 303 0642 (Monday to Friday, 8.30am to 5pm)\r\nEmail: contactdivorce@justice.gov.uk",
     "FieldType": "Label",
@@ -1891,7 +1891,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolicitorFeeAccountNumber",
     "Label": "Fee account number: **${SolicitorFeeAccountNumber}**",
     "FieldType": "Label",
@@ -1899,7 +1899,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelHelpWithFeesReferenceNumber",
     "Label": "Help with fee reference: **${D8HelpWithFeesReferenceNumber}**",
     "FieldType": "Label",
@@ -1907,7 +1907,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolicitorReference",
     "Label": "Your fee account reference: **${FeeAccountReference}**",
     "FieldType": "Label",
@@ -1915,7 +1915,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DerivedPetitionerSolicitorAddr",
     "Label": "Firm address/DX address",
     "FieldType": "TextArea",
@@ -1923,7 +1923,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solApplicationFeeOrderSummary",
     "Label": "Here are your order details",
     "FieldType": "OrderSummary",
@@ -1931,7 +1931,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solApplicationFeeInPounds",
     "Label": "Solicitor application fee (in pounds)",
     "FieldType": "Text",
@@ -1939,7 +1939,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "FeeAccountReference",
     "Label": "Enter your reference",
     "HintText": "This will appear on your statement to help you identify this payment",
@@ -1948,7 +1948,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionerSolicitorToEffectService",
     "Label": "Do you wish to effect service on the respondent?",
     "FieldType": "YesOrNo",
@@ -1956,7 +1956,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolicitorOppositeSexRegulations",
     "Label": "Divorce – *Opposite Sex Couple* – Article 3(1) of Council Regulation (EC) No 2201/2003 of 27 November 2003 ",
     "FieldType": "Label",
@@ -1964,7 +1964,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSoliciorSameSexRegulations",
     "Label": "Divorce – *Same Sex Couple* – Marriage (Same Sex Couples) (Jurisdiction and Recognition of Judgments) Regulations 2014 for matrimonial proceedings involving same sex couples",
     "FieldType": "Label",
@@ -1972,7 +1972,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solSignStatementofTruth",
     "Label": "I am duly authorised by the petitioner to sign this statement.",
     "FieldType": "YesOrNo",
@@ -1980,7 +1980,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelResidualJurisdictionPara-1",
     "Label": "## Residual Jurisdiction\r\n\r\nThe court may have residual jurisdiction if;\r\n\r\nnone of the other connections applies in relation to England and Wales;\r\n\r\neither the petitioner or the respondent is domiciled in England or Wales; and \r\n\r\nneither the petitioner nor the respondent is able to apply for a divorce in another member state of the EU on the basis of any of the other connections.\r\n\r\nIn addition, in the case of a same-sex marriage, the court may have residual jurisdiction if the following apply:\r\n\r\n- The petitioner and the respondent married each other in England or Wales; and\r\n- Neither the petitioner nor the respondent is able to apply for a divorce in any other country; and\r\n- It would be in the interests of justice for the court to consider the application (this may apply if, for example, the petitioner's or respondent’s home country doesn’t allow divorce between same-sex couples).",
     "FieldType": "Label",
@@ -1988,7 +1988,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelResidualJurisdictionPara-2",
     "Label": "Usually, to be eligible for residual jurisdiction, the petitioner and/or the respondent must be domiciled in England or Wales, ",
     "FieldType": "Label",
@@ -1996,7 +1996,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelResidualJurisdictionPara-3",
     "Label": "and neither must be nationals of, or habitually resident in, another EU country (except Denmark).",
     "FieldType": "Label",
@@ -2004,7 +2004,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelResidualJurisdictionPara-4",
     "Label": "In addition, in the case of a same-sex marriage, the petitioner may be eligible for residual jurisdiction if all the following apply:",
     "FieldType": "Label",
@@ -2012,7 +2012,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelResidualJurisdictionPara-5",
     "Label": " • The petitioner and the respondent married each other in England or Wales",
     "FieldType": "Label",
@@ -2020,7 +2020,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelResidualJurisdictionPara-6",
     "Label": " • Neither the petitioner nor the respondent are nationals of, or habitually resident in, another country in the EU (except Denmark)",
     "FieldType": "Label",
@@ -2028,7 +2028,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelResidualJurisdictionPara-7",
     "Label": " • It would be in the interests of justice for the court to consider the application (this may apply if, for example, the petitioner's home country doesn’t allow divorce between same-sex couples)",
     "FieldType": "Label",
@@ -2036,7 +2036,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "respondentSolicitorReference",
     "Label": "Respondent's solicitor's reference",
     "FieldType": "Text",
@@ -2044,7 +2044,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AosLetterHolderId",
     "Label": "AOS Letter Holder ID",
     "FieldType": "Text",
@@ -2052,7 +2052,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ReceivedAOSfromResp",
     "Label": "AOS received from respondent",
     "FieldType": "YesOrNo",
@@ -2060,7 +2060,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ReceivedAOSfromRespDate",
     "Label": "Date AOS received from respondent",
     "FieldType": "Date",
@@ -2068,7 +2068,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ReceivedAnswerFromResp",
     "Label": "Answer received from respondent",
     "FieldType": "YesOrNo",
@@ -2076,7 +2076,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ReceivedAnswerFromRespDate",
     "Label": "Date answer received from respondent",
     "FieldType": "Date",
@@ -2084,7 +2084,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespConfirmReadPetition",
     "Label": "Has the respondent read the application for divorce?",
     "FieldType": "YesOrNo",
@@ -2092,7 +2092,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespAdmitOrConsentToFact",
     "Label": "Respondent admitted to adultery or consented to 2-year separation",
     "FieldType": "YesOrNo",
@@ -2100,7 +2100,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespDefendsDivorce",
     "Label": "Does respondent defend the divorce?",
     "FieldType": "YesOrNo",
@@ -2108,7 +2108,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespJurisdictionAgree",
     "Label": "Respondent agreed to claimed jurisdiction?",
     "FieldType": "YesOrNo",
@@ -2116,7 +2116,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespJurisdictionDisagreeReason",
     "Label": "Reason respondent disagreed to claimed jurisdiction",
     "FieldType": "TextArea",
@@ -2124,7 +2124,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespJurisdictionRespCountryOfResidence",
     "Label": "Respondent country of residence",
     "FieldType": "Text",
@@ -2132,7 +2132,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespLegalProceedingsExist",
     "Label": "Do legal proceedings exist (respondent)?",
     "FieldType": "YesOrNo",
@@ -2140,7 +2140,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespLegalProceedingsDescription",
     "Label": "Legal proceedings details (respondent)",
     "FieldType": "TextArea",
@@ -2148,7 +2148,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespAgreeToCosts",
     "Label": "Does respondent agree to costs?",
     "FieldType": "FixedList",
@@ -2157,7 +2157,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespCostsAmount",
     "Label": "Respondent's costs amount",
     "FieldType": "Text",
@@ -2165,7 +2165,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespCostsReason",
     "Label": "Respondent's costs reason",
     "FieldType": "TextArea",
@@ -2173,7 +2173,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespEmailAddress",
     "Label": "Respondent's email address",
     "FieldType": "Email",
@@ -2181,7 +2181,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespPhoneNumber",
     "Label": "Respondent's telephone number",
     "FieldType": "Text",
@@ -2190,7 +2190,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespStatementOfTruth",
     "Label": "Respondent Statement of Truth",
     "HintText": "I ${D8RespondentFirstName} ${D8RespondentLastName} believe that the facts stated in this response are true",
@@ -2199,7 +2199,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespConsentToEmail",
     "Label": "Respondent consented to email communications?",
     "FieldType": "YesOrNo",
@@ -2207,7 +2207,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespConsiderFinancialSituation",
     "Label": "Respondent requires consideration of financial situation?",
     "FieldType": "YesOrNo",
@@ -2215,7 +2215,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespHardshipDefenseResponse",
     "Label": "Is the respondent defending on the basis that it will cause them severe hardship?",
     "FieldType": "YesOrNo",
@@ -2223,7 +2223,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespHardshipDescription",
     "Label": "Hardship defence details",
     "FieldType": "Text",
@@ -2231,7 +2231,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespContactMethodIsDigital",
     "Label": "Respondent is using digital channel?",
     "FieldType": "YesOrNo",
@@ -2239,7 +2239,7 @@
   },
   {
     "LiveFrom": "26/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespSolLinkedEmail",
     "Label": "Respondent solicitor's email address they used to link the case",
     "FieldType": "Email",
@@ -2247,7 +2247,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DNApplicationSubmittedDate",
     "Label": "Date DN application submitted",
     "FieldType": "Date",
@@ -2255,7 +2255,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionChangedYesNoDN",
     "Label": "Do you need to change your application or add anything?",
     "HintText": "If you change or add anything which means your application has to be sent to your husband/wife again you may have to pay a £95 fee.",
@@ -2264,7 +2264,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionChangedDetailsDN",
     "Label": "Description of changes to petition at DN stage",
     "FieldType": "TextArea",
@@ -2272,7 +2272,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ConfirmPetitionDN",
     "Label": "Is everything stated in this divorce petition true?",
     "FieldType": "YesOrNo",
@@ -2280,7 +2280,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DivorceCostsOptionDN",
     "Label": "Petitioner's cost order preference at DN stage",
     "FieldType": "FixedRadioList",
@@ -2289,7 +2289,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CostsDifferentDetails",
     "Label": "State what the petitioner wants to claim and why",
     "FieldType": "TextArea",
@@ -2297,7 +2297,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DocumentsUploadedQuestionDN",
     "Label": "Do you need to upload any other documents?",
     "FieldType": "YesOrNo",
@@ -2305,7 +2305,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DocumentsUploadedDN",
     "Label": "Documents uploaded at DN stage",
     "FieldType": "Collection",
@@ -2314,7 +2314,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "statementOfTruthDN",
     "Label": "The petitioner believes that the facts stated in the application for Decree Nisi are true",
     "FieldType": "YesOrNo",
@@ -2322,7 +2322,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AlternativeRespCorrAddress",
     "Label": "Alternative service address for the respondent",
     "FieldType": "TextArea",
@@ -2330,7 +2330,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AdulteryLifeIntolerable",
     "Label": "Does the petitioner find it intolerable to live with the respondent?",
     "FieldType": "YesOrNo",
@@ -2338,7 +2338,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AdulteryDateFoundOut",
     "Label": "Date the petitioner found out about the adultery",
     "FieldType": "Date",
@@ -2346,7 +2346,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AdulteryLivedApartSinceEventDN",
     "Label": "Has the petitioner lived apart from the respondent since finding out about the adultery?",
     "FieldType": "YesOrNo",
@@ -2354,7 +2354,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AdulteryTimeLivedTogetherDetailsDN",
     "Label": "Additional details of the living arrangements since finding out about the adultery",
     "FieldType": "TextArea",
@@ -2362,7 +2362,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BehaviourStillHappeningDN",
     "Label": "Is the behaviour still happening?",
     "FieldType": "YesOrNo",
@@ -2370,7 +2370,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BehaviourMostRecentIncidentDateDN",
     "Label": "What was the date of the most recent incident of the behaviour?",
     "FieldType": "Date",
@@ -2378,7 +2378,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BehaviourLivedApartSinceEventDN",
     "Label": "Has the petitioner lived apart from the respondent since the most recent example of the behaviour?",
     "FieldType": "YesOrNo",
@@ -2386,7 +2386,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BehaviourTimeLivedTogetherDetailsDN",
     "Label": "Additional details of the living arrangements since the the most recent example of the behaviour",
     "FieldType": "TextArea",
@@ -2394,7 +2394,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DesertionLivedApartSinceEventDN",
     "Label": "Has the petitioner lived apart from the respondent since applying for the divorce?",
     "FieldType": "YesOrNo",
@@ -2402,7 +2402,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DesertionTimeLivedTogetherDetailsDN",
     "Label": "Additional details of the living arrangements since the divorce application.",
     "FieldType": "TextArea",
@@ -2410,7 +2410,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SeparationLivedApartSinceEventDN",
     "Label": "Has the petitioner lived apart from the respondent since applying for the divorce?",
     "FieldType": "YesOrNo",
@@ -2418,7 +2418,7 @@
   },
   {
     "LiveFrom": "05/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SeparationTimeLivedTogetherDetailsDN",
     "Label": "Additional details of the living arrangements since the divorce application.",
     "FieldType": "TextArea",
@@ -2426,7 +2426,7 @@
   },
   {
     "LiveFrom": "14/09/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PaymentHistory",
     "Label": "A history of payments associated with a the case",
     "FieldType": "CasePaymentHistoryViewer",
@@ -2434,7 +2434,7 @@
   },
   {
     "LiveFrom": "05/10/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "IssueDate",
     "Label": "Date when the petition was issued",
     "FieldType": "Date",
@@ -2442,7 +2442,7 @@
   },
   {
     "LiveFrom": "19/10/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PermittedDecreeNisiReason",
     "Label": "Reason for AwaitingDecreeNisi?",
     "FieldType": "FixedList",
@@ -2451,7 +2451,7 @@
   },
   {
     "LiveFrom": "25/10/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorce2YearSepConsentGiven",
     "Label": "Has your wife/husband given their consent to a divorce (agreed to it)?",
     "FieldType": "YesOrNo",
@@ -2459,7 +2459,7 @@
   },
   {
     "LiveFrom": "01/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MentalSeparationDate",
     "Label": "Date the petitioner decided the marriage was over",
     "HintText": "Use the same date for both if they happened on the same day. If the Petitioner not sure of the exact dates, use the closest dates that they remember.",
@@ -2468,7 +2468,7 @@
   },
   {
     "LiveFrom": "01/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PhysicalSeparationDate",
     "Label": "Date the petitioner and respondent started living apart",
     "HintText": "Petitioner and respondent can both live in the same property and be considered by the court to be living apart, as long as they're living separate lives. For example, they don’t eat, sleep or socialise together.",
@@ -2477,7 +2477,7 @@
   },
   {
     "LiveFrom": "01/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8SeparationTimeTogetherPermitted",
     "Label": "Period of time petitioner and respondent can have lived together and still use the selected reason.",
     "FieldType": "Text",
@@ -2485,7 +2485,7 @@
   },
   {
     "LiveFrom": "01/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LivedTogetherMoreTimeThanPermitted",
     "Label": "Have the petitioner and respondent lived together for more than ${D8SeparationTimeTogetherPermitted} since ${D8SeparationReferenceDate} ?",
     "FieldType": "YesOrNo",
@@ -2493,7 +2493,7 @@
   },
   {
     "LiveFrom": "01/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LivedTogetherSepPermittedPara-1",
     "Label": "If the petitioner and respondent lived together for more than ${D8SeparationTimeTogetherPermitted} since ${D8SeparationReferenceDate} they won't have been separated for long enough to use the ${SepYears} years separation reason for divorce at this time.",
     "FieldType": "Label",
@@ -2501,7 +2501,7 @@
   },
   {
     "LiveFrom": "01/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LivedTogetherDesertionPermittedPara-1",
     "Label": "If the petitioner and respondent lived together for more than ${D8DesertionTimeTogetherPermitted} since ${D8SeparationReferenceDate} they won't have been separated for long enough to use desertion as  reason for divorce at this time.",
     "FieldType": "Label",
@@ -2509,7 +2509,7 @@
   },
   {
     "LiveFrom": "04/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CaseNotes",
     "Label": "Notes",
     "FieldType": "Collection",
@@ -2518,7 +2518,7 @@
   },
   {
     "LiveFrom": "04/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespondentContactDetailsConfidential",
     "Label": "Keep the Respondent's contact details private from the petitioner?",
     "FieldType": "FixedList",
@@ -2527,7 +2527,7 @@
   },
   {
     "LiveFrom": "04/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ccdRespondentAddressIsSharablePara",
     "Label": "### The respondent's contact details may be shared with the petitioner",
     "FieldType": "Label",
@@ -2535,7 +2535,7 @@
   },
   {
     "LiveFrom": "04/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ccdRespondentAddressIsConfidentialPara",
     "Label": "### Confidential Address - Take extra care to ensure the respondent's contact details below are not shared with the petitioner",
     "FieldType": "Label",
@@ -2543,7 +2543,7 @@
   },
   {
     "LiveFrom": "04/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ccdLabel-RespondentAddressIsConfidential",
     "Label": "### The respondent's contact details are CONFIDENTIAL",
     "FieldType": "Label",
@@ -2551,7 +2551,7 @@
   },
   {
     "LiveFrom": "04/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ccdLabel-RespondentAddressIsShareable",
     "Label": "### The respondent's contact details may be shared",
     "FieldType": "Label",
@@ -2559,7 +2559,7 @@
   },
   {
     "LiveFrom": "04/11/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DNApplyForDecreeNisi",
     "Label": "Does the petitioner want to continue with the divorce and apply for a decree nisi?",
     "FieldType": "YesOrNo",
@@ -2567,7 +2567,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelOtherProceedingsPetitioner",
     "Label": "### Petitioner's other proceedings:",
     "FieldType": "Label",
@@ -2575,7 +2575,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelOtherProceedingsRespondent",
     "Label": "### Respondent's other proceedings:",
     "FieldType": "Label",
@@ -2583,7 +2583,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespWillDefendDivorce",
     "Label": "How does the respondent want to proceed?",
     "FieldType": "FixedList",
@@ -2592,7 +2592,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ReceivedAosFromCoResp",
     "Label": "Received AOS from co-respondent?",
     "FieldType": "YesOrNo",
@@ -2600,7 +2600,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ReceivedAosFromCoRespDate",
     "Label": "Date AOS received from co-respondent",
     "FieldType": "Date",
@@ -2608,7 +2608,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ReceivedAnswerFromCoResp",
     "Label": "Received answer from co-respondent?",
     "FieldType": "YesOrNo",
@@ -2616,7 +2616,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ReceivedAnswerFromCoRespDate",
     "Label": "Date received answer from co-respondent",
     "FieldType": "Date",
@@ -2624,7 +2624,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespConfirmReadPetition",
     "Label": "Co-respondent has read the petition?",
     "FieldType": "YesOrNo",
@@ -2632,7 +2632,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespStatementOfTruth",
     "Label": "Co-respondent agreed to statement of truth?",
     "FieldType": "YesOrNo",
@@ -2640,7 +2640,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespAdmitAdultery",
     "Label": "Co-respondent admits to the adultery?",
     "FieldType": "YesOrNo",
@@ -2648,7 +2648,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespDefendsDivorce",
     "Label": "Co-respondent will defend the divorce?",
     "FieldType": "YesOrNo",
@@ -2656,7 +2656,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespAgreeToCosts",
     "Label": "Does co-respondent agree to pay costs?",
     "FieldType": "YesOrNo",
@@ -2664,7 +2664,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespCostsReason",
     "Label": "Co-respondent's reason not to pay costs",
     "FieldType": "TextArea",
@@ -2672,7 +2672,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespEmailAddress",
     "Label": "Co-respondent's email address",
     "FieldType": "Text",
@@ -2680,7 +2680,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespPhoneNumber",
     "Label": "Co-respondent's telephone number",
     "FieldType": "Text",
@@ -2688,7 +2688,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespConsentToEmail",
     "Label": "Co-respondent consents to email communications?",
     "FieldType": "YesOrNo",
@@ -2696,7 +2696,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelCoRespAnswers",
     "Label": "### Co-respondent answers:",
     "FieldType": "Label",
@@ -2704,7 +2704,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespLetterHolderId",
     "Label": "Co-respondent's AOS letter holder ID",
     "FieldType": "Text",
@@ -2712,7 +2712,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespContactMethodIsDigital",
     "Label": "Co-respondent is using digital channel?",
     "FieldType": "YesOrNo",
@@ -2720,7 +2720,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DueDateCoResp",
     "Label": "Co-respondent AOS due date",
     "FieldType": "Date",
@@ -2728,7 +2728,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryAnyInfo2ndHand",
     "Label": "Has any of the information about the adultery come from another person?",
     "FieldType": "YesOrNo",
@@ -2736,7 +2736,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdultery2ndHandDetails",
     "Label": "Second hand information details",
     "FieldType": "TextArea",
@@ -2744,7 +2744,7 @@
   },
   {
     "LiveFrom": "21/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PreviousCaseId",
     "Label": "Case ID for previously Amended Case, which was challenged by respondent",
     "FieldType": "CaseLink",
@@ -2752,7 +2752,7 @@
   },
   {
     "LiveFrom": "21/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PreviousReasonsForDivorce",
     "Label": "List of previous reasons for divorce",
     "FieldType": "MultiSelectList",
@@ -2761,7 +2761,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespondentFullName",
     "Label": "${D8ReasonForDivorceAdultery3rdPartyFName} ${D8ReasonForDivorceAdultery3rdPartyLName}",
     "FieldType": "Text",
@@ -2769,7 +2769,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionerFullName",
     "Label": "${D8PetitionerFirstName} ${D8PetitionerLastName}",
     "FieldType": "Text",
@@ -2777,7 +2777,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespondentFullName",
     "Label": "${D8RespondentFirstName} ${D8RespondentLastName}",
     "FieldType": "Text",
@@ -2785,7 +2785,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelUpdateMarriageCertWarning",
     "Label": "### Only update Marriage Certificate Names to make them match the marriage certificate exactly",
     "FieldType": "Label",
@@ -2793,7 +2793,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LivedApartSinceSeparation",
     "Label": "Have the petitioner and respondent lived apart for the entire time since they separated?",
     "FieldType": "YesOrNo",
@@ -2801,7 +2801,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SepYears",
     "Label": "Number of allowed separation years as part of the selected fact",
     "FieldType": "Text",
@@ -2809,7 +2809,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8SeparationReferenceDate",
     "Label": "Reference date used for 6-month rule calculation of time petitioner and respondent can have lived together.",
     "FieldType": "Text",
@@ -2817,7 +2817,7 @@
   },
   {
     "LiveFrom": "01/01/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "scannedDocuments",
     "Label": "Scanned Documents",
     "FieldType": "Collection",
@@ -2826,7 +2826,7 @@
   },
   {
     "LiveFrom": "01/01/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "evidenceHandled",
     "Label": "Supplementary evidence handled",
     "FieldType": "YesOrNo",
@@ -2834,7 +2834,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LivedApartSinceDesertion",
     "Label": "Has the petitioner lived apart from the respondent for the entire time since they deserted the petitioner?",
     "HintText": "Petitioner must have lived apart from the respondent for at least 2 years since  ${D8SeparationReferenceDate}. Any time that the petitioner & respondent have lived together doesn't count towards this 2 year desertion period",
@@ -2843,7 +2843,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8DesertionTimeTogetherPermitted",
     "Label": "Period of time petitioner and respondent can have lived together and still use the selected reason.",
     "FieldType": "Text",
@@ -2851,7 +2851,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LivedTogetherMoreTimeThanPermittedDesert",
     "Label": "Have the petitioner and respondent lived together for more than ${D8DesertionTimeTogetherPermitted} since ${D8SeparationReferenceDate} ?",
     "FieldType": "YesOrNo",
@@ -2859,7 +2859,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SolClaimCostsDetails",
     "Label": "Do not use. Added for DIV-4424",
     "FieldType": "TextArea",
@@ -2867,7 +2867,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespLinkedToCase",
     "Label": "Has the Co-Respondent linked to the case?",
     "FieldType": "YesOrNo",
@@ -2875,7 +2875,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespLinkedToCaseDate",
     "Label": "Date the Co-Respondent linked to the case.",
     "FieldType": "Date",
@@ -2883,7 +2883,7 @@
   },
   {
     "LiveFrom": "05/10/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PreviousIssueDate",
     "Label": "Date when the petition was previously issued",
     "FieldType": "Date",
@@ -2891,7 +2891,7 @@
   },
   {
     "LiveFrom": "29/03/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CaseHistory",
     "Label": "History",
     "FieldType": "CaseHistoryViewer",
@@ -2899,7 +2899,7 @@
   },
   {
     "LiveFrom": "29/03/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "respondentSolicitorRepresented",
     "Label": "Is the respondent represented by a solicitor?",
     "FieldType": "YesOrNo",
@@ -2907,7 +2907,7 @@
   },
   {
     "LiveFrom": "25/04/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DateAndTimeOfHearing",
     "Label": "Date and time of hearing",
     "FieldType": "Collection",
@@ -2916,7 +2916,7 @@
   },
   {
     "LiveFrom": "25/04/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DecreeNisiGrantedDate",
     "Label": "Decree Nisi granted date",
     "FieldType": "Date",
@@ -2924,7 +2924,7 @@
   },
   {
     "LiveFrom": "20/06/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DnOutcomeCase",
     "Label": "Case on digital Decree Nisi Outcome",
     "FieldType": "YesOrNo",
@@ -2932,7 +2932,7 @@
   },
   {
     "LiveFrom": "25/04/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DAEligibleFromDate",
     "Label": "Decree Absolute Eligible From Date",
     "FieldType": "Date",
@@ -2940,7 +2940,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DNApprovalDate",
     "Label": "Legal advisor decision date",
     "FieldType": "Date",
@@ -2948,7 +2948,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BulkListingCaseId",
     "Label": "Bulk case reference",
     "FieldType": "CaseLink",
@@ -2956,7 +2956,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DecreeNisiGranted",
     "Label": "Grant Decree Nisi?",
     "FieldType": "YesOrNo",
@@ -2964,7 +2964,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CostsClaimGranted",
     "Label": "Grant Cost Order?",
     "FieldType": "YesOrNo",
@@ -2972,7 +2972,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "state",
     "Label": "Case State",
     "FieldType": "Text",
@@ -2980,7 +2980,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "WhoPaysCosts",
     "Label": "Who should pay?",
     "FieldType": "FixedRadioList",
@@ -2989,7 +2989,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "TypeCostsDecision",
     "Label": "Make a costs order:",
     "FieldType": "FixedRadioList",
@@ -2998,7 +2998,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CostsOrderAdditionalInfo",
     "Label": "Additional info",
     "FieldType": "Text",
@@ -3007,7 +3007,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CourtName",
     "Label": "Court name",
     "FieldType": "FixedList",
@@ -3016,7 +3016,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "minipetitionlink",
     "Label": "Link to online petition:",
     "FieldType": "Document",
@@ -3024,7 +3024,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "respondentanswerslink",
     "Label": "Link to respondent answers:",
     "FieldType": "Document",
@@ -3032,7 +3032,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolDNAdulteryMustIntolerate",
     "Label": "### The petitioner must find it intolerable to live with the respondent\r\n\r\nThe petitioner must find it intolerable (unbearable) to live with the respondent if they want to use adultery as the reason for divorce. This applies whether they are still living together or not. If the petitioner does not find it intolerable, they will need to pay a £95 fee to change the application and use another reason for divorce. The application will also need to be sent to the respondent again.\r\nContact the Courts and Tribunals Service Centre to change your application, or go back to change your answer.\r\n",
     "FieldType": "Label",
@@ -3040,7 +3040,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolDNRespCostReview",
     "Label": "### Respondent costs order",
     "FieldType": "Label",
@@ -3048,7 +3048,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolDNRespCostAgree",
     "Label": "_The respondent has agreed to pay some or all of the costs_",
     "FieldType": "Label",
@@ -3056,7 +3056,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolDNRespCostDisagree",
     "Label": "_The respondent has said they should not pay costs and given the following explaination about why they should not pay:_\r\n_\"${RespCostsReason}\"_",
     "FieldType": "Label",
@@ -3064,7 +3064,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solDNSOTName",
     "Label": "Solicitor's Name",
     "FieldType": "Text",
@@ -3072,7 +3072,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solDNSOTFirm",
     "Label": "Solicitor's Firm",
     "FieldType": "Text",
@@ -3080,7 +3080,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solDNAdditionalComments",
     "Label": "Additional Comments",
     "HintText": "For the attention of court staff. These comments will not form part of the petition",
@@ -3089,7 +3089,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DesertionAskedToResumeDN",
     "Label": "Has the respondent offered to resume living with the petitioner?",
     "FieldType": "YesOrNo",
@@ -3097,7 +3097,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DesertionAskedToResumeDNRefused",
     "Label": "Did the petitioner refuse to resume living together?",
     "FieldType": "YesOrNo",
@@ -3105,7 +3105,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DesertionAskedToResumeDNDetails",
     "Label": "Please give reasons why they refused:",
     "FieldType": "TextArea",
@@ -3113,7 +3113,7 @@
   },
   {
     "LiveFrom": "31/05/2019",
-    "CaseTypeID": "DIVORCE_NOTICE_OF_ACTING",
+    "CaseTypeID": "NO_FAULT_DIVORCE_NOTICE_OF_ACTING",
     "ID": "CaseHistory",
     "Label": "History",
     "FieldType": "CaseHistoryViewer",
@@ -3121,7 +3121,7 @@
   },
   {
     "LiveFrom": "31/05/2019",
-    "CaseTypeID": "DIVORCE_NOTICE_OF_ACTING",
+    "CaseTypeID": "NO_FAULT_DIVORCE_NOTICE_OF_ACTING",
     "ID": "LinkRespondentName",
     "Label": "Respondent's name:",
     "FieldType": "Text",
@@ -3129,7 +3129,7 @@
   },
   {
     "LiveFrom": "31/05/2019",
-    "CaseTypeID": "DIVORCE_NOTICE_OF_ACTING",
+    "CaseTypeID": "NO_FAULT_DIVORCE_NOTICE_OF_ACTING",
     "ID": "RespondentSolicitorCaseNo",
     "Label": "Case ID:",
     "FieldType": "CaseLink",
@@ -3137,7 +3137,7 @@
   },
   {
     "LiveFrom": "31/05/2019",
-    "CaseTypeID": "DIVORCE_NOTICE_OF_ACTING",
+    "CaseTypeID": "NO_FAULT_DIVORCE_NOTICE_OF_ACTING",
     "ID": "RespondentSolicitorPin",
     "Label": "Pin code:",
     "FieldType": "Text",
@@ -3145,7 +3145,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolDNWarningContinueDN",
     "Label": "### Warning: You have selected 'No'\r\nSubmitting this answer will result in the application for decree nisi not progressing…",
     "FieldType": "Label",
@@ -3153,7 +3153,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolDNWarningPetitionRead",
     "Label": "### Warning: You have selected 'No'\r\nEverything stated in the divorce petition must be true. Submitting this answer will result in the application for decree nisi not progressing…",
     "FieldType": "Label",
@@ -3161,7 +3161,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolDNWarningSOT",
     "Label": "### Warning: You have selected 'No'\r\nSubmitting this answer will result in the application for decree nisi not progressing…",
     "FieldType": "Label",
@@ -3169,7 +3169,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "coRespondentContactDetailsConfidential",
     "Label": "Keep the Co-Respondent's contact details private from the petitioner?",
     "FieldType": "YesOrNo",
@@ -3177,7 +3177,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "coRespondentAddressIsSharablePara",
     "Label": "The co-respondent's contact details may be shared",
     "FieldType": "Label",
@@ -3185,7 +3185,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "coRespondentAddressIsConfidentialPara",
     "Label": "Confidential Address - Take extra care to ensure the co-respondent's contact details below are not shared with the petitioner",
     "FieldType": "Label",
@@ -3193,7 +3193,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "Label-CoRespondentAddressIsConfidential",
     "Label": "### The co-respondent's contact details are CONFIDENTIAL",
     "FieldType": "Label",
@@ -3201,7 +3201,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "Label-CoRespondentAddressIsShareable",
     "Label": "### The co-respondent's contact details may be shared",
     "FieldType": "Label",
@@ -3209,7 +3209,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PronouncementJudge",
     "Label": "Pronouncement Judge",
     "FieldType": "Text",
@@ -3217,7 +3217,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DecreeAbsoluteGrantedDate",
     "Label": "Decree Absolute Granted Date",
     "FieldType": "DateTime",
@@ -3225,7 +3225,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DecreeAbsoluteGranted",
     "Label": "Grant Decree Absolute?",
     "HintText": "The decree nisi made on ${DecreeNisiGrantedDate} will be made absolute and the marriage between ${D8PetitionerFirstName} ${D8PetitionerLastName} and ${D8RespondentFirstName} ${D8RespondentLastName} will be ended.",
@@ -3235,7 +3235,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ApplyForDecreeAbsolute",
     "Label": "Does the applicant want to apply for Decree Absolute and finalise the divorce?",
     "FieldType": "YesOrNo",
@@ -3243,7 +3243,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelDNReview",
     "Label": "### Review the answers in your Decree Nisi Application below. If you wish to change any of your answers, please go back and use the 'Update Decree Nisi Application' action",
     "FieldType": "Label",
@@ -3251,7 +3251,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolAOSRespond",
     "Label": "### Respond to a divorce application\r\n\r\n# Reference number\r\n${[CASE_REFERENCE]}\r\n\r\n# Respondent\r\n${D8RespondentFirstName} ${D8RespondentLastName}\r\n\r\nYou must respond to this application within 7 days of the respondent receiving the letter from the courts. If you don't, the petitioner can ask the court to move the divorce forwards without the respondent. The respondent may have to pay extra fees if this happens\r\n\r\nIf the respondent has been married to more than one person during this marriage (polygamy) contact your regional divorce centre before you apply.",
     "FieldType": "Label",
@@ -3259,7 +3259,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespAOS2yrConsent",
     "Label": "Does the respondent consent to a divorce",
     "FieldType": "YesOrNo",
@@ -3267,7 +3267,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolAOSConsent",
     "Label": "The petitioner has based the breakdown of the marriage on the fact that the respondent and petitioner have been separated for 2 years, and that the respondent gives their consent to a divorce.\r\n\r\nThe court must have the respondent's consent for the divorce to continue on these grounds.",
     "FieldType": "Label",
@@ -3275,7 +3275,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolAOSFinancialConsideration",
     "Label": "As the petitioner used separation as the reason for divorce, the respondent can ask the court to consider what the respondent’s financial situation will be afterwards.\r\n\r\nThe court may then decide to delay the final stage of the divorce (the decree absolute) until it is satisfied with the future financial arrangement between the respondent and the petitioner.",
     "FieldType": "Label",
@@ -3283,7 +3283,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolAOSFormB",
     "Label": "You’ll need to submit another application (Form B) after you’ve submitted this application.",
     "FieldType": "Label",
@@ -3291,7 +3291,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolAdulteryAdmit",
     "Label": "The petitioner provided the following details",
     "FieldType": "Label",
@@ -3299,7 +3299,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespAOSAdultery",
     "Label": "Does the respondent admit to the adultery?",
     "FieldType": "YesOrNo",
@@ -3307,7 +3307,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolAOSIFDefend",
     "Label": "If the respondent defends the divorce, they will have to pay a £245 fee. All parties may have to attend a hearing where a judge will decide if the divorce should be granted. Defending usually only delays a divorce rather than prevents it.",
     "FieldType": "Label",
@@ -3315,7 +3315,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelSolAOSCost",
     "Label": "The petitioner asked the court that the respondent pays some or all of the costs of the divorce.\r\n\r\nIt is up to the court to decide how the costs will be split, but it will take into account any requests the respondent and the petitioner make.\r\n\r\n",
     "FieldType": "Label",
@@ -3323,7 +3323,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solAOSSOTName",
     "Label": "Solicitor's Name",
     "FieldType": "Text",
@@ -3331,7 +3331,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solAOSSOTFirm",
     "Label": "Solicitor's Firm",
     "FieldType": "Text",
@@ -3339,7 +3339,7 @@
   },
   {
     "LiveFrom": "18/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solAOSAdditionalComments",
     "Label": "Additional Comments",
     "HintText": "For the attention of court staff. These comments will not form part of the AOS",
@@ -3348,7 +3348,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DateRespondentEligibleForDA",
     "Label": "Date from which the respondent can apply for Decree Absolute",
     "FieldType": "Date",
@@ -3356,7 +3356,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DateCaseNoLongerEligibleForDA",
     "Label": "Final date to apply for Decree Absolute",
     "FieldType": "Date",
@@ -3364,7 +3364,7 @@
   },
   {
     "LiveFrom": "27/08/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DecreeAbsoluteApplicationDate",
     "Label": "Date when Petitioner or Respondent apply for Decree Absolute",
     "FieldType": "DateTime",
@@ -3372,7 +3372,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelAOSReview",
     "Label": "### Review the answers in your Acknowledgement of Service below. If you wish to change any of your answers, please go back and use the 'Update AoS' action",
     "FieldType": "Label",
@@ -3380,7 +3380,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelAOSConfirmRead",
     "Label": "### The respondent has not read the petition\r\n\r\nThe respondent must have read the petition in order to respond.",
     "FieldType": "Label",
@@ -3388,7 +3388,7 @@
   },
   {
     "LiveFrom": "23/09/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ApplyForDecreeAbsoluteLabel",
     "Label": "Once the court has checked that there are no outstanding applications or other matters which need to be resolved first, the decree nisi made on ${DecreeNisiGrantedDate} will be made absolute and the mariage between ${D8PetitionerFirstName} ${D8PetitionerLastName} and ${D8RespondentFirstName} ${D8RespondentLastName} will be ended.",
     "FieldType": "Label",
@@ -3396,7 +3396,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelPetitionerSolicitor",
     "Label": "### Petitioner's Solicitor Details",
     "FieldType": "Label",
@@ -3404,7 +3404,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelRespondentSolicitor",
     "Label": "### Respondent's Solicitor Details",
     "FieldType": "Label",
@@ -3412,7 +3412,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelPetGenderChangeWarning",
     "Label": "WARNING: Changing the petitioner gender here means you need to Re-Issue the case to update all case documents",
     "FieldType": "Label",
@@ -3420,7 +3420,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelRespGenderChangeWarning",
     "Label": "WARNING: Changing the respondent gender here means you need to Re-Issue the case to update all case documents",
     "FieldType": "Label",
@@ -3428,7 +3428,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelApplicantName",
     "Label": "Name of Applicant - ${D8PetitionerFirstName} ${D8PetitionerLastName}",
     "FieldType": "Label",
@@ -3436,7 +3436,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelRespondentName",
     "Label": "Name of Respondent - ${D8RespondentFirstName} ${D8RespondentLastName}",
     "FieldType": "Label",
@@ -3444,7 +3444,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DateOfService",
     "Label": "Date of Service",
     "FieldType": "Date",
@@ -3452,7 +3452,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DocumentsServed",
     "Label": "What documents did you serve?",
     "FieldType": "TextArea",
@@ -3460,7 +3460,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "OnWhomServed",
     "Label": "On whom did you serve?",
     "HintText": "(If appropriate include their position e.g. partner, director)",
@@ -3469,7 +3469,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "HowServed",
     "Label": "How did you serve the documents?",
     "FieldType": "FixedList",
@@ -3478,7 +3478,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceDetails",
     "Label": "Details of service?",
     "FieldType": "TextArea",
@@ -3486,7 +3486,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceAddress",
     "Label": "Give the address where did you serve the documents?",
     "HintText": "Include fax or DX number, e-mail address or other electronic identification",
@@ -3495,7 +3495,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BeingThe",
     "Label": "Being The",
     "FieldType": "FixedRadioList",
@@ -3504,7 +3504,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceLocation",
     "Label": "Location",
     "FieldType": "FixedList",
@@ -3513,7 +3513,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "OtherServiceLocation",
     "Label": "Other Service Location",
     "FieldType": "TextArea",
@@ -3521,7 +3521,7 @@
   },
   {
     "LiveFrom": "30/07/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceSOTLabel",
     "Label": "I believe that the facts stated in the application are true.",
     "FieldType": "Label",
@@ -3529,7 +3529,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceSOTName",
     "Label": "Solicitor's Name",
     "FieldType": "Text",
@@ -3537,7 +3537,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ServiceSOTFirm",
     "Label": "Solicitor's Firm",
     "FieldType": "Text",
@@ -3545,7 +3545,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "Label-SolicitorPersonalService",
     "Label": "### Solicitor Personal Service",
     "FieldType": "Label",
@@ -3553,7 +3553,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SendAosPackToResp",
     "Label": "Send AOS Pack to respondent",
     "FieldType": "YesOrNo",
@@ -3561,7 +3561,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SendViaEmailOrPost",
     "Label": "Send via Email or Post",
     "FieldType": "FixedRadioList",
@@ -3570,7 +3570,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelCaseWorkerSendEmail",
     "Label": "You have to manually download the AOS pack from the documents tab and attach to an email to the respondent",
     "FieldType": "Label",
@@ -3578,7 +3578,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DateRespReceivedDivorceApplication",
     "Label": "Date respondent received the divorce application",
     "FieldType": "Date",
@@ -3586,7 +3586,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "UiOnly_RespWillDefendDivorce",
     "Label": "How does the respondent want to proceed?",
     "FieldType": "FixedRadioList",
@@ -3595,7 +3595,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelAOSOfflineDetails",
     "Label": "\r\n## Petitioner\r\n${D8PetitionerFirstName} ${D8PetitionerLastName}\r\n\r\n## Respondent\r\n${D8RespondentFirstName} ${D8RespondentLastName}\r\n\r\n## Reason for divorce\r\n${D8ReasonForDivorce}",
     "FieldType": "Label",
@@ -3603,7 +3603,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelAOSOfflineAdulteryCoRespDetails",
     "Label": "\r\n## Petitioner\r\n${D8PetitionerFirstName} ${D8PetitionerLastName}\r\n\r\n## Respondent\r\n${D8RespondentFirstName} ${D8RespondentLastName}\r\n\r\n## Co-respondent\r\n${D8ReasonForDivorceAdultery3rdPartyFName} ${D8ReasonForDivorceAdultery3rdPartyLName}\r\n\r\n## Reason for divorce\r\n${D8ReasonForDivorce}",
     "FieldType": "Label",
@@ -3611,7 +3611,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DateCoRespReceivedDivorceApplication",
     "Label": "Date co-respondent received the divorce application",
     "FieldType": "Date",
@@ -3619,7 +3619,7 @@
   },
   {
     "LiveFrom": "11/10/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelAOSTabOfflineResponse",
     "Label": "## This is an offline AOS response",
     "FieldType": "Label",
@@ -3627,7 +3627,7 @@
   },
   {
     "LiveFrom": "11/10/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelAOSTabOnlineResponse",
     "Label": "## This is an online AOS response",
     "FieldType": "Label",
@@ -3635,7 +3635,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "solAOSSOT",
     "Label": "Solicitor Statement of Truth",
     "HintText": "The solicitor believes that the facts stated in this response are true",
@@ -3644,7 +3644,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RefusalDecision",
     "Label": "Refusal decision",
     "FieldType": "FixedRadioList",
@@ -3653,7 +3653,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RefusalAdminErrorInfo",
     "Label": "Additional information",
     "FieldType": "TextArea",
@@ -3661,7 +3661,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RefusalRejectionReason",
     "Label": "Refusal rejection reason",
     "HintText": "Choose at least one of the following",
@@ -3671,7 +3671,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RefusalRejectionAdditionalInfo",
     "Label": "Rejection additional information",
     "FieldType": "TextArea",
@@ -3679,7 +3679,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RefusalClarificationReason",
     "Label": "Provide a refusal reason",
     "HintText": "Choose at least one of the following",
@@ -3689,7 +3689,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RefusalClarificationAdditionalInfo",
     "Label": "Clarification additional information",
     "FieldType": "TextArea",
@@ -3697,7 +3697,7 @@
   },
   {
     "LiveFrom": "01/09/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DnClarificationResponse",
     "Label": "List of responses for Decree Nisi clarification",
     "FieldType": "Collection",
@@ -3706,7 +3706,7 @@
   },
   {
     "LiveFrom": "01/09/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DnClarificationUploadDocuments",
     "Label": "Upload any other documents per Clarification?",
     "FieldType": "Collection",
@@ -3715,7 +3715,7 @@
   },
   {
     "LiveFrom": "01/09/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DocumentsUploadedDnClarification",
     "Label": "Documents uploaded for Decree Nisi clarification",
     "FieldType": "Collection",
@@ -3724,7 +3724,7 @@
   },
   {
     "LiveFrom": "01/09/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DNRefusalDraft",
     "Label": "Refusal draft",
     "FieldType": "Document",
@@ -3732,7 +3732,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelDnClarificationResponse",
     "Label": "## Clarification Response",
     "FieldType": "Label",
@@ -3740,7 +3740,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "labelDnPronouncementDetails",
     "Label": "## Pronouncement Details",
     "FieldType": "Label",
@@ -3748,7 +3748,7 @@
   },
   {
     "LiveFrom": "21/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PreviousReasonsForDivorceRefusal",
     "Label": "List of previous reasons for divorce for refusal rejection",
     "FieldType": "MultiSelectList",
@@ -3757,7 +3757,7 @@
   },
   {
     "LiveFrom": "21/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PreviousRefusalRejectionReason",
     "Label": "Previous refusal rejection reasons",
     "FieldType": "MultiSelectList",
@@ -3766,7 +3766,7 @@
   },
   {
     "LiveFrom": "21/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PreviousRefusalRejectionAdditionalInfo",
     "Label": "Previous refusal rejection information",
     "FieldType": "TextArea",
@@ -3774,7 +3774,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "ClarificationDigital",
     "Label": "Is the DN clarification sent digitally (online) or not?",
     "FieldType": "YesOrNo",
@@ -3782,7 +3782,7 @@
   },
   {
     "LiveFrom": "01/01/2018",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "bulkScanCaseReference",
     "Label": "Exception Record Reference",
     "FieldType": "Text",
@@ -3790,7 +3790,7 @@
   },
   {
     "LiveFrom": "12/12/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ApplicationToIssueWithoutCertificate",
     "Label": "Is Petitioner making separate application to issue without their marriage or civil partnership certificate?",
     "FieldType": "YesOrNo",
@@ -3798,7 +3798,7 @@
   },
   {
     "LiveFrom": "12/12/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriageCertificateCorrect",
     "Label": "Are the details set out in the marriage or civil partnership correct?",
     "FieldType": "YesOrNo",
@@ -3806,7 +3806,7 @@
   },
   {
     "LiveFrom": "12/12/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8MarriageCertificateCorrectExplain",
     "Label": "Explanation of why marriage or civl partnership details are not correct",
     "FieldType": "Text",
@@ -3814,7 +3814,7 @@
   },
   {
     "LiveFrom": "23/12/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDetails",
     "Label": "Brief details to support the reasons for your application",
     "FieldType": "Text",
@@ -3822,7 +3822,7 @@
   },
   {
     "LiveFrom": "18/12/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LegalProceedingsDetailsCaseNumber",
     "Label": "Case number(s)",
     "FieldType": "Text",
@@ -3830,7 +3830,7 @@
   },
   {
     "LiveFrom": "02/01/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespStatementofTruthSignedDate",
     "Label": "Date Respondent statement of truth signed",
     "FieldType": "Date",
@@ -3838,7 +3838,7 @@
   },
   {
     "LiveFrom": "14/01/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8AppliesForStatementOfTruth",
     "Label": "The Petitioner applies for the following:",
     "FieldType": "MultiSelectList",
@@ -3847,7 +3847,7 @@
   },
   {
     "LiveFrom": "14/01/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8FinancialOrderStatementOfTruth",
     "Label": "That a financial order may be granted for",
     "FieldType": "MultiSelectList",
@@ -3856,7 +3856,7 @@
   },
   {
     "LiveFrom": "14/01/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8FullNameStatementOfTruth",
     "Label": "Full name on Statement of Truth",
     "FieldType": "Text",
@@ -3864,7 +3864,7 @@
   },
   {
     "LiveFrom": "14/01/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8StatementOfTruthSignature",
     "Label": "Has the statement of truth been signed?",
     "FieldType": "YesOrNo",
@@ -3872,7 +3872,7 @@
   },
   {
     "LiveFrom": "14/01/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8StatementOfTruthDate",
     "Label": "Statement of Truth Date",
     "FieldType": "Date",
@@ -3880,7 +3880,7 @@
   },
   {
     "LiveFrom": "14/01/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8SolicitorsFirmStatementOfTruth",
     "Label": "Name of solicitor's firm on Statement of Truth",
     "FieldType": "Text",
@@ -3888,7 +3888,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-AboutSolicitor",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3896,7 +3896,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-AboutPetitioner",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3904,7 +3904,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-AboutRespondent",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3912,7 +3912,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-CertificationDetails",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3920,7 +3920,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-Jurisdiction",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3928,7 +3928,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-ReasonForDivorce",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3936,7 +3936,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-Separation",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3944,7 +3944,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-Desertion",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3952,7 +3952,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-Adultery",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3960,7 +3960,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-AdulteryCoResp",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3968,7 +3968,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-Behaviour",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3976,7 +3976,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-LivedApart",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3984,7 +3984,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-LegalProceedings",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -3992,7 +3992,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-FinancialOrders",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -4000,7 +4000,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-ClaimCosts",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -4008,7 +4008,7 @@
   },
   {
     "LiveFrom": "07/04/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolAboutEditingApplication-UploadMarriageCert",
     "Label": "You can make changes at the end of your application.",
     "FieldType": "Label",
@@ -4016,7 +4016,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespondentSolicitorRepresented",
     "Label": "Is the co-respondent represented by a solicitor?",
     "FieldType": "YesOrNo",
@@ -4024,7 +4024,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespondentSolicitorName",
     "Label": "Co-respondent solicitor's name",
     "FieldType": "Text",
@@ -4032,7 +4032,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespondentSolicitorAddress",
     "Label": "Co-respondent solicitor's address",
     "FieldType": "AddressBaseUk",
@@ -4040,7 +4040,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespondentSolicitorPhone",
     "Label": "Co-respondent solicitor's Phone number",
     "FieldType": "Text",
@@ -4049,7 +4049,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespondentSolicitorEmail",
     "Label": "Co-respondent solicitor's Email",
     "FieldType": "Email",
@@ -4057,7 +4057,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespondentSolicitorCompany",
     "Label": "Name of Co-respondent solicitor's firm",
     "FieldType": "Text",
@@ -4065,7 +4065,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DerivedCoRespondentSolicitorAddr",
     "Label": "Co-respondent solicitor's firm/ DX address",
     "FieldType": "TextArea",
@@ -4073,7 +4073,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespSolAOSSOT",
     "Label": "Solicitor Statement of Truth",
     "HintText": "The solicitor believes that the facts stated in this response are true",
@@ -4082,7 +4082,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelAmendPetitionForRefusalSolPara-1",
     "Label": "## Before you start\r\nIf you’ve been asked to submit an amended application by the courts, this must be completed for the divorce to proceed. Until this application has been completed no further action can be taken.\r\n\r\n",
     "FieldType": "Label",
@@ -4090,7 +4090,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelAmendPetitionForRefusalSolPara-2",
     "Label": "You can also submit an amended application if you’ve made a mistake in the application, but the case has not progressed beyond the ‘acknowledgement of service’ stage.\r\n\r\n",
     "FieldType": "Label",
@@ -4098,7 +4098,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelAmendPetitionForRefusalSolPara-3",
     "Label": "When you start an amended application, the old divorce case will be stopped and a new case will be created. To access the new case go to the 'Linked cases' tab, click on the link to the new case and then select the next step 'Amend divorce application'.\r\n\r\n",
     "FieldType": "Label",
@@ -4106,7 +4106,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelAmendPetitionForRefusalSolPara-4",
     "Label": "The new case will be automatically populated with information from the old case. Please update the parts of the application that need to be different.\r\n\r\n",
     "FieldType": "Label",
@@ -4114,7 +4114,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelAmendPetitionForRefusalSolPara-5",
     "Label": "The fee for an amended application is £95.\r\n\r\n",
     "FieldType": "Label",
@@ -4122,7 +4122,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelAmendPetitionForRefusalSolPara-6",
     "Label": "Once the amended application has been submitted, it will be checked by the courts before being issued to the petitioner’s husband/wife so they can respond.\r\n\r\n",
     "FieldType": "Label",
@@ -4130,7 +4130,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LanguagePreferenceWelsh",
     "Label": "Is the language preference Welsh?",
     "HintText": "Select \"No\" for English or \"Yes\" for bilingual",
@@ -4139,7 +4139,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "WelshNextEvent",
     "Label": "Welsh Next Event",
     "FieldType": "Text",
@@ -4147,7 +4147,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "WelshPreviousState",
     "Label": "Welsh Previous State",
     "FieldType": "Text",
@@ -4155,7 +4155,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "dbPetitionerDetails",
     "Label": "## Petitioner's details",
     "FieldType": "Label",
@@ -4163,7 +4163,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerNameChangedHowOtherDetailsTrans",
     "Label": "Provide details of how they changed their name (Translated)",
     "FieldType": "TextArea",
@@ -4171,7 +4171,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8PetitionerNameChangedHowOtherDetailsTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4180,7 +4180,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceBehaviourDetailsTrans",
     "Label": "Behaviour details (Translated)",
     "FieldType": "TextArea",
@@ -4188,7 +4188,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceBehaviourDetailsTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4197,7 +4197,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-1",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4205,7 +4205,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-2",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4213,7 +4213,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-3",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4221,7 +4221,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-4",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4229,7 +4229,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-5",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4237,7 +4237,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-6",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4245,7 +4245,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-7",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4253,7 +4253,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-8",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4261,7 +4261,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-9",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4269,7 +4269,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-10",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4277,7 +4277,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-11",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4285,7 +4285,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-12",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4293,7 +4293,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-13",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4301,7 +4301,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-14",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4309,7 +4309,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-15",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4317,7 +4317,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-16",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4325,7 +4325,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-17",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4333,7 +4333,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-18",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4341,7 +4341,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOLineSeparator-19",
     "Label": "------------------------------------------------------------------------",
     "FieldType": "Label",
@@ -4349,7 +4349,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryDetailsTrans",
     "Label": "Adultery details (Translated)",
     "FieldType": "TextArea",
@@ -4357,7 +4357,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryDetailsTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4366,7 +4366,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryWhenDetailsTrans",
     "Label": "When the adultery took place (Translated)",
     "FieldType": "TextArea",
@@ -4374,7 +4374,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryWhenDetailsTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4383,7 +4383,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryWhereDetailsTrans",
     "Label": "Details of where the adultery took place (Translated)",
     "FieldType": "TextArea",
@@ -4391,7 +4391,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdulteryWhereDetailsTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4400,7 +4400,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdultery2ndHandDetailsTrans",
     "Label": "Second hand information details (Translated)",
     "FieldType": "TextArea",
@@ -4408,7 +4408,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceAdultery2ndHandDetailsTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4417,7 +4417,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionDetailsTrans",
     "Label": "Desertion details (Translated)",
     "FieldType": "TextArea",
@@ -4425,7 +4425,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8ReasonForDivorceDesertionDetailsTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4434,7 +4434,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LegalProceedingsDetailsTrans",
     "Label": "Legal proceeding details (Translated)",
     "FieldType": "TextArea",
@@ -4442,7 +4442,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "D8LegalProceedingsDetailsTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4451,7 +4451,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "dbRespondentDetails",
     "Label": "## Respondent details",
     "FieldType": "Label",
@@ -4459,7 +4459,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespJurisdictionDisagreeReasonTrans",
     "Label": "Reason respondent disagreed to claimed jurisdiction (Translated)",
     "FieldType": "TextArea",
@@ -4467,7 +4467,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespJurisdictionDisagreeReasonTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4476,7 +4476,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespLegalProceedingsDescriptionTrans",
     "Label": "Legal proceedings details (respondent) (Translated)",
     "FieldType": "TextArea",
@@ -4484,7 +4484,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespLegalProceedingsDescriptionTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4493,7 +4493,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespCostsReasonTrans",
     "Label": "Respondent's costs reason (Translated)",
     "FieldType": "TextArea",
@@ -4501,7 +4501,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespCostsReasonTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4510,7 +4510,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespCostsReasonTrans",
     "Label": "Co-respondent's reason not to pay costs (Translated)",
     "FieldType": "TextArea",
@@ -4518,7 +4518,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespCostsReasonTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4527,7 +4527,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BODecreeNisiDetails",
     "Label": "## Decree Nisi details",
     "FieldType": "Label",
@@ -4535,7 +4535,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionChangedDetailsDNTrans",
     "Label": "Description of changes to petition at DN stage (Translated)",
     "FieldType": "TextArea",
@@ -4543,7 +4543,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionChangedDetailsDNTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4552,7 +4552,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AdulteryTimeLivedTogetherDetailsDNTrans",
     "Label": "Additional details of the living arrangements since finding out about the adultery (Translated)",
     "FieldType": "TextArea",
@@ -4560,7 +4560,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AdulteryTimeLivedTogetherDetailsDNTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4569,7 +4569,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BehaviourTimeLivedTogetherDetailsDNTrans",
     "Label": "Additional details of the living arrangements since the the most recent example of the behaviour (Translated)",
     "FieldType": "TextArea",
@@ -4577,7 +4577,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BehaviourTimeLivedTogetherDetailsDNTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4586,7 +4586,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DesertionTimeLivedTogetherDetailsDNTrans",
     "Label": "Additional living arrangements since the divorce application (Translated)",
     "FieldType": "TextArea",
@@ -4594,7 +4594,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DesertionTimeLivedTogetherDetailsDNTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4603,7 +4603,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CostsDifferentDetailsTrans",
     "Label": "State what the petitioner wants to claim and why (Translated)",
     "FieldType": "TextArea",
@@ -4611,7 +4611,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CostsDifferentDetailsTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4620,7 +4620,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "BOOutcomeOfDecreeNisi",
     "Label": "## Outcome Of Decree Nisi",
     "FieldType": "Label",
@@ -4628,7 +4628,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RefusalRejectionAdditionalInfoWelsh",
     "Label": "Rejection additional information (Translated)",
     "FieldType": "TextArea",
@@ -4636,7 +4636,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RefusalClarificationAdditionalInfoWelsh",
     "Label": "Clarification additional information (Translated)",
     "FieldType": "TextArea",
@@ -4644,7 +4644,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PreviousRefusalRejectionAdditionalInfoWelsh",
     "Label": "Previous refusal rejection information (Translated)",
     "FieldType": "TextArea",
@@ -4652,7 +4652,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CostsOrderAdditionalInfoWelsh",
     "Label": "Additional info (Costs Order) (Translated)",
     "FieldType": "Text",
@@ -4660,7 +4660,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DesertionAskedToResumeDNDetailsTrans",
     "Label": "Please give reasons why they refused: (Translated)",
     "FieldType": "TextArea",
@@ -4668,7 +4668,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "DesertionAskedToResumeDNDetailsTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4677,7 +4677,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SeparationTimeLivedTogetherDetailsDNTrans",
     "Label": "Additional details of the living arrangements since the divorce application. (Translated)",
     "FieldType": "TextArea",
@@ -4685,7 +4685,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "SeparationTimeLivedTogetherDetailsDNTransLang",
     "Label": "Translated To?",
     "FieldType": "FixedRadioList",
@@ -4694,7 +4694,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolPaymentPara-1",
     "Label": "Amount to pay: **£${solApplicationFeeInPounds}**",
     "FieldType": "Label",
@@ -4702,7 +4702,7 @@
   },
   {
     "LiveFrom": "14/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "AmendedCaseId",
     "Label": "Case ID for Amended case",
     "FieldType": "CaseLink",
@@ -4710,7 +4710,7 @@
   },
   {
     "LiveFrom": "14/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PetitionerPcqId",
     "Label": "Petitioner PCQ ID",
     "FieldType": "Text",
@@ -4718,7 +4718,7 @@
   },
   {
     "LiveFrom": "14/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "RespondentPcqId",
     "Label": "Respondent PCQ ID",
     "FieldType": "Text",
@@ -4726,7 +4726,7 @@
   },
   {
     "LiveFrom": "14/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "CoRespondentPcqId",
     "Label": "Co-respondent PCQ ID",
     "FieldType": "Text",
@@ -4734,7 +4734,7 @@
   },
   {
     "LiveFrom": "02/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "LabelSolStatementOTruthPara-4",
     "Label": "## Payment",
     "FieldType": "Label",
@@ -4742,7 +4742,7 @@
   },
   {
     "LiveFrom": "05/10/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "PbaNumbers",
     "Label": "Account number",
     "FieldType": "DynamicList",
@@ -4750,7 +4750,7 @@
   },
   {
     "LiveFrom": "27/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralOrderDate",
     "Label": "Court order date",
     "FieldType": "Date",
@@ -4758,7 +4758,7 @@
   },
   {
     "LiveFrom": "27/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralOrderParties",
     "Label": "Who is the general order for?",
     "HintText": "Select all parties the general order should be made available to",
@@ -4768,7 +4768,7 @@
   },
   {
     "LiveFrom": "27/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralOrderRecitals",
     "Label": "Recitals",
     "FieldType": "TextArea",
@@ -4776,7 +4776,7 @@
   },
   {
     "LiveFrom": "27/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "JudgeType",
     "Label": "Select Judge",
     "FieldType": "FixedList",
@@ -4785,7 +4785,7 @@
   },
   {
     "LiveFrom": "27/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "JudgeName",
     "Label": "Name of Judge",
     "HintText": "Surname of Judge",
@@ -4794,7 +4794,7 @@
   },
   {
     "LiveFrom": "27/08/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralOrderDetails",
     "Label": "General order details",
     "FieldType": "TextArea",
@@ -4802,7 +4802,7 @@
   },
   {
     "LiveFrom": "03/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralOrderDraft",
     "Label": "General Order Draft",
     "FieldType": "Document",
@@ -4810,7 +4810,7 @@
   },
   {
     "LiveFrom": "03/09/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "GeneralOrders",
     "Label": "General Orders",
     "FieldType": "Collection",
@@ -5034,6 +5034,15 @@
     "ID": "LastServiceApplication",
     "Label": "Last service application",
     "FieldType": "DivorceServiceApplication",
+    "SecurityClassification": "Public"
+  },
+  {
+    "LiveFrom": "02/02/2021",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
+    "ID": "divorceOrDissolution",
+    "Label": "Divorce or Dissolution?",
+    "FieldType": "FixedRadioList",
+    "FieldTypeParameter": "divorceOrDissolutionEnum",
     "SecurityClassification": "Public"
   }
 ]

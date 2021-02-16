@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "28/07/2020",
-    "CaseTypeID": "DIVORCE",
+    "CaseTypeID": "NO_FAULT_DIVORCE",
     "ID": "testMoveCaseFromAwaitingServicePaymentToAwaitingServiceConsideration",
     "Name": "Move to AwaitServiceConsid",
     "Description": "TEST ONLY: AwaitingServicePayment to AwaitingServiceConsideration",

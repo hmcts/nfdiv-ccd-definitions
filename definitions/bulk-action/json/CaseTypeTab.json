@@ -1,7 +1,7 @@
 [
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "Channel": "CaseWorker",
     "TabID": "History",
     "TabLabel": "History",
@@ -11,7 +11,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "Channel": "Caseworker",
     "TabID": "BulkListCaseDetails",
     "TabLabel": "bulk listing case details",
@@ -21,7 +21,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "Channel": "Caseworker",
     "TabID": "BulkListCaseDetails",
     "TabLabel": "bulk listing case details",
@@ -31,7 +31,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "Channel": "Caseworker",
     "TabID": "BulkListCaseDetails",
     "TabLabel": "bulk listing case details",
@@ -41,7 +41,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "Channel": "Caseworker",
     "TabID": "BulkListCaseDetails",
     "TabLabel": "bulk listing case details",
@@ -51,7 +51,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "Channel": "Caseworker",
     "TabID": "BulkListCaseDetails",
     "TabLabel": "bulk listing case details",
@@ -61,7 +61,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "Channel": "Caseworker",
     "TabID": "BulkListCaseDetails",
     "TabLabel": "bulk listing case details",
@@ -71,7 +71,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "Channel": "Caseworker",
     "TabID": "BulkListCaseDetails",
     "TabLabel": "bulk listing case details",
@@ -81,7 +81,7 @@
   },
   {
     "LiveFrom": "01/01/2019",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "Channel": "Caseworker",
     "TabID": "BulkListCaseDetails",
     "TabLabel": "bulk listing case details",
@@ -91,7 +91,7 @@
   },
   {
     "LiveFrom": "01/01/2017",
-    "CaseTypeID": "DIVORCE_BulkAction",
+    "CaseTypeID": "NO_FAULT_DIVORCE_BulkAction",
     "Channel": "CaseWorker",
     "TabID": "BulkListDocuments",
     "TabLabel": "Documents",
